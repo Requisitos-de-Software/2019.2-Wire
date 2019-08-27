@@ -1,3 +1,3 @@
-# Requisitos 2019/2 -> Wire App
+# Requisitos 2019/2 -> Aplicação  Wire
 
 > An awesome project.
