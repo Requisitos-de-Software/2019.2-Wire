@@ -4,7 +4,7 @@
 
 |    Data    | Versão |                 Descrição                 |     Autor     |
 | :--------: | :----: | :---------------------------------------: | :-----------: |
-| 26/03/2019 |  0.1   | Criação do documento inicial de políticas | Lucas Fellipe |
+| 27/08/2019 |  0.1   | Criação do documento inicial de políticas | Lucas Fellipe |
 
 Caso você queira contribuir conosco, siga as nossas políticas do repositório:
 
