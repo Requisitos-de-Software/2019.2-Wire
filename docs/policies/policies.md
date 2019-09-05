@@ -13,5 +13,5 @@ Caso você queira contribuir conosco, siga as nossas políticas do repositório:
 
 - [Issues](/docs/policies/issues.md)
 
-- [Pull Request](/docs/policies/pull_request.md)
+- [Pull Request](/docs/policies/pull_requests.md)
 
