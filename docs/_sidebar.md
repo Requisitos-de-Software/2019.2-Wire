@@ -6,6 +6,7 @@
     - [Rich Picture](/docs/rich_picture/rich_picture.md "Rich Picture")
 - [**Elicitação**](docs/elicitation/elicitation.md)
     - [Introspecção](/docs/elicitation/introspeccao.md)
+    - [Entrevista](/docs/elicitation/entrevista.md)
 - [**Políticas**](/docs/policies/policies.md)
 
 - **Links**
