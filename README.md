@@ -1,5 +1,3 @@
-![wire_logo1](https://user-images.githubusercontent.com/37874689/63879159-7f0d3380-c9a1-11e9-91ff-d19791afbcf1.png)
-
 # Wire App
 
 ## Sobre o Projeto

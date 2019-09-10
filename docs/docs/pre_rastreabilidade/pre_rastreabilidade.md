@@ -1,2 +1,2 @@
 # Pré-Rastreabilidade
-[Rich Picture](/docs/rich_picture/rich_picture.md).
+- [<h3>Rich Picture</h2>](/docs/rich_picture/rich_picture.md)
