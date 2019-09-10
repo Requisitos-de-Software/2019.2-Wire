@@ -23,7 +23,7 @@
     <li>De que modo a empresa onde você trabalha armazena os dados de backup?</li>
         <i><b>Resposta:</b> Não fazemos backup de arquivos. Comitamos tudo num repositório gigante.</i>
     <li>Qual o meio de comunicação oficial usado para reuniões não presenciais?</li>
-        <i><b>Resposta:</b>https://mei/et.jit.s</i>
+        <i><b>Resposta:</b> https://mei/et.jit.s</i>
     <li>Como é feita a comunicação interna remota da empresa?</li>
         <i><b>Resposta:</b></i>
         <ul> 
@@ -46,7 +46,7 @@
         <i><li>https://discordapp.com, o qual não é open source.</li></i>
     </ul>
     <li>A empresa em que você trabalha mantém e gerencia seu serviço de mensagem ou usa um serviço de mensagens externamente gerenciado?</li>
-    <i><b>Resposta:</b>Usamos o telegram, o jit.si e o discord, os quais são externamente gerenciados, grátis e open source, com exceção do discord, que é proprietário.</i>
+    <i><b>Resposta:</b> Usamos o telegram, o jit.si e o discord, os quais são externamente gerenciados, grátis e open source, com exceção do discord, que é proprietário.</i>
     <li>Você já ouviu falar do Wire?</li>
     <i><b>Resposta:</b> Não</i>
     <li>Veria a possibilidade de mudar as plataformas de comunicação atuais para uma nova, totalmente open source, multiplataforma e que contenha recursos de mensagens, vídeo chamadas e armazenamento de arquivos na cloud, com foco em segurança, tendo opção de self hosted, cloud managed, com plano grátis para poucos usuários, e planos pagos para situações enterprise?</li>
@@ -72,9 +72,9 @@
     <i><li>Rocket Chat, para a utilização de texto</li></i>
     </ul>
     <li>Os aplicativos utilizados para comunicação são open-source?</li>
-    <i><b>Resposta</b>: O Hangouts é proprietário e o Rocker Chat é open source.</i>
+    <i><b>Resposta:</b> O Hangouts é proprietário e o Rocker Chat é open source.</i>
     <li>A empresa em que você trabalha mantém e gerencia seu serviço de mensagem ou usa um serviço de mensagens externamente gerenciado?</li>
-    <i><b>Resposta:</b>O Hangouts Meet é externamente gerenciado, pago e proprietário, para o uso de vídeo conferência e <i>file share</i></i>. Já o Rocket Chat é internamente gerenciado, grátis e open source.</i>
+    <i><b>Resposta:</b> O Hangouts Meet é externamente gerenciado, pago e proprietário, para o uso de vídeo conferência e <i>file share</i></i>. Já o Rocket Chat é internamente gerenciado, grátis e open source.</i>
     <li>Você já ouviu falar do Wire?</li>
     <i><b>Resposta:</b> Não</i>
     </ul>
@@ -87,17 +87,17 @@
     <li>Qual o meio de comunicação oficial usado para reuniões não presenciais?</li>
     <i><b>Resposta:</b> Geralmente era o Hangouts, porém, dependendo do tipo de reunião, usávamos o jitsi.</i>
     <li>Como é feita a comunicação interna remota da empresa?</li>
-    <i><b>Resposta:</b>Pelo grupo da equipe no Telegram.</i>
+    <i><b>Resposta:</b> Pelo grupo da equipe no Telegram.</i>
     <li>Como é feita a comunicação remota dos funcionários em caso de pareamento ou outro tipo de trabalho em equipe?</li>
-    <i><b>Resposta:</b>Depende da dupla, porém, o mais comum é o Hangouts.</i>
+    <i><b>Resposta:</b> Depende da dupla, porém, o mais comum é o Hangouts.</i>
     <li>Os aplicativos utilizados para comunicação são open-source?</li>
-    <i><b>Resposta:</b>O jitsu, se não me engano, é. O Hangouts, não. E no caso do Telegram, só o Front que é open-source.</i>
+    <i><b>Resposta:</b> O jitsu, se não me engano, é. O Hangouts, não. E no caso do Telegram, só o Front que é open-source.</i>
     <li>A empresa em que você trabalha mantém e gerencia seu serviço de mensagem ou usa um serviço de mensagens externamente gerenciado?</li>
-    <i><b>Resposta:</b>Gerenciado externamente, o Telegram.</i>
+    <i><b>Resposta:</b> Gerenciado externamente, o Telegram.</i>
     <li>Você já ouviu falar do Wire?</li>
     <i><b>Resposta:</b> Nunca ouvi falar do Wire</i>
     <li>Veria a possibilidade de mudar as plataformas de comunicação atuais para uma nova, totalmente open source, multiplataforma e que contenha recursos de mensagens, vídeo chamadas e armazenamento de arquivos na cloud, com foco em segurança, tendo opção de self hosted, cloud managed, com plano grátis para poucos usuários, e planos pagos para situações enterprise?</li>
-    <i><b>Resposta:</b>Pensamos nessa possibilidade, tentando implementar o uso do Rocket Chat. Subimos ele na infra(self host nem foi o problema). Mas a maioria da equipe nem entrava para ver as mensagens que haviam sido enviadas e continuaram usando o telegram.</i>
+    <i><b>Resposta:</b> Pensamos nessa possibilidade, tentando implementar o uso do Rocket Chat. Subimos ele na infra(self host nem foi o problema). Mas a maioria da equipe nem entrava para ver as mensagens que haviam sido enviadas e continuaram usando o telegram.</i>
 </ul>
 
 <h3><strong>Conclusão</strong></h3>
