@@ -1,11 +1,11 @@
 
 # Sobre a Disciplina
 <br>
-<h3><strong>Engenharia de Software</strong></h2>
-<p>Engenharia de Software é uma abordagem sistemática, quantificada e disciplinada para o planejamento, desenvolvimento, manutenção e a construção de um software.</p>
+<h3><strong>Engenharia de Software</strong></h3>
+<p align="justify"> &emsp;&emsp;Engenharia de Software é uma abordagem sistemática, quantificada e disciplinada para o planejamento, desenvolvimento, manutenção e a construção de um software.</p>
 
-<h3><strong>Engenharia de Requisitos</strong></h2>
-<p>Engenharia de requisitos é o processo de determinar a expectativa do usuário para um produto novo ou modificado. Esses recursos chamados requisitos devem ser quantificáveis, relevantes e detalhados. As atividades de engenharia de requisitos podem incluir o início de requisitos, análise de requisitos, modelagem de sistemas, especificação de requisitos, validação de requisitos e gerenciamento de requisitos.</p>
+<h3><strong>Engenharia de Requisitos</strong></h3>
+<p align="justify"> &emsp;&emsp;Engenharia de requisitos é o processo de determinar a expectativa do usuário para um produto novo ou modificado. Esses recursos chamados requisitos devem ser quantificáveis, relevantes e detalhados. As atividades de engenharia de requisitos podem incluir o início de requisitos, análise de requisitos, modelagem de sistemas, especificação de requisitos, validação de requisitos e gerenciamento de requisitos.</p>
 
 <h3><strong>Grupo 2</strong></h2>
 

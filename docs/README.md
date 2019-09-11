@@ -3,7 +3,7 @@
 
 ## Sobre o Projeto
 
-Repositório destinado à disciplina de Requisitos de Software da Universidade de Brasília acerca do Wire App. Reserva-se a armazenar e apresentar os artefatos e processos desenvolvidos na disciplina, tais como Pré-Rastreablidade, Elicitação, Modelagem, Análise e Pós-Rastreabilidade para que sejam levantados os requisitos não funcionais e funcionais da aplicação.
+<p align="justify"> &emsp;&emsp;Repositório destinado à disciplina de Requisitos de Software da Universidade de Brasília acerca do Wire App. Reserva-se a armazenar e apresentar os artefatos e processos desenvolvidos na disciplina, tais como Pré-Rastreablidade, Elicitação, Modelagem, Análise e Pós-Rastreabilidade para que sejam levantados os requisitos não funcionais e funcionais da aplicação.</p>
 
 <h3 class="display-1 sub-title2">Time</h3>
 
