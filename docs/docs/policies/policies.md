@@ -1,7 +1,6 @@
 # Políticas
 
 
-
 |    Data    | Versão |                 Descrição                 |     Autor     |
 | :--------: | :----: | :---------------------------------------: | :-----------: |
 | 27/08/2019 |  0.1   | Criação do documento inicial de políticas | Lucas Fellipe |

@@ -14,7 +14,7 @@
     <li>Os aplicativos utilizados para comunicação são open-source?</li>
     <li>A empresa em que você trabalha mantém e gerencia seu serviço de mensagem ou usa um serviço de mensagens externamente gerenciado?</li>
     <li>Você já ouviu falar do <i>Wire</i>?</li>
-    <li>Se sim, já cogitou usar? Se não, veria a possibilidade de mudar as plataformas de comunicação atuais para uma nova, totalmente open source, multiplataforma e que contenha recursos de mensagens, vídeos chamada e armazenamento de arquivos na cloud, com foco em segurança, tendo opção de self hosted, cloud managed, com plano grátis para poucos usuários, e planos pagos para situações enterprise?</li>
+    <li>Se sim, já cogitou usar? Se não, veria a possibilidade de mudar as plataformas de comunicação atuais para uma nova, totalmente open source, multiplataforma e que contenha recursos de mensagens, vídeos chamada e armazenamento de arquivos na <i>cloud</i>, com foco em segurança, tendo opção de <i>self hosted</i>, <i>cloud managed</i>, com plano grátis para poucos usuários, e planos pagos para situações enterprise?</li>
 </ul>
 <p><b> Os resultados obtidos foram os seguintes:</b></p>
 
@@ -49,7 +49,7 @@
     <i><b>Resposta:</b> Usamos o telegram, o jit.si e o discord, os quais são externamente gerenciados, grátis e open source, com exceção do discord, que é proprietário.</i>
     <li>Você já ouviu falar do Wire?</li>
     <i><b>Resposta:</b> Não</i>
-    <li>Veria a possibilidade de mudar as plataformas de comunicação atuais para uma nova, totalmente open source, multiplataforma e que contenha recursos de mensagens, vídeo chamadas e armazenamento de arquivos na cloud, com foco em segurança, tendo opção de self hosted, cloud managed, com plano grátis para poucos usuários, e planos pagos para situações enterprise?</li>
+    <li>Veria a possibilidade de mudar as plataformas de comunicação atuais para uma nova, totalmente open source, multiplataforma e que contenha recursos de mensagens, vídeo chamadas e armazenamento de arquivos na <i>cloud</i>, com foco em segurança, tendo opção de <i>self hosted</i>, <i>cloud</i> managed, com plano grátis para poucos usuários, e planos pagos para situações enterprise?</li>
     <i><b>Resposta:</b> Sim </i>
 </ul>
 
@@ -96,13 +96,13 @@
     <i><b>Resposta:</b> Gerenciado externamente, o Telegram.</i>
     <li>Você já ouviu falar do Wire?</li>
     <i><b>Resposta:</b> Nunca ouvi falar do Wire</i>
-    <li>Veria a possibilidade de mudar as plataformas de comunicação atuais para uma nova, totalmente open source, multiplataforma e que contenha recursos de mensagens, vídeo chamadas e armazenamento de arquivos na cloud, com foco em segurança, tendo opção de self hosted, cloud managed, com plano grátis para poucos usuários, e planos pagos para situações enterprise?</li>
+    <li>Veria a possibilidade de mudar as plataformas de comunicação atuais para uma nova, totalmente open source, multiplataforma e que contenha recursos de mensagens, vídeo chamadas e armazenamento de arquivos na <i>cloud</i>, com foco em segurança, tendo opção de <i>self hosted</i>, <i>cloud</i> managed, com plano grátis para poucos usuários, e planos pagos para situações enterprise?</li>
     <i><b>Resposta:</b> Pensamos nessa possibilidade, tentando implementar o uso do Rocket Chat. Subimos ele na infra(self host nem foi o problema). Mas a maioria da equipe nem entrava para ver as mensagens que haviam sido enviadas e continuaram usando o telegram.</i>
 </ul>
 
 <h3><strong>Conclusão</strong></h3>
-<p align="justify"> &emsp;&emsp;A partir das entrevistas e de pesquisas elaboradas em cima do que foi explicitado, concluiu-se que o englobamento de diversas funcionalidades em um único aplicativo é um grande diferencial do Wire, apesar das empresas oferecerem pacotes que suprem essa necessidade, como o <a href=https://gsuite.google.com.br/intl/pt-BR/>GSuite</a>, isso não permite que o usuário resolva tudo em uma única plataforma.</p>
-<p align="justify"> &emsp;&emsp;Outro aspecto, que entra como diferencial, é a oferta do serviço self hosted e cloud managed, que dá liberdade ao cliente escolher o que prefere e como prefere utilizar as funcionalidades oferecidas. Isso só é possível devido ao fato de o produto ser open-source que, apesar de não ser um requisito, foi de suma importância na explicitação das funcionalidades.</p>
+<p align="justify"> &emsp;&emsp;A partir das entrevistas e de pesquisas elaboradas em cima do que foi explicitado, concluiu-se que o englobamento de diversas funcionalidades em um único aplicativo é um grande diferencial do Wire, apesar das empresas oferecerem pacotes que suprem essa necessidade, como o <a href=https://gsuite.google.com.br/intl/pt-BR/>GSuite</a>, porém, isso não permite que o usuário resolva tudo em uma única plataforma.</p>
+<p align="justify"> &emsp;&emsp;Outro aspecto, que entra como diferencial, é a oferta do serviço <i>self hosted</i> e <i>cloud managed</i>, que dá liberdade ao cliente escolher o que prefere e como prefere utilizar as funcionalidades oferecidas. Isso só é possível devido ao fato de o produto ser open-source que, apesar de não ser um requisito, foi de suma importância na explicitação das funcionalidades.</p>
 <p align="justify"> &emsp;&emsp;Entretanto, a implantação de um novo sistema de comunicação em um ambiente já padronizado com outros aplicativos é uma tarefa muito difícil, como pode ser visto entre as respostas da entrevista 3. Fato que deve ser encarado como uma barreira na utilização do aplicativo, ao ter que retirar o usuário de sua zona de conforto.</p>
 
 
