@@ -34,9 +34,9 @@
     <li>Como é feita a comunicação remota dos funcionários em caso de pareamento ou outro tipo de trabalho em equipe?</li>
         <i><b>Resposta:</b></i>
         <ul> 
-        <i><li>https://meet.jit.si/, no qual utilizamos para reuniões que exijam compartilhamento de telas;</li></i>
-        <i><li>https://telegram.org/, no qual utilizamos para comunição via texto;</li></i>  
-        <i><li>https://discordapp.com, no qual utilizamos para somente usar o áudio.</li></i>
+        <i><li><a href='https://meet.jit.si/'>meet.jit.si</a> , no qual utilizamos para reuniões que exijam compartilhamento de telas;</li></i>
+        <i><li><a href='https://telegram.org/'>telegram.org</a>, no qual utilizamos para comunição via texto;</li></i>  
+        <i><li><a href='https://discordapp.com'>discordapp.com</a>, no qual utilizamos para somente usar o áudio.</li></i>
         </ul>
     <li>Os aplicativos utilizados para comunicação são open-source?</li>
     <i><b>Resposta:</b></i>

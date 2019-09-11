@@ -2,11 +2,8 @@
 - [**Principal**](/)
 - [**Disciplina**](/docs/discipline/about_discipline.md)
 - [**Metodologia**](/docs/methodology/methodology.md)
-- [**Pré-Rastreabilidade**](/docs/pre_rastreabilidade/pre_rastreabilidade.md "Pré Rastreabilidade")
-    - [Rich Picture](/docs/rich_picture/rich_picture.md "Rich Picture")
+- [**Pré-Rastreabilidade**](/docs/pre_rastreabilidade/pre_rastreabilidade.md "Pré Rastreabilidade")    
 - [**Elicitação**](docs/elicitation/elicitation.md)
-    - [Introspecção](/docs/elicitation/introspeccao.md)
-    - [Entrevista](/docs/elicitation/entrevista.md)
 - [**Políticas**](/docs/policies/policies.md)
 
 - **Links**
