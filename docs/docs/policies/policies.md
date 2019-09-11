@@ -15,3 +15,13 @@ Caso você queira contribuir conosco, siga as nossas políticas do repositório:
 
 - [Pull Request](/docs/policies/pull_requests.md)
 
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style src='docs/docs/assets/css/table.css'>
+</style>
+<link rel="stylesheet" href="docs/assets/css/table.css">
+</head>
+</html> 
