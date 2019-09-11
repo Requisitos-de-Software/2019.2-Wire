@@ -17,3 +17,14 @@
 | Iuri de Souza Severo Alves | 17/0145514 | iurisevero | nobreiuri@gmail.com |
 | João Pedro José Santos da Silva Guedes | 17/0013910 | sudjoao | isudjoao@gmail.com |
 | Lucas Fellipe Carvalho Moreira | 16/0133394 | lucasfcm9 | lucasfcm9@gmail.com |
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style src='docs/docs/assets/css/table.css'>
+</style>
+<link rel="stylesheet" href="docs/assets/css/table.css">
+</head>
+</html> 
+
