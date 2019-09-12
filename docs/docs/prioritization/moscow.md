@@ -8,7 +8,7 @@
 | RF2 | O usuário poderá realizar chamadas de vídeo em grupo e particular| SHOULD |
 | RF3 | Envio e compartilhamento de arquivos em geral | MUST |
 | RF4 | Gerenciamento amplo de cadastro e grupos | MUST |
-| RF5 | Definir tempo que mensagens ficaram disponíveis para visualização | COULD |
+| RF5 | Definir tempo que as mensagens ficarão disponíveis para visualização | COULD |
 
 ### Requisitos não funcionais
 
