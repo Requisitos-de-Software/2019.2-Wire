@@ -14,7 +14,7 @@
 
 | ID | Descrição | Prioridade |
 | --- | --- | --- |
-| RNF1 | O usuário deverá utilizar a aplicação de forma segura | MUST |
+| RNF1 | A aplicação fornecerá criptografia de ponta-a-ponta. | MUST |
 | RNF2 | O usuário poderá cadastrar, configurar e utilizar até 8 contas simultâneamente | SHOULD |
 | RNF3 | Aplicação disponível ao usuário em todas as plataformas | SHOULD |
 | RNF4 | Proteção total aos dados do usuário | MUST |
