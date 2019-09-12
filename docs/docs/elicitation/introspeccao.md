@@ -49,7 +49,7 @@ Deve ser possível definir o tempo que a mensagem ficará disponível para visua
 Deve editar informações do grupo e adicionar ou excluir participantes.</p>
 
 <h3><strong>Ajustes:</strong></h2>
-<p>Deve possível excluir a conta.<br>
+<p>Deve ser possível excluir a conta.<br>
 Deve ser possível alterar o tema da aplicação.<br>
 Deve ser possível alterar as permissões do usuário.<br>
 Deve ser possível realizar o backup de conversas.<br>
