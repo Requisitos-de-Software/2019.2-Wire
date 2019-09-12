@@ -4,6 +4,16 @@
 |:----------:|:------:|:--------------------:|:-----------------:|
 | 04/09/2019 | 0.1 | Criação do documento com template inicial  | Lucas Fellipe, Guilherme Mendes, Caio Vinicius, Gabriel Alves, João Pedro e Iuri Severo |
 
+
+<!DOCTYPE html>
+<html>
+<head>
+<style src='docs/docs/assets/css/table.css'>
+</style>
+<link rel="stylesheet" href="docs/assets/css/table.css">
+</head>
+</html> 
+
 Os *Pull Requests* devem seguir o seguinte formato:
 * O *Pull Request* deve indicar em seu título o número e nome da issue, ao qual a issue se refere.
 
@@ -34,5 +44,3 @@ Neste pull request se realizou:
 * Deve conter ```Labels```, em que adicionam-se as labels referentes ao *pull request*, de forma similar às da *issue* correspondente.
 
 * Deve conter a ```Issue```, em que após a criação do *pull request*, deve-se conectar ele à sua *issue* correspondente através da interface do Github.
-
-
