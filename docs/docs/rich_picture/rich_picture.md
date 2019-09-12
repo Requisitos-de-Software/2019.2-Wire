@@ -17,45 +17,45 @@ Desenvolver uma *Rich Picture* é um bom exercício de grupo, devido ao fato de 
 * Faremos um compilado de todos os desenhos e uniremos o melhor de cada implementação em uma *Rich Picture* final.
 * Posteriormente, implementaremos novas *Rich Picture's* das funcionalidades da aplicação Wire.
 
-## Rich Picture v0.0
+## Rich Picture v0
 <img src="docs/rich_picture/images/Caio.png">
 <br>
-<b>Título:</b> <i>Rich Picture</i> v0.0
+<b>Título:</b> <i>Rich Picture</i> v0
 <br>
 <b>Autor:</b> Caio Fernandes
 
 
-## Rich Picture v0.1
+## Rich Picture v1
 <img src="docs/rich_picture/images/Gabriel.jpg">
 <br>
-<b>Título:</b> <i>Rich Picture</i> v0.1
+<b>Título:</b> <i>Rich Picture</i> v1
 <br>
 <b>Autor:</b> Gabriel Alves
 
-## Rich Picture v0.2
+## Rich Picture v2
 <img src="docs/rich_picture/images/Guilherme.jpg">
 <br>
-<b>Título:</b> <i>Rich Picture</i> v0.2
+<b>Título:</b> <i>Rich Picture</i> v2
 <br>
 <b>Autor:</b> Guilherme Mendes
 
-## Rich Picture v0.3
+## Rich Picture v3
 <img src="docs/rich_picture/images/Lucas.jpg">
 <br>
-<b>Título:</b> <i>Rich Picture</i> v0.3
+<b>Título:</b> <i>Rich Picture</i> v3
 <br>
 <b>Autor:</b> Lucas Fellipe
 
-## Rich Picture v0.4
+## Rich Picture v4
 <img src="docs/rich_picture/images/Iuri.jpg">
 <br>
-<b>Título:</b> <i>Rich Picture</i> v0.4
+<b>Título:</b> <i>Rich Picture</i> v4
 <br>
 <b>Autor:</b> Iuri Severo
 
-## Rich Picture v0.5
+## Rich Picture v5
 <img src="docs/rich_picture/images/Joao.png">
 <br>
-<b>Título:</b> <i>Rich Picture</i> v0.5
+<b>Título:</b> <i>Rich Picture</i> v5
 <br>
 <b>Autor:</b> João Pedro José

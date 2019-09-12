@@ -20,3 +20,21 @@ table {
   td:nth-child(4), th:nth-child(1) {
       border-left: solid 1px silver;
   }
+td:nth-child(5), th:nth-child(1) {
+    border-left: solid 1px silver;
+}
+td:nth-child(6), th:nth-child(1) {
+    border-left: solid 1px silver;
+}
+td:nth-child(7), th:nth-child(1) {
+    border-left: solid 1px silver;
+}
+td:nth-child(8), th:nth-child(1) {
+    border-left: solid 1px silver;
+}
+td:nth-child(9), th:nth-child(1) {
+    border-left: solid 1px silver;
+}
+td:nth-child(10 ), th:nth-child(1) {
+    border-left: solid 1px silver;
+}
