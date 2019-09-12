@@ -4,6 +4,7 @@
 - [**Metodologia**](/docs/methodology/methodology.md)
 - [**Pré-Rastreabilidade**](/docs/pre_rastreabilidade/pre_rastreabilidade.md "Pré Rastreabilidade")    
 - [**Elicitação**](docs/elicitation/elicitation.md)
+- [**Priorização**](docs/prioritization/prioritization.md)
 - [**Políticas**](/docs/policies/policies.md)
 
 - **Links**
