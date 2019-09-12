@@ -4,6 +4,14 @@
 | :----------: | :----: | :--------------------------------------------------: | :----------------------------------------------------------: |
 | 28/08/2019 |  0.1   | Criação do documento com template de Commits inicial | Lucas Fellipe, Guilherme Mendes, Caio Vinicius, Gabriel Alves, João Pedro e Iuri Severo |
 
+<!DOCTYPE html>
+<html>
+<head>
+<style src='docs/docs/assets/css/table.css'>
+</style>
+<link rel="stylesheet" href="docs/assets/css/table.css">
+</head>
+</html> 
 
 Os *commits* devem seguir o seguinte padrão:
 

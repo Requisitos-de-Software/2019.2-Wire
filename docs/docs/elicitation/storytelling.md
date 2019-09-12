@@ -60,7 +60,6 @@ Por fim, gostamos muito do Wire, pois supria todas as nossas necessidades além 
 </table>
 
 <hr style="height:2px; border:none; color:#000; background-color:#000; margin-top: 0px; margin-bottom: 0px;"/>
-
 <table style="width:100%">
   <tr>
     <th colspan="2"><b>Persona</b></th>

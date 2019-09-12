@@ -4,6 +4,15 @@
 |:----------:|:------:|:--------------------:|:-----------------:|
 | 04/09/2019 | 0.1 | Criação do documento com template inicial  | Lucas Fellipe, Guilherme Mendes, Caio Vinicius, Gabriel Alves, João Pedro e Iuri Severo |
 
+<!DOCTYPE html>
+<html>
+<head>
+<style src='docs/docs/assets/css/table.css'>
+</style>
+<link rel="stylesheet" href="docs/assets/css/table.css">
+</head>
+</html> 
+
 As *branches* devem seguir o seguinte formato:
 * O nome da *branch* deve estar relacionado com a *issue*.
 

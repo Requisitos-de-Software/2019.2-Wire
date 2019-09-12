@@ -18,11 +18,11 @@
 
 
 # Metodologia
-Nesta páginas serão apresentadas as ferramentas que utilizaremos para a comunicação, organização de arquivos e controle de terefas entre os membros do grupo.
+Nesta página serão apresentadas todas as ferramentas que utilizaremos para a comunicação, organização de arquivos e controle de tarefas entre os membros do grupo.
 
 ## Comunicação
 <h3><strong>Telegram</strong></h2>
-<p>Utilizado para troca rápida de mensagens entre membros do grupo.</p>
+<p>O Telegram é utilizado para troca de mensagens rápidas entre os membros do grupo.</p>
 <div class="polaroid">
 <img src="docs/assets/img/product/methodoly_pictures/telegram.png" width = 500>
 </div>
@@ -30,7 +30,7 @@ Nesta páginas serão apresentadas as ferramentas que utilizaremos para a comuni
 <br>
 <br>
 <h3><strong>Wire</strong></h2>
-<p>Assim como o telegram, utilizado para troca de mensagens rápidas, porém, traz algumas funcionalidades adicionais como chamada de vídeo em grupo e segurança na troca dos dados.</p>
+<p>Assim como o telegram, o Wire também é utilizado para trocas de mensagens rápidas, porém, ele traz algumas funcionalidades adicionais, como chamada de vídeo em grupo e segurança na troca dos dados.</p>
 <div class="polaroid">
 <img src="docs/assets/img/product/methodoly_pictures/wire.png" width = 500>
 </div>
@@ -38,7 +38,7 @@ Nesta páginas serão apresentadas as ferramentas que utilizaremos para a comuni
 <br>
 <br>
 <h3><strong>Hangouts</strong></h2>
-<p>Utilizamos o google hangouts para reuniões remotas.</p>
+<p>O Google Hangouts é utilizado para reuniões remotas.</p>
 <img src="docs/assets/img/product/methodoly_pictures/hangouts.png" width = 500>
 <br>
 <br>
@@ -46,7 +46,7 @@ Nesta páginas serão apresentadas as ferramentas que utilizaremos para a comuni
 
 ## Organização de Arquivos
 <h3><strong>Google Drive</strong></h2>
-<p>Utilizamos Google drive para compartilhamento de arquivos referentes ao projeto.</p>
+<p>O Google Drive é utilizado para o compartilhamento de arquivos referentes ao projeto.</p>
 <div class="polaroid">
 <img src="docs/assets/img/product/methodoly_pictures/drive.png" width = 500>
 </div>
@@ -56,7 +56,7 @@ Nesta páginas serão apresentadas as ferramentas que utilizaremos para a comuni
 
 ## Controle de Tarefas
 <h3><strong>Issues no Github/Zenhub</strong></h2>
-<p>Utilizamos as issues do Github juntamente com as ferramentas do Zenhub para gerenciamento das tarefas.</p>
+<p>Utilizamos as issues do GitHub juntamente com as ferramentas do ZenHub para o gerenciamento das tarefas.</p>
 <div class="polaroid">
 <img src="docs/assets/img/product/methodoly_pictures/zenhub.png" width = 900>
 </div>
