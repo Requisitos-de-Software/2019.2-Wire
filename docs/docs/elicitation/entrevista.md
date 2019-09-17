@@ -1,4 +1,9 @@
-<h2><strong>Entrevista</strong><h2>
+# Entrevista
+
+| Data | Versão | Descrição | Autor |
+| --- | --- | --- | --- |
+| 10/09/2019 | 1.0 | Criação da Entrevista  | Iuri Severo |
+
 <h3><strong>Introdução</strong></h3>
 <p align="justify"> &emsp;&emsp;Na área de Requisitos de Software existe uma técnica chamada entrevista, que consiste em encontrar os requisitos ideais para o sistema. Dessa forma, o entrevistador define algumas perguntas a serem respondidas pelo entrevistado, permitindo que o entrevistador adquira informações de caráter subjetivo. A entrevista é uma ótima ferramenta para aproximar o engenheiro de requisitos e o usuário, permitindo que o usuário atue no sistema.</p>
 
@@ -105,7 +110,17 @@
 <p align="justify"> &emsp;&emsp;Outro aspecto, que entra como diferencial, é a oferta do serviço <i>self hosted</i> e <i>cloud managed</i>, que dá liberdade ao cliente escolher o que prefere e como prefere utilizar as funcionalidades oferecidas. Isso só é possível devido ao fato de o produto ser open-source que, apesar de não ser um requisito, foi de suma importância na explicitação das funcionalidades.</p>
 <p align="justify"> &emsp;&emsp;Entretanto, a implantação de um novo sistema de comunicação em um ambiente já padronizado com outros aplicativos é uma tarefa muito difícil, como pode ser visto entre as respostas da entrevista 3. Fato que deve ser encarado como uma barreira na utilização do aplicativo, ao ter que retirar o usuário de sua zona de conforto.</p>
 
-
+<!DOCTYPE html>
+<html>
+<head>
+<style src='docs/docs/assets/css/table.css'>
+table {
+  width: 100%;
+}
+</style>
+<link rel="stylesheet" href="docs/assets/css/table.css">
+</head>
+</html> 
 
 
 

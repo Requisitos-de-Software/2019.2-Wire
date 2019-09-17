@@ -1,4 +1,8 @@
-<h2><b>Storytelling</b></h2>
+# Storytelling
+
+| Data | Versão | Descrição | Autor |
+| --- | --- | --- | --- |
+| 10/09/2019 | 1.0 | Criação do Storytelling | Gabriel Alves |
 
 <h4><b>Definição</b></h4>
 <p align="justify">
@@ -96,3 +100,15 @@ Concluindo, o Wire se espalhou por toda a empresa deixando o trabalho muito mais
     </td>    
   </tr>
 </table>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style src='docs/docs/assets/css/table.css'>
+table {
+  width: 100%;
+}
+</style>
+<link rel="stylesheet" href="docs/assets/css/table.css">
+</head>
+</html>
