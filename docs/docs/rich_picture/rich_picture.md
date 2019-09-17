@@ -1,5 +1,12 @@
 # Rich Picture 
 
+| Data | Versão | Descrição | Autor |
+| --- | --- | --- | --- |
+| 27/08/2019 | 1.0 | Criação do documento  | Caio Fernandes |
+| 28/08/2019 | 2.0 | Rich Pictures v0, v1, v2, v3, v4  | Grupo |
+| 01/09/2019 | 3.0 | Rich Picture v5 | João Pedro |
+
+
 ### O que é uma *Rich Picture*?
 Uma *Rich Picture* é um desenho de uma situação que ilustra os principais elementos e relacionamentos que precisam ser considerados na tentativa de intervir para criar alguma melhoria. Consiste em figuras, texto, símbolos e ícones, todos usados para ilustrar graficamente a situação. É chamado de *Rich Picture*, porque ilustra a riqueza e a complexidade de uma situação.
 
@@ -59,3 +66,15 @@ Desenvolver uma *Rich Picture* é um bom exercício de grupo, devido ao fato de 
 <b>Título:</b> <i>Rich Picture</i> v5
 <br>
 <b>Autor:</b> João Pedro José
+
+<!DOCTYPE html>
+<html>
+<head>
+<style src='docs/docs/assets/css/table.css'>
+table {
+  width: 100%;
+}
+</style>
+<link rel="stylesheet" href="docs/assets/css/table.css">
+</head>
+</html> 

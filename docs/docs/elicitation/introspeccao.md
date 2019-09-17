@@ -1,4 +1,8 @@
-<h2><strong>Introspecção V1</strong><h2>
+# Introspecção v1
+
+| Data | Versão | Descrição | Autor |
+| --- | --- | --- | --- |
+| 09/09/2019 | 1.0 | Criação da Introspecção  | Guilherme Mendes |
 
 <h3><strong>Introdução</strong></h2>
 <p align="justify"> &emsp;&emsp;Na técnica de introspecção o Engenheiro de Requisitos “imagina” que tipo de sistema é necessário para realizar o trabalho exigido ou usando o equipamento disponível. A introspecção é um método contribui para o entendimento de quais propriedades um sistema deve apresentar para ter sucesso.</p>
@@ -58,5 +62,15 @@ Deve ser possível modificar opções de notificações.<br>
 Deve ser possível alterar alertas.<br>
 Deve ser possível entrar em contato com o suporte, reportar falhas e visualizar termos de privacidade.</p>
 
-
+<!DOCTYPE html>
+<html>
+<head>
+<style src='docs/docs/assets/css/table.css'>
+table {
+  width: 100%;
+}
+</style>
+<link rel="stylesheet" href="docs/assets/css/table.css">
+</head>
+</html> 
 

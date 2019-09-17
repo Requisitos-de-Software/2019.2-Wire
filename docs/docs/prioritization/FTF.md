@@ -1,5 +1,8 @@
 # First Things First v1
 
+| Data | Versão | Descrição | Autor |
+| --- | --- | --- | --- |
+| 11/09/2019 | 1.0 | Criação do FTF  | Caio Fernandes |
 
 | Funcionalidade | Benefício Relativo | Penalidade Relativa | Valor Total | Valor % |Custo Relativo| Custo % | Risco Relativo | Risco % | Prioridade |  
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |  --- |
