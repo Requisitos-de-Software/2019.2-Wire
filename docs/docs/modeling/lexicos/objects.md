@@ -16,7 +16,7 @@
 | **Nome**  |   Aúdio    |
 | **Classificação** | Objeto |
 | **Sinônimos** | Mensagem de voz|
-| **Noção**     | Forma de comunicação através da reprodução de sons.|
+| **Noção**     | Forma de comunicação através da reprodução de sons|
 | **Impacto**   | [Enviar mensagem]()<br>[Selecionar Mensagem]()<br>[Definir quanto tempo a mensagem fica visivel]()<br>[Apagar Mensagem]()<br>[Encaminhar mensagem]()<br> [Iniciar aúdio]()<br>[Pausar aúdio]()<br>[Navegar por qualquer ponto do aúdio]()|
 
 ## Imagem
@@ -45,7 +45,7 @@
 | **Nome**  |   Vídeo    |
 | **Classificação** | Objeto |
 | **Sinônimos** | |
-| **Noção**     | Forma de comunicação audiovisual.|
+| **Noção**     | Forma de comunicação audiovisual|
 | **Impacto**   | [Enviar mensagem]()<br>[Selecionar Mensagem]()<br>[Definir quanto tempo a mensagem fica visivel]()<br>[Apagar Mensagem]()<br>[Encaminhar mensagem]()|
 
 
@@ -56,7 +56,7 @@
 | **Nome**  |   Chamada    |
 | **Classificação** | Objeto |
 | **Sinônimos** | Ligação|
-| **Noção**     | Forma de comunicação entre duas ou mais pessoas, podendo ser [chamada de voz](#Chamada-de-voz) ou [chamada de vídeo]()|
+| **Noção**     | Forma de comunicação entre duas ou mais pessoas, podendo ser [chamada de voz](#Chamada-de-voz) ou [chamada de vídeo](#Chamada-de-vídeo)|
 | **Impacto**   | [Fazer chamada]()<br>[Adicionar pessoas a chamada]()<br>[Entrar em chamada já existente]()<br>[Mutar o microfone]()<br>[Ligar o microfone]()<br>[Ligar câmera]()<br>[Desligar câmera]()<br>[Sair da chamada]()|
 
 ## Chamada de voz
@@ -76,3 +76,68 @@
 | **Sinônimos** | Videochamada|
 | **Noção**     | Forma de comunicação entre duas ou mais pessoas de forma audiovisual, podendo ser utilizada a [câmera]()
 | **Impacto**   | [Fazer chamada]()<br>[Adicionar pessoas a chamada]()<br>[Entrar em chamada já existente]()<br>[Mutar o microfone]()<br>[Ligar o microfone]()<br>[Ligar câmera]()<br>[Desligar câmera]()<br>[Sair da chamada]()|
+
+## Microfone
+|           |               |
+|-----------|---------------|
+| **Nome**  |Microfone|
+| **Classificação** | Objeto |
+| **Sinônimos** | |
+| **Noção**     | Objeto utilizado para comunicação de aúdio e audiovisual| 
+| **Impacto**   | [Ligar o microfone]()<br>[Desligar microfone]()<br>[Fazer chamada]()<br>[Enviar aúdio]()|
+
+## Câmera
+|           |               |
+|-----------|---------------|
+| **Nome**  |Câmera|
+| **Classificação** | Objeto |
+| **Sinônimos** | |
+| **Noção**     | Objeto utilizado para comunicação visual e audiovisual| 
+| **Impacto**   | [Ligar câmera]()<br>[Desligar câmera]()<br>[Fazer chamada]()<br>[Enviar foto ou vídeo]()|
+
+## Arquivo
+|           |               |
+|-----------|---------------|
+| **Nome**  |Arquivo|
+| **Classificação** | Objeto |
+| **Sinônimos** | |
+| **Noção**     |Documento que pode ser do tipo aúdio, foto, vídeo, texto entre outros | 
+| **Impacto**   | [Enviar arquivo]()<br>[Baixar arquivo]()|
+
+
+## Usuário
+|           |               |
+|-----------|---------------|
+| **Nome**  |Usuário|
+| **Classificação** | Objeto |
+| **Sinônimos** ||
+| **Noção**     |Pessoa que utiliza a aplicação e possui uma [conta de usuário](#conta-de-usuário)| 
+| **Impacto**   | Tem acesso a todas as funcionalidades do aplicativo|
+
+## Conta de usuário
+|           |               |
+|-----------|---------------|
+| **Nome**  |Conta de usuário|
+| **Classificação** | Objeto |
+| **Sinônimos** |Conta|
+| **Noção**     |Onde ficam todos os dados do usuário, criada após o [cadastrar]()| 
+| **Impacto**   | [Criar conta]()<br>[Tornar usuário]()<br>[Deletar conta]()|
+
+## Nome de usuário
+|           |               |
+|-----------|---------------|
+| **Nome**  |Nome de usuário|
+| **Classificação** | Objeto |
+| **Sinônimos** | Nickname, username, user|
+| **Noção**     |Nome pelo qual o usuário pode ser referenciado| 
+| **Impacto**   |[Referenciar por nome de usuário]()<br>[Adicionar pessoas]()|
+
+
+## Administrador
+|           |               |
+|-----------|---------------|
+| **Nome**  |Administrador|
+| **Classificação** | Objeto |
+| **Sinônimos** | Admin, adm|
+| **Noção**     |Usuário com permissões em um grupo| 
+| **Impacto**   |[Adicionar membro no grupo]()<br>[Remover usuário do grupo]()<br>[Conceder cargo às pessoas]()<br>[Retirar cargo das pessoas]()|
