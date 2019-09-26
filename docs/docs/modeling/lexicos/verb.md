@@ -140,7 +140,7 @@
 |-----------|---------------|
 | **Nome**  |   Editar foto   |
 | **Classificação** | Verbo |
-| **Sinônimos** | Alterar características da foto |
+| **Sinônimos** | Alterar características da foto, editar imagem |
 | **Noção**     | Tarefa realizada pelo usuário <br> Acontece quando o usuário quer enviar uma foto e precisa destacar algo importante na foto |
 | **Impacto**   | Facilidade do usuário ver algo importante na foto |
 
@@ -180,13 +180,31 @@
 | **Noção**     | Tarefa realizada pelo usuário <br> Acontece quando o usuário quer encaminhar uma mensagem de outra conversa para um usuário de forma rápida |
 | **Impacto**   | Maior facilidade de enviar mensagens ao invés de ficar copiando e colando a mensagem em outra conversa <br> Usuários recebem mensagens encaminhadas de outras conversas |
 
+## Ligar Microfone
+|           |               |
+|-----------|---------------|
+| **Nome**  |   Ligar microfone   |
+| **Classificação** | Verbo |
+| **Sinônimos** |  |
+| **Noção**     | Tarefa realizada pelo usuário <br> Acontece quando o usuário entra na chamada e liga o microfone <br> Acontece já está na chamada e resolve ligar o microfone previamente desligado|
+| **Impacto**   | O usuário consegue se comunicar de forma auditiva |
+
+## Ligar câmera
+|           |               |
+|-----------|---------------|
+| **Nome**  |   ligar câmera   |
+| **Classificação** | Verbo |
+| **Sinônimos** | Ativar câmera <br> Conectar câmera |
+| **Noção**     | Tarefa realizada pelo usuário <br> Acontece quando o usuário quer aparecer na chamada deSilenciar microfone vídeo e acaba desligando a câmera <br> |
+| **Impacto**   | Não será possível ver o usuário |
+
 ## Desligar câmera
 |           |               |
 |-----------|---------------|
 | **Nome**  |   Desligar câmera   |
 | **Classificação** | Verbo |
 | **Sinônimos** | Desativar câmera <br> Desconectar câmera |
-| **Noção**     | Tarefa realizada pelo usuário <br> Acontece quando o usuário não quer aparecer na chamada deSilenciar microfone vídeo e acaba desligando a câmera <br> |
+| **Noção**     | Tarefa realizada pelo usuário <br> Acontece quando o usuário não quer aparecer na chamada <br>Silenciar microfone vídeo e acaba desligando a câmera <br> |
 | **Impacto**   | Não será possível ver o usuário |
 
 ## Silenciar microfone
@@ -198,13 +216,13 @@
 | **Noção**     | Tarefa realizada pelo usuário <br> Acontece quando o usuário não quer falar e acaba silenciando o microfone <br> Acontece quando o usuário silencia o microfone para evitar ruídos de fora para não atrapalhar a chamada |
 | **Impacto**   | Não conseguir escutar o usuário <br> Evita ruídos do ambiente |
 
-## Entrar em chamada de vídeo já existente
+## Entrar em chamada já existente
 |           |               |
 |-----------|---------------|
 | **Nome**  |   Entrar em chamada de vídeo já existente   |
 | **Classificação** | Verbo |
 | **Sinônimos** |  |
-| **Noção**     | Tarefa realizada pelo usuário <br> Acontece quando o usuário entra em uma chamada de vídeo já criada anteriormente|
+| **Noção**     | Tarefa realizada pelo usuário <br> Acontece quando o usuário entra em uma chamada já criada anteriormente|
 | **Impacto**   | Não precisar criar uma nova chamada|
 
 ## Adicionar pessoas a chamada
@@ -216,6 +234,15 @@
 | **Noção**     | Tarefa realizada pelo usuário <br> Acontece quando o usuário adiciona alguém a uma chamada já criada|
 | **Impacto**   | Não precisar adicionar todas as pessoas de uma vez|
 
+## Fazer chamada 
+|           |               |
+|-----------|---------------|
+| **Nome**  |   Fazer chamada   |
+| **Classificação** | Verbo |
+| **Sinônimos** |  Fazer chamada de áudio|
+| **Noção**     | Tarefa realizada pelo usuário <br> Acontece quando o usuário seleciona a opção chamada na aba de mensagem de outro usuário|
+| **Impacto**   | Se comunica com outro usuário de maneira auditiva|
+
 ## Fazer chamada de vídeo
 |           |               |
 |-----------|---------------|
@@ -225,23 +252,23 @@
 | **Noção**     | Tarefa realizada pelo usuário <br> Acontece quando o usuário seleciona a opção chamada de vídeo na aba de mensagem de outro usuário|
 | **Impacto**   | Se comunica com outro usuário de maneira audiovisual|
 
-## Navegar por qualquer ponto do aúdio
+## Navegar por qualquer ponto do áudio
 |           |               |
 |-----------|---------------|
-| **Nome**  |   Navegar por qualquer ponto do aúdio   |
+| **Nome**  |   Navegar por qualquer ponto do áudio   |
 | **Classificação** | Verbo |
 | **Sinônimos** |  |
-| **Noção**     | Tarefa realizada pelo usuário <br> Acontece quando o usuário escolhe uma parte especifica do aúdio para ouvir|
+| **Noção**     | Tarefa realizada pelo usuário <br> Acontece quando o usuário escolhe uma parte especifica do áudio para ouvir|
 | **Impacto**   | O usuário é capaz de ouvir novamente alguma parte que deixou passar<br>O usuário é capaz de pular alguma parte que não quer ouvir|
 
-## Executar o aúdio
+## Executar o áudio
 |           |               |
 |-----------|---------------|
-| **Nome**  |   Executar o aúdio   |
+| **Nome**  |   Executar o áudio   |
 | **Classificação** | Verbo |
-| **Sinônimos** | Dar play no aúdio  |
-| **Noção**     | Tarefa realizada pelo usuário <br> Acontece quando o usuário recebe um aúdio e aperta no botão play para escuta-lo<br> Acontece quando o usuário envia um aúdio e apeta no botão paly apra escuta-lo|
-| **Impacto**   | O usuário é capaz de ouvir o aúdio recebido<br> O usuário é capaz de ouvir o aúdio enviado|
+| **Sinônimos** | Dar play no áudio  |
+| **Noção**     | Tarefa realizada pelo usuário <br> Acontece quando o usuário recebe um áudio e aperta no botão play para escuta-lo<br> Acontece quando o usuário envia um áudio e apeta no botão paly apra escuta-lo|
+| **Impacto**   | O usuário é capaz de ouvir o áudio recebido<br> O usuário é capaz de ouvir o áudio enviado|
 
 ## Parar a execução do aúdio
 |           |               |
@@ -278,3 +305,13 @@
 | **Sinônimos** |   |
 | **Noção**     | Tarefa realizada pelo usuário <br> Acontece antes do usuário mandar uma mensagem, nas configurações ele pode definir o tempo de visibilidade|
 | **Impacto**   | A mensagem é enviada<br>A mensagem deixa de existir após o tempo determinado |
+
+## Selecionar mensagem
+|           |               |
+|-----------|---------------|
+| **Nome**  |   Selecionar mensagem   |
+| **Classificação** | Verbo |
+| **Sinônimos** |   |
+| **Noção**     | Tarefa realizada pelo usuário <br> Acontece após o usuário enviar uma mensagem, ele pode segurar a mensagem e ela será selecionada automaticamente<br>Acontece quando o usuário clica na botão de opções dentro da conversa e seleciona a opção selecionar mensagem|
+| **Impacto**   | A mensagem é seleciona<br>O usuário pode encaminhar a mensagem<br>O usuário pode deletar a mensagem<br>O usuário pode editar a mensagem |
+
