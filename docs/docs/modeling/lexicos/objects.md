@@ -87,10 +87,10 @@
 [Adicionar pessoas a chamada](/docs/modeling/lexicos/verb?id=adicionar-pessoas-a-chamada)<br>
 [Entrar em chamada já existente](/docs/modeling/lexicos/verb?id=entrar-em-chamada-já-existente)<br>
 [Mutar o microfone](/docs/modeling/lexicos/verb?id=silenciar-microfone)<br>
-[Ligar o microfone]()<br>
-[Ligar câmera]()<br>
-[Desligar câmera]()<br>
-[Sair da chamada]()|
+[Ligar o microfone](/docs/modeling/lexicos/verb?id=ligar-microfone)<br>
+[Ligar câmera](/docs/modeling/lexicos/verb?id=ligar-câmera)<br>
+[Desligar câmera](/docs/modeling/lexicos/verb?id=desligar-câmera)<br>
+[Sair da chamada](/docs/modeling/lexicos/verb?id=sair-da-chamada)|
 
 ## Chamada de voz
 |           |               |
@@ -99,12 +99,12 @@
 | **Classificação** | Objeto |
 | **Sinônimos** | Ligação|
 | **Noção**     | Forma de comunicação entre duas ou mais pessoas de forma auditiva, utilizando apenas o [microfone](microfone)
-| **Impacto**   | [Fazer chamada]()<br>
-[Adicionar pessoas a chamada]()<br>
-[Entrar em chamada já existente]()<br>
-[Mutar o microfone]()<br>
-[Ligar o microfone]()<br>
-[Sair da chamada]()|
+| **Impacto**   | [Fazer chamada](/docs/modeling/lexicos/verb?id=fazer-chamada)<br>
+[Adicionar pessoas a chamada](/docs/modeling/lexicos/verb?id=adicionar-pessoas-a-chamada)<br>
+[Entrar em chamada já existente](/docs/modeling/lexicos/verb?id=entrar-em-chamada-já-existente)<br>
+[Mutar o microfone](/docs/modeling/lexicos/verb?id=silenciar-microfone)<br>
+[Ligar o microfone](/docs/modeling/lexicos/verb?id=ligar-microfone)<br>
+[Sair da chamada](/docs/modeling/lexicos/verb?id=sair-da-chamada)|
 
 ## Chamada de vídeo
 |           |               |
@@ -113,14 +113,14 @@
 | **Classificação** | Objeto |
 | **Sinônimos** | Videochamada|
 | **Noção**     | Forma de comunicação entre duas ou mais pessoas de forma audiovisual, podendo ser utilizada a [câmera]()
-| **Impacto**   | [Fazer chamada]()<br>
-[Adicionar pessoas a chamada]()<br>
-[Entrar em chamada já existente]()<br>
-[Mutar o microfone]()<br>
-[Ligar o microfone]()<br>
-[Ligar câmera]()<br>
-[Desligar câmera]()<br>
-[Sair da chamada]()|
+| **Impacto**   | [Fazer chamada](/docs/modeling/lexicos/verb?id=fazer-chamada)<br>
+[Adicionar pessoas a chamada](/docs/modeling/lexicos/verb?id=adicionar-pessoas-a-chamada)<br>
+[Entrar em chamada já existente](/docs/modeling/lexicos/verb?id=entrar-em-chamada-já-existente)<br>
+[Mutar o microfone](/docs/modeling/lexicos/verb?id=silenciar-microfone)<br>
+[Ligar o microfone](/docs/modeling/lexicos/verb?id=ligar-microfone)<br>
+[Ligar câmera](/docs/modeling/lexicos/verb?id=ligar-câmera)<br>
+[Desligar câmera](/docs/modeling/lexicos/verb?id=desligar-câmera)<br>
+[Sair da chamada](/docs/modeling/lexicos/verb?id=sair-da-chamada)|
 
 ## Microfone
 |           |               |
@@ -129,10 +129,10 @@
 | **Classificação** | Objeto |
 | **Sinônimos** | |
 | **Noção**     | Objeto utilizado para comunicação de áudio e audiovisual| 
-| **Impacto**   | [Ligar o microfone]()<br>
-[Desligar microfone]()<br>
-[Fazer chamada]()<br>
-[Enviar áudio]()|
+| **Impacto**   | [Ligar o microfone](/docs/modeling/lexicos/verb?id=ligar-microfone)<br>
+[Desligar microfone](/docs/modeling/lexicos/verb?id=desligar-microfone)<br>
+[Fazer chamada](/docs/modeling/lexicos/verb?id=fazer-chamada)<br>
+[Enviar áudio](/docs/modeling/lexicos/verb?id=enviar-áudio)|
 
 ## Câmera
 |           |               |
@@ -141,10 +141,11 @@
 | **Classificação** | Objeto |
 | **Sinônimos** | |
 | **Noção**     | Objeto utilizado para comunicação visual e audiovisual| 
-| **Impacto**   | [Ligar câmera]()<br>
-[Desligar câmera]()<br>
-[Fazer chamada]()<br>
-[Enviar foto ou vídeo]()|
+| **Impacto**   |
+[Ligar câmera](/docs/modeling/lexicos/verb?id=ligar-câmera)<br>
+[Desligar câmera](/docs/modeling/lexicos/verb?id=desligar-câmera)<br>
+ [Fazer chamada](/docs/modeling/lexicos/verb?id=fazer-chamada)<br>
+[Enviar foto ou vídeo](/docs/modeling/lexicos/verb?id=enviar-foto-ou-vídeo)|
 
 ## Arquivo
 |           |               |
@@ -153,8 +154,8 @@
 | **Classificação** | Objeto |
 | **Sinônimos** | |
 | **Noção**     |Documento que pode ser do tipo áudio, foto, vídeo, texto entre outros | 
-| **Impacto**   | [Enviar arquivo]()<br>
-[Baixar arquivo]()|
+| **Impacto**   | [Enviar arquivo](/docs/modeling/lexicos/verb?id=enviar-arquivo)<br>
+[Baixar arquivo](/docs/modeling/lexicos/verb?id=baixar-arquivo)|
 
 
 ## Usuário
@@ -173,8 +174,8 @@
 | **Classificação** | Objeto |
 | **Sinônimos** |Conta|
 | **Noção**     |Onde ficam todos os dados do usuário, criada após o [cadastrar]()| 
-| **Impacto**   | [Criar conta]()<br>
-[Tornar usuário]()<br>
+| **Impacto**   | [Criar conta pelo e-mail](/docs/modeling/lexicos/verb?id=cadastrar-usuário-pelo-e-mail)<br>
+[Criar conta pelo número](/docs/modeling/lexicos/verb?id=cadastrar-usuário-pelo-número)<br>
 [Deletar conta]()|
 
 ## Nome de usuário
@@ -184,8 +185,8 @@
 | **Classificação** | Objeto |
 | **Sinônimos** | Nickname, username, user|
 | **Noção**     |Nome pelo qual o usuário pode ser referenciado| 
-| **Impacto**   |[Referenciar por nome de usuário]()<br>
-[Adicionar pessoas]()|
+| **Impacto**   |[Referenciar por nome de usuário](/docs/modeling/lexicos/verb?id=referenciar-pelo-nome-de-usuário)<br>
+[Adicionar pessoas](/docs/modeling/lexicos/verb?id=adicionar-contatos)|
 
 
 ## Administrador
@@ -195,7 +196,12 @@
 | **Classificação** | Objeto |
 | **Sinônimos** | Admin, adm|
 | **Noção**     |Usuário com permissões em um grupo| 
-| **Impacto**   |[Adicionar membro no grupo]()<br>
-[Remover usuário do grupo]()<br>
-[Conceder cargo às pessoas]()<br>
-[Retirar cargo das pessoas]()|
+| **Impacto**   |[Adicionar usuário no grupo](/docs/modeling/lexicos/verb?id=adicionar-usuários-no-grupo)<br>
+[Remover usuário do grupo](/docs/modeling/lexicos/verb?id=remover-usuários-do-grupo)<br>
+[Definir cargo às pessoas](/docs/modeling/lexicos/verb?id=definir-permissões-de-cada-usuário)|
+
+## Contato
+
+## Perfil
+
+## Grupo
