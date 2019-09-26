@@ -3,8 +3,8 @@
 <head>
 <style>
     div.polaroid {
-    width: 1100px;
-    height: 400px;
+    width: 594;
+    height: 651;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     text-align: center;
     }
@@ -21,8 +21,10 @@
 
 <br>
 <div class="polaroid">
-<img src="https://i.imgur.com/MwkPOuS.png/" width=100% height=400px>
+<img src="docs/assets/img/modeling/user_cases_diagram.jpg">
 </div>
+
+[Clique aqui para visualizar a imagem ampliada.](https://user-images.githubusercontent.com/42645264/65696592-e5907a80-e04f-11e9-8bca-52c2e6a02b40.jpg)
 
 
 ### Especificações dos casos de uso
