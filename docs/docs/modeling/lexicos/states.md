@@ -1,4 +1,4 @@
-# Léxicos - Estados
+# Estados
 ---
 
 ## **Mensagem**
