@@ -307,11 +307,37 @@
 | **Impacto**   | A [mensagem](/docs/modeling/lexicos/objects?id=mensagem) é seleciona<br>O [usuário](/docs/modeling/lexicos/objects?id=usuário) pode encaminhar a [mensagem](/docs/modeling/lexicos/objects?id=mensagem)<br>O [usuário](/docs/modeling/lexicos/objects?id=usuário) pode deletar a [mensagem](/docs/modeling/lexicos/objects?id=mensagem)<br>O [usuário](/docs/modeling/lexicos/objects?id=usuário) pode editar a [mensagem](/docs/modeling/lexicos/objects?id=mensagem) |
 
 ## Sair da chamada
-
-## Enviar áudio
+|           |               |
+|-----------|---------------|
+| **Nome**  |   Sair da [chamada](/docs/modeling/lexicos/objects?id=chamada)   |
+| **Classificação** | Verbo |
+| **Sinônimos** |  Sair da [chamada de áudio](/docs/modeling/lexicos/objects?id=chamada-de-áudio) ou da [chamada de vídeo](/docs/modeling/lexicos/objects?id=chamada-de-vídeo)|
+| **Noção**     | Tarefa realizada pelo [usuário](/docs/modeling/lexicos/objects?id=usuário) <br> Acontece quando o [usuário](/docs/modeling/lexicos/objects?id=usuário) está em uma [chamada](/docs/modeling/lexicos/objects?id=chamada) e resolve sair|
+| **Impacto**   | O [usuário](/docs/modeling/lexicos/objects?id=usuário) sai da chamada|
 
 ## Baixar arquivo
+|           |               |
+|-----------|---------------|
+| **Nome**  |   Baixar [mensagem](/docs/modeling/lexicos/objects?id=mensagem)   |
+| **Classificação** | Verbo |
+| **Sinônimos** |  Excluir [mensagem](/docs/modeling/lexicos/objects?id=mensagem) |
+| **Noção**     | Tarefa realizada pelo [usuário](/docs/modeling/lexicos/objects?id=usuário) <br> Acontece quando o [usuário](/docs/modeling/lexicos/objects?id=usuário) exclui uma [mensagem](/docs/modeling/lexicos/objects?id=mensagem) já enviada anteriormente|
+| **Impacto**   | A [mensagem](/docs/modeling/lexicos/objects?id=mensagem) deixa de existir |
 
 ## Cadastrar
+|           |               |
+|-----------|---------------|
+| **Nome**  |   Cadastrar   |
+| **Classificação** | Verbo |
+| **Sinônimos** |  Registrar, fazer cadastro |
+| **Noção**     | Tarefa realizada pelo [usuário](/docs/modeling/lexicos/objects?id=usuário) <br> Acontece quando o [usuário](/docs/modeling/lexicos/objects?id=usuário) cria sua conta no aplicativo|
+| **Impacto**   | O usuário tem acesso total ao aplicativo |
 
 ## Referenciar pelo nome de usuário
+|           |               |
+|-----------|---------------|
+| **Nome**  |   Referenciar pelo nome de usuário   |
+| **Classificação** | Verbo |
+| **Sinônimos** |  Marcar o usuário |
+| **Noção**     | Tarefa realizada pelo [usuário](/docs/modeling/lexicos/objects?id=usuário) <br> Acontece quando o [usuário](/docs/modeling/lexicos/objects?id=usuário) marca o outro utilizando o caracter @ e o nome de usuário da pessoa|
+| **Impacto**   | A pessoa recebe uma notificação que foi referenciada no grupo |
