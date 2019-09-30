@@ -1,5 +1,9 @@
 # Objetos
 
+| Data | Versão | Descrição | Autor |
+| --- | --- | --- | --- |
+| 30/09/2019 | 1.0 | Criação dos léxicos - Objetos  | João Pedro e Lucas Fellipe |
+
 ## Mensagem
 
 |           |               |
