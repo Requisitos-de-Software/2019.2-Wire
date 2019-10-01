@@ -14,9 +14,9 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 <br>
 - Chat (CM)
 <br> 
-- Acoplamento de serviços
+- Serviços (CS)
 <br>
-- Times
+- Times(CE)
 
 ---
 
@@ -186,6 +186,157 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Recursos**  | Smartphone, internet e energia |
 | **Exceção**  | Sem sinal, smartphone sem bateria |
 | **Episódios**  | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções<br> - Usuário habilita modo vibração |
+
+<br>
+<br>
+
+
+### Cenário de Configuração 12
+|           |               |
+|-----------|---------------|
+| **Id**  | CC12 |
+| **Título** | Habilitar sinal sonoro de notificação |
+| **Metas/Objetivos** | Usuário habilita sinal sonoro para todas as notificações. |
+| **Contexto** | Aplicativo logado |
+| **Ator(es)** | Usuários |
+| **Recursos** | Smartphone, internet e energia |
+| **Exeção** | Sem sinal, smartphone sem bateria |
+| **Episódos** | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário habilita sinal sonoro|
+
+<br>
+<br>
+
+### Cenário de Configuração 13
+|           |               |
+|-----------|---------------|
+| **Id**  | CC13 |
+| **Título** |  Escolher sinal sonoro de chamada |
+| **Metas/Objetivos** | Usuário escolhe sinal sonoro para as chamadas recebidas |
+| **Contexto** | Aplicativo logado |
+| **Ator(es)** | Usuários |
+| **Recursos** | Smartphone, internet e energia |
+| **Exeção** | Sem sinal, smartphone sem bateria |
+| **Episódos** | - Usuário acessa no seu perfil <br>  - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário escolhe sinal sonoro de chamada|
+
+<br>
+<br>
+
+
+
+### Cenário de Configuração 14
+|           |               |
+|-----------|---------------|
+| **Id**  | CC14 |
+| **Título** | Escolher sinal sonoro de mensagem |
+| **Metas/Objetivos** | Usuário escolhe sinal sonoro para as mensagens recebidas |
+| **Contexto** | Aplicativo logado |
+| **Ator(es)** | Usuários |
+| **Recursos** | Smartphone, internet e energia |
+| **Exeção** | Sem sinal, smartphone sem bateria |
+| **Episódos** | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário escolhe sinal sonoro de mensagens recebidas |
+
+<br>
+<br>
+
+
+	       
+### Cenário de Configuração 15
+|           |               |
+|-----------|---------------|
+| **Id**  | CC15 |
+| **Título:** | Escolher tema “dark”  |
+| **Metas/Objetivos** | Usuário seleciona tema “dark” |
+| **Contexto** | Aplicativo logado |
+| **Ator(es)** | Usuários |
+| **Recursos** | Smartphone, internet e energia |
+| **Exeção** | Sem sinal, smartphone sem bateria |
+| **Episódos** | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário seleciona tema “dark”|
+
+<br>
+<br>
+
+### Cenário de Configuração 16
+|           |               |
+|-----------|---------------|
+| **Id**  | CC16 |
+| **Título** | Esconder conteúdo da tela |
+| **Metas/Objetivos** | Usuário habilita esconder conteúdo da tela de tarefas |
+| **Contexto**| Aplicativo logado |
+| **Ator(es)** | Usuários |
+| **Recursos** | Smartphone, internet e energia|
+| **Exeção** | Sem sinal, smartphone sem bateria |
+| **Episódos**| Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário habilita esconder conteúdo da tela de tarefas |
+
+<br>
+<br>
+
+
+### Cenário de Configuração 17
+|           |               |
+|-----------|---------------|
+| **Id**  | CC17 |
+| **Título** | Pré visualizar mensagens |
+| **Metas/Objetivos** | Usuário habilita pré visualizar mensagens na tela de notificações |
+| **Contexto**| Aplicativo logado |
+| **Ator(es)** | Usuários |
+| **Recursos** | Smartphone, internet e energia|
+| **Exeção** | Sem sinal, smartphone sem bateria |
+| **Episódos**| Usuário acessa no seu perfil<br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário habilita pré visualizar mensagens |
+
+<br>
+<br>
+
+### Cenário de Configuração 18
+|           |               |
+|-----------|---------------|
+| **Id**  | CC18 |
+| **Título** | Download automático de imagens |
+| **Metas/Objetivos** | Usuário habilita sempre executar download  de imagens |
+| **Contexto**| Aplicativo logado |
+| **Ator(es)** | Usuários |
+| **Recursos** | Smartphone, internet e energia|
+| **Exeção** | Sem sinal, smartphone sem bateria |
+| **Episódos**| Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário habilita sempre executar download de imagens |
+
+<br>
+<br>
+
+
+
+
+
+### Cenário de Configuração 19
+|           |               |
+|-----------|---------------|
+| **Id**  | CC19 |
+| **Título** | Habilitar botão de envio |
+| **Metas/Objetivos** | Usuário habilita botão de envio para aparecer direto no teclado |
+| **Contexto** | Aplicativo logado |
+| **Ator(es)** | Usuários |
+| **Recursos** | Smartphone, internet e energia |
+| **Exeção** | Sem sinal, smartphone sem bateria |
+| **Episódos** | Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário habilita botão de envio |
+
+<br>
+<br>
+
+
+	       
+### Cenário de Configuração 20
+|           |               |
+|-----------|---------------|
+| **Id**  | CC20 |
+| **Título** | Bloquear com senha |
+| **Metas/Objetivos** | Usuário habilita bloqueio com senha após 10 segundo de inatividade no aplicativo |
+| **Contexto** | Aplicativo logado |
+| **Ator(es)** | Usuários |
+| **Recursos** | Smartphone, internet e energia |
+| **Exeção** | Sem sinal, smartphone sem bateria |
+| **Episódos** | Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário habilita bloqueio de inatividade|
+
+<br>
+<br>
+
 
 
 
@@ -416,6 +567,187 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 
 <br>
 <br>
+
+## **Equipes**
+Na utilização da aplicação Wire é possível criar equipes. Esta é uma funcionalidade que ajuda na utilização da ferramenta por grupos em empresas ou mesmo uma empresa como um todo.
+
+### Cenário de Equipe 01
+|           |               |
+|-----------|---------------|
+| **Id**  | CE01 |
+| **Título** |  Criar uma Equipe |
+| **Metas/Objetivos** | Criar  e adicionar membros e uma equipe. |
+| **Contexto:** | - Local: Tela de cadastro ou configurações. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
+| **Ator(es)** | Usuários do Wire. |
+| **Recursos** | SO, internet e energia. |
+| **Exeção** |Sem sinal, smartphone sem bateria |
+| **Episódios:** | - Usuário cria um Equipe. <br> - Usuário adiciona membros à equipe.
+
+<br>
+<br>
+
+### Cenário de Equipe 02
+|           |               |
+|-----------|---------------|
+| **Id**  | CE02 |
+| **Título** |  Renomear equipe |
+| **Metas/Objetivos** | Renomear a equipe. |
+| **Contexto:** | - Local: Tela de configurações. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
+| **Ator(es)** | Dono da equipe. |
+| **Recursos** | SO, internet e energia. |
+| **Exeção** | Sem sinal, smartphone sem bateria |
+| **Episódios:** | - Usuário com permissão necesária abre configurações da equipe. <br> - Usuário renomeia a equipe.
+
+<br>
+<br>
+
+### Cenário de Equipe 03
+|           |               |
+|-----------|---------------|
+| **Id**  | CE03 |
+| **Título** |  Gerenciar equipe |
+| **Metas/Objetivos** | Tela para gerenciar toda a equipe e seus membros. |
+| **Contexto:** | - Local: Tela de configurações -> Gerenciar Equipe ou teams.wire.com. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
+| **Ator(es)** | Dono da equipe. |
+| **Recursos** | SO, internet e energia. |
+| **Exeção** | Sem sinal, smartphone sem bateria |
+| **Episódios:** | - Administrador da equipe deseja ter uma visão geral do time, seus membros e suas respectivas posições dentro do time. 
+
+<br>
+<br>
+
+### Cenário de Equipe 04
+|           |               |
+|-----------|---------------|
+| **Id**  | CE04 |
+| **Título** |  Adicionar ou remover logo da Equipe.|
+| **Metas/Objetivos** | Adicionar, remover ou editar a imagem de logo da equipe. |
+| **Contexto:** | - Local: Tela de configurações -> Gerenciar Equipe ou teams.wire.com. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
+| **Ator(es)** | Dono da equipe. |
+| **Recursos** | SO, internet e energia. |
+| **Exeção** | Sem sinal, smartphone sem bateria |
+| **Episódios:** | - A empresa atualizou sua identidade visual e precisa alterar a logo do time no Wire. 
+
+<br>
+<br>
+
+### Cenário de Equipe 05
+|           |               |
+|-----------|---------------|
+| **Id**  | CE05 |
+| **Título** |  Remover um usuário da equipe.|
+| **Metas/Objetivos** | Remover um usuário ativo da equipe. |
+| **Contexto:** | - Local: Tela de configurações -> Gerenciar Equipe ou teams.wire.com. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
+| **Ator(es)** | Dono da equipe. |
+| **Recursos** | SO, internet e energia. |
+| **Exeção** | Sem sinal, smartphone sem bateria |
+| **Episódios:** | - Usuário com permissão remove outro usuário participante da Equipe. |
+
+<br>
+<br>
+
+### Cenário de Equipe 06
+|           |               |
+|-----------|---------------|
+| **Id**  | CE06 |
+| **Título** |  Excluir a equipe.|
+| **Metas/Objetivos** | Excluir a equipe da aplicação Wire. |
+| **Contexto:** | - Local: Tela de configurações -> Gerenciar Equipe ou teams.wire.com. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
+| **Ator(es)** | Dono da equipe. |
+| **Recursos** | SO, internet e energia. |
+| **Exeção** | Sem sinal, smartphone sem bateria |
+| **Episódios:** | - Usuário dono da equipe apaga a equipe. |
+
+<br>
+<br>
+
+## **Serviços**
+Na utilização da aplicação Wire é possível utilizar serviços externos, tanto serviços já existentes e disponibilizados pela comunidade quanto algum serviço que o próprio utilizador tenha implementado para uso privado. Esta é uma funcionalidade que ajuda na utilização da ferramenta por grupos, empresas ou mesmo um usuário convencional.
+
+
+# Cenário de Serviços 01
+|           |               |
+|-----------|---------------|
+| **Id**  | CS01 |
+| **Título** | Acoplar serviço externo. |
+| **Metas/Objetivos** | Trazer para o ambiente/conversas serviços externos ao Wire, pode ser utilizado um serviço existente ou também pode ser implementado um |novo serviço.
+| **Contexto** | Perfil -> Serviços. |
+| **Ator(es)** | Usuários. |
+| **Recursos** | SO compatível, internet e energia. |
+| **Exeção** | Sem sinal, sem internet, serviço fora do ar.|
+| **Episódos:** | 
+
+<br>
+<br>
+
+# Cenário de Serviços 02
+|           |               |
+|-----------|---------------|
+| **Id**  | CS02 |
+| **Título** | Habilitar serviço. |
+| **Metas/Objetivos** | Permitir ao usuário habilitar ou desabilitar um serviço acoplado.|
+| **Contexto** | Perfil -> Serviços ou teams.wire.com|
+| **Ator(es)**|  Usuários. |
+| **Recursos:** |O compatível, internet e energia. |
+| **Exeção** | Sem sinal, sem internet, serviço fora do ar. |
+| **Episódos** |	- Usuário acopla um novo serviço <br> - Usuário ativa o serviço <br> - Usuário desativa o serviço
+
+<br>
+<br>
+	
+
+
+# Cenário de Serviços 03
+|           |               |
+|-----------|---------------|
+| **Id**  | CS03 |
+| **Título** | Habilitar serviço. |
+| **Metas/Objetivos** | Permitir ao usuário habilitar ou desabilitar um serviço acoplado.|
+| **Contexto** | Perfil -> Serviços ou teams.wire.com|
+| **Ator(es)** | Usuários. |
+| **Recursos** |O compatível, internet e energia. |
+| **Exeção** | Sem sinal, sem internet, serviço fora do ar. |
+| **Episódos** |	- Usuário acopla um novo serviço <br> - Usuário ativa o serviço <br> - Usuário desativa o serviço |
+
+<br>
+<br>
+
+
+# Cenário de Serviços 04
+|           |               |
+|-----------|---------------|
+| **Id**  | CS04|
+| **Título** | Habilitar serviço para um grupo. |
+| **Metas/Objetivos** | Permitir ao usuário acoplar um serviço a uma conversa em grupo.|
+| **Contexto** | Perfil -> Serviços ou teams.wire.com| 
+| **Ator(es)** | Usuários. |
+| **Recursos** |O compatível, internet e energia. |
+| **Exeção** | Sem sinal, sem internet, serviço fora do ar. |
+| **Episódos** |	- Usuário acopla um novo serviço<br> - Usuário ativa o serviço<br> - Usuário adiciona serviço ao grupo.|
+
+<br>
+<br>
+
+
+
+
+# Cenário de Serviços 05
+|           |               |
+|-----------|---------------|
+| **Id**  | CS05 |
+| **Título** | Obter serviços. |
+| **Metas/Objetivos** | Disponibilizar ao usuário uma lista de serviços disponibilizados pela comunidade que ele possa usar.|
+| **Contexto** | Perfil -> Serviços ou teams.wire.com|  
+| **Ator(es)** | Usuários. |
+| **Recursos:** |O compatível, internet e energia. |
+| **Exeção** | Sem sinal, sem internet, serviço fora do ar. |
+| **Episódos** |	- Usuário acessa a tela de serviços <br> - Usuário entra em gerenciar serviços.|
+
+<br>
+<br>
+		| **
+
+
 
 <!DOCTYPE html>
 <html>
