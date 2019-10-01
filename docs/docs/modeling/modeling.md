@@ -6,3 +6,4 @@ Usamos algumas formas de modelagem de requisitos, que são as seguintes:
 
 - [**Casos de Uso**](/docs/modeling/user_cases.md)
 - [**Léxicos**](/docs/modeling/lexicons.md)
+- [**Cenáros**](/docs/modeling/scenarios.md)
