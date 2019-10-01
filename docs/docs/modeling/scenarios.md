@@ -1,6 +1,6 @@
 | Data | Versão | Descrição | Autor |
 | --- | --- | --- | --- |
-| 26/09/2019 | 1.0 | Criação do documento de Cenários | Caio Fernandes |
+| 26/09/2019 | 1.0 | Criação do documento de Cenários | Caio Fernandes e Gabriel Alves|
 
 # Cenários - Modelagem de Requisitos
 <p align="justify">
