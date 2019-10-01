@@ -4,6 +4,6 @@ A modelagem de requisitos elabora modelos capazes de representar característica
 
 Usamos algumas formas de modelagem de requisitos, que são as seguintes:
 
-[**Casos de Uso**](/docs/modeling/user_cases.md)
-
-[**Especificação Suplementar**](/docs/modeling/supplementary_specifications.md)
+- [**Casos de Uso**](/docs/modeling/user_cases.md)
+- [**Léxicos**](/docs/modeling/lexicons.md)
+- [**Especificação Suplementar**](/docs/modeling/supplementary_specifications.md)
