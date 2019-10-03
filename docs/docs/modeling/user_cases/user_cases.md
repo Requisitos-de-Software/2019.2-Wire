@@ -15,3 +15,12 @@ Casos de Uso são utilizados para descrever um conjunto de ações que um sistem
 <p align="center">
 <b>Módulo de Mensagens</b>
 </p>
+
+------------------------------------------------------------------------
+
+<p align="center">
+<a href="#/docs/modeling/user_cases/modulo_ligacoes.md"><img src="docs/assets/img/modeling/uc_diagrams/UserCasesDiagram_Wire_Ligacoes.png" lenght=400px height=400px></a>
+</p>
+<p align="center">
+<b>Módulo de Ligações</b>
+</p>

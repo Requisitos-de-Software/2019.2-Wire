@@ -24,23 +24,13 @@
 | <h3> Fluxo Básico </h3> |
 | Usuário 1 liga, por áudio, para o usuário 2 |
 | <h3> Fluxos Alternativos </h3> |
-
-#### FA1 - Ligar e desligar microfone
-
-Durante a ligação de áudio, o usuário 1 desliga seu microfone para que os ruídos vindos do ambiente em que ele está não atrapalhe a reunião
-
-#### FA2 - Entrar em ligação já existente
-
-O usuário 3 se atrasa para uma reunião e, após chegar em um local com internet, entra na chamada que já estava sendo feita pelos outros usuários da reunião
-
-#### FA3 - Fazer ligação de vídeo
-
-Usuário 1 liga, por vídeo, para o usuário 2
-
-#### FA4 - Ligar e desligar câmera
-
-Durante a ligação de vídeo, o usuário 1 desliga sua câmera para que possa digitar a senha de um cofre que está atrás dele
-
-#### FA5 - Adicionar pessoas à chamada
-
-O usuário 1 inicia uma ligação de vídeo com o usuário 2 e adiciona o usuário 3, para que todos possam se comunicar diretamente
+| <h4><b>  FA1 - Ligar e desligar microfone </b></h4> |
+| Durante a ligação de áudio, o usuário 1 desliga seu microfone para que os ruídos vindos do ambiente em que ele está não atrapalhe a reunião |
+| <h4><b>  FA2 - Entrar em ligação já existente </b></h4> |
+| O usuário 3 se atrasa para uma reunião e, após chegar em um local com internet, entra na chamada que já estava sendo feita pelos outros usuários da reunião |
+| <h4><b>  FA3 - Fazer ligação de vídeo </b></h4> |
+| Usuário 1 liga, por vídeo, para o usuário 2 |
+| <h4><b>  FA4 - Ligar e desligar câmera </b></h4> |
+| Durante a ligação de vídeo, o usuário 1 desliga sua câmera para que possa digitar a senha de um cofre que está atrás dele |
+| <h4><b>  FA5 - Adicionar pessoas à chamada </b></h4> |
+| O usuário 1 inicia uma ligação de vídeo com o usuário 2 e adiciona o usuário 3, para que todos possam se comunicar diretamente |
