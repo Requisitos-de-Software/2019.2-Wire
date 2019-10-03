@@ -33,3 +33,12 @@ Casos de Uso são utilizados para descrever um conjunto de ações que um sistem
 <p align="center">
 <b>Módulo de Grupos</b>
 </p>
+
+------------------------------------------------------------------------
+
+<p align="center">
+<a href="#/docs/modeling/user_cases/modulo_cadastros.md"><img src="docs/assets/img/modeling/uc_diagrams/UserCasesDiagram_Wire_Cadastros.png" lenght=500px height=500px></a>
+</p>
+<p align="center">
+<b>Módulo de Cadastros</b>
+</p>
