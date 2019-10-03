@@ -24,3 +24,12 @@ Casos de Uso são utilizados para descrever um conjunto de ações que um sistem
 <p align="center">
 <b>Módulo de Ligações</b>
 </p>
+
+------------------------------------------------------------------------
+
+<p align="center">
+<a href="#/docs/modeling/user_cases/modulo_grupos.md"><img src="docs/assets/img/modeling/uc_diagrams/UserCasesDiagram_Wire_Grupos.png" lenght=500px height=500px></a>
+</p>
+<p align="center">
+<b>Módulo de Grupos</b>
+</p>
