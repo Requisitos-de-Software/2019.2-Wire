@@ -2,8 +2,11 @@
 
 ## Diagrama de casos de uso
 
-![User Cases Diagram - Wire (Mensagens)](https://user-images.githubusercontent.com/42645264/66132029-cdc67280-e5ca-11e9-8e62-3859dabc67c0.png)
+<img src="docs/assets/img/modeling/uc_diagrams/UserCasesDiagram_Wire_Mensagens.png">
 
+<p align="right">
+<a href="https://user-images.githubusercontent.com/42645264/66132029-cdc67280-e5ca-11e9-8e62-3859dabc67c0.png"> Clique aqui para visualizar a imagem ampliada.
+</p>
 
 ## Especificações dos casos de uso
 
