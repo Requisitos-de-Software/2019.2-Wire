@@ -1,6 +1,8 @@
 | Data | Versão | Descrição | Autor |
 | --- | --- | --- | --- |
-| 26/09/2019 | 1.0 | Criação do documento de Cenários | Caio Fernandes e Gabriel Alves|
+| 26/09/2019 | 1.0 | Criação do documento de Cenários | [Caio Fernandes](https://github.com/caiovfernandes) e [Gabriel Alves](https://github.com/gitgabiru)|
+| 07/10/2019 | 1.1 | Melhoria do Layout |[Caio Fernandes](https://github.com/caiovfernandes) |
+
 
 # Cenários - Modelagem de Requisitos
 <p align="justify">
@@ -8,19 +10,72 @@ Trata-se de uma estratégia reconhecida para compreender as interações entre a
 assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fluxo. 
 </p>    
 
-**Tipos de Cenários Wire App:**
-<br>
-- Configurações (CC)
-<br>
-- Chat (CM)
-<br> 
-- Serviços (CS)
-<br>
-- Times(CE)
+## **Tipos de Cenários Wire App:**
+
+<button data-toggle="collapse" data-target="#config" class="myButton" >Configurações</button>
+<div id="config" class="collapse">
+CC01<br>
+CC02<br>
+CC03<br>
+CC04<br>
+CC05<br>
+CC06<br>
+CC07<br>
+CC08<br>
+CC09<br>
+CC10<br>
+CC11<br>
+CC12<br>
+CC13<br>
+CC14<br>
+CC15<br>
+CC16<br>
+CC17<br>
+CC18<br>
+CC19<br>
+CC20<br>
+</div>
+
+<button data-toggle="collapse" data-target="#chat" class="myButton" >Chat</button>
+<div id="chat" class="collapse">
+CM01<br>
+CM02<br>
+CM03<br>
+CM04<br>
+CM05<br>
+CM06<br>
+CM07<br>
+CM08<br>
+CM09<br>
+CM10<br>
+CM11<br>
+CM12<br>
+CM13<br>
+</div>
+
+<button data-toggle="collapse" data-target="#equipes" class="myButton" >Equipes</button>
+<div id="equipes" class="collapse">
+CE01<br>
+CE02<br>
+CE03<br>
+CE04<br>
+CE05<br>
+CE06<br>
+</div>
+
+<button data-toggle="collapse" data-target="#servicos" class="myButton" >Serviços</button>
+<div id="servicos" class="collapse">
+CS01<br>
+CS02<br>
+CS03<br>
+CS04<br>
+CS05<br>
+</div>
 
 ---
 
 ## **Configurações**
+Cenários referentes à funcionalidades que provêm de configurações do serviço.
 
 ### Cenário de Configuração 1
 
@@ -37,7 +92,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 
 
 <br>
-<br>
 
 ### Cenário de Configuração 2
 |           |               |
@@ -53,7 +107,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 
 
 <br>
-<br>
 
 ### Cenário de Configuração 3
 |           |               |
@@ -67,7 +120,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Exceção**  | Sem sinal, smartphone sem bateria |
 | **Episódios**  | -  Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa conta <br> - Usuário habilita envio de dados anônimos e receber notícias |
 
-<br>
 <br>
 
 ### Cenário de Configuração 4
@@ -83,7 +135,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Episódios**  | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br>- Usuário acessa conta <br> - Usuário faz a exclusão da conta |
 
 <br>
-<br>
 
 ### Cenário de Configuração 5
 |           |               |
@@ -97,7 +148,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Exceção**  | Sem sinal, smartphone sem bateria |
 | **Episódios**  |- Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br>- Usuário acessa conta <br>- Usuário edita nome |
 
-<br>
 <br>
 
 ### Cenário de Configuração 6
@@ -113,7 +163,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Episódios**  | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa conta<br>- Usuário redefine username |
 
 <br>
-<br>
 
 ### Cenário de Configuração 7
 |           |               |
@@ -127,7 +176,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Exceção**  | Sem sinal, smartphone sem bateria |
 | **Episódios**  | - Usuário acessa no seu perfil <br>- Usuário acessa em configurações<br>- Usuário acessa conta<br> - Usuário adiciona novo e-mail |
 
-<br>
 <br>
 
 ### Cenário de Configuração 8
@@ -143,7 +191,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Episódios**  | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa conta <br> - Usuário adiciona número válido no aplicativo |
 
 <br>
-<br>
 
 ### Cenário de Configuração 9
 |           |               |
@@ -157,7 +204,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Exceção**  | Sem sinal, smartphone sem bateria |
 | **Episódios**  | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa contaUsuário adiciona foto ao perfil |
 
-<br>
 <br>
 
 ### Cenário de Configuração 10
@@ -173,7 +219,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Episódios**  | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário habilita compartilhar contatos |
 
 <br>
-<br>
 
 ### Cenário de Configuração 11
 |           |               |
@@ -188,8 +233,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Episódios**  | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções<br> - Usuário habilita modo vibração |
 
 <br>
-<br>
-
 
 ### Cenário de Configuração 12
 |           |               |
@@ -203,7 +246,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Exeção** | Sem sinal, smartphone sem bateria |
 | **Episódos** | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário habilita sinal sonoro|
 
-<br>
 <br>
 
 ### Cenário de Configuração 13
@@ -219,9 +261,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Episódos** | - Usuário acessa no seu perfil <br>  - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário escolhe sinal sonoro de chamada|
 
 <br>
-<br>
-
-
 
 ### Cenário de Configuração 14
 |           |               |
@@ -236,9 +275,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Episódos** | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário escolhe sinal sonoro de mensagens recebidas |
 
 <br>
-<br>
-
-
 	       
 ### Cenário de Configuração 15
 |           |               |
@@ -252,7 +288,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Exeção** | Sem sinal, smartphone sem bateria |
 | **Episódos** | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário seleciona tema “dark”|
 
-<br>
 <br>
 
 ### Cenário de Configuração 16
@@ -268,8 +303,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Episódos**| Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário habilita esconder conteúdo da tela de tarefas |
 
 <br>
-<br>
-
 
 ### Cenário de Configuração 17
 |           |               |
@@ -283,7 +316,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Exeção** | Sem sinal, smartphone sem bateria |
 | **Episódos**| Usuário acessa no seu perfil<br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário habilita pré visualizar mensagens |
 
-<br>
 <br>
 
 ### Cenário de Configuração 18
@@ -299,11 +331,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Episódos**| Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário habilita sempre executar download de imagens |
 
 <br>
-<br>
-
-
-
-
 
 ### Cenário de Configuração 19
 |           |               |
@@ -318,10 +345,7 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Episódos** | Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário habilita botão de envio |
 
 <br>
-<br>
-
-
-	       
+   
 ### Cenário de Configuração 20
 |           |               |
 |-----------|---------------|
@@ -337,11 +361,8 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 <br>
 <br>
 
-
-
-
-
 ## **Chat**
+Cenárioas da tela de chat da aplicação, descreve utilizações para funcionalidades acionadas na tela de chat.
 
 ### Cenário de Chat 1
 |           |               |
@@ -356,8 +377,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Episódios:**  | Amigo 1 envia mensagem de texto para amigo 2. <br>  Amigo 2 responde com  texto para amigo  |
 
 <br>
-<br>
-
 
 ### Cenário de Chat 2
 |           |               |
@@ -372,8 +391,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Episódios:**  | Amigo 1 envia mensagem de áudio para amigo 2. <br> Amigo 2 responde com áudio para amigo 1. |
 
 <br>
-<br>
-
 
 ### Cenário de Chat 3
 |           |               |
@@ -388,12 +405,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Episódios:**  | Gerente envia arquivos de imagem e vídeo acerca do novo projeto para a  equipe.|
 
 <br>
-<br>
-
-
-
-
-
 
 ### Cenário de Chat 4
 |           |               |
@@ -407,7 +418,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Recursos**  | Sem sinal, smartphone sem bateria. |
 | **Episódios:**  |Equipe define um grupo para analistas e desenvolvedores terem uma comunicação mais efetiva|
 
-<br>
 <br>
 
 ### Cenário de Chat 5
@@ -423,9 +433,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Episódios:**  | Envio de credenciais para acesso rápido ao email geral da empresa.|
 
 <br>
-<br>
-
-
 
 ### Cenário de Chat 6
 |           |               |
@@ -440,9 +447,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Episódios:**  | Envia um alerta que vibra e chama a atenção.|
 
 <br>
-<br>
-
-
 
 ### Cenário de Chat 7
 |           |               |
@@ -456,7 +460,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Exceção**  |  Sem sinal, smartphone sem bateria |
 | **Episódios:**  | Especifica um texto importante na mensagem utilizando negrito.|
 
-<br>
 <br>
 
 ### Cenário de Chat 8
@@ -472,7 +475,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Episódios:**  | Chefe deseja informar os dados de crescimento da empresa para toda a equipe.|
 
 <br>
-<br>
 
 ### Cenário de Chat 9
 |           |               |
@@ -486,7 +488,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Exceção**  |  Sem sinal, smartphone sem bateria |
 | **Episódios:**  | Amigo expressa alegria ao contar que foi promovido no trabalho, para expressar melhor o sentimento, ele utiliza um gif animado.|
 
-<br>
 <br>
 
 ### Cenário de Chat 10
@@ -502,7 +503,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Episódios:**  | Por conta de |
 
 <br>
-<br>
 
 ### Cenário de Chat 11
 |           |               |
@@ -516,7 +516,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Exceção**  |  Sem sinal, smartphone sem bateria. |
 | **Episódios:**  | Usuário utiliza Wire tanto pessoalmente quanto para o trabalho, para isso, ele utiliza duas contas,uma delas é associada a um time, que se trata da organização onde ele trabalha, a outra, é a pessoal, que não está cadastrada em nenhum time. |
 
-<br>
 <br>
 
 ### Cenário de Chat 12
@@ -532,8 +531,6 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Episódios:**  |   |
 
 <br>
-<br>
-
 
 ### Cenário de Chat 13
 |           |               |
@@ -550,23 +547,7 @@ assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fl
 | **Episódios:**  | seus respectivos documentos (por exemplo: .pdf) |
 
 <br>
-<br>
 
-
-### Cenário de Chat 14
-|           |               |
-|-----------|---------------|
-| **Id**  | CM14 |
-| **Título**  | Acoplar serviço externo. |
-| **Metas e Objetivos**  |pode ser implementado um novo serviço. |
-| **Contexto**  | dasdasass | 
-| **Ator(es)** | Usuários.|
-| **Recursos** | SO compatível, internet e energia. |
-| **Exceção**  | Sem sinal, sem internet, serviço fora do ar. |
-| **Episódios:**   | dasdssadas| 
-
-<br>
-<br>
 
 ## **Equipes**
 Na utilização da aplicação Wire é possível criar equipes. Esta é uma funcionalidade que ajuda na utilização da ferramenta por grupos em empresas ou mesmo uma empresa como um todo.
@@ -584,7 +565,6 @@ Na utilização da aplicação Wire é possível criar equipes. Esta é uma func
 | **Episódios:** | - Usuário cria um Equipe. <br> - Usuário adiciona membros à equipe.
 
 <br>
-<br>
 
 ### Cenário de Equipe 02
 |           |               |
@@ -598,7 +578,6 @@ Na utilização da aplicação Wire é possível criar equipes. Esta é uma func
 | **Exeção** | Sem sinal, smartphone sem bateria |
 | **Episódios:** | - Usuário com permissão necesária abre configurações da equipe. <br> - Usuário renomeia a equipe.
 
-<br>
 <br>
 
 ### Cenário de Equipe 03
@@ -614,7 +593,6 @@ Na utilização da aplicação Wire é possível criar equipes. Esta é uma func
 | **Episódios:** | - Administrador da equipe deseja ter uma visão geral do time, seus membros e suas respectivas posições dentro do time. 
 
 <br>
-<br>
 
 ### Cenário de Equipe 04
 |           |               |
@@ -629,7 +607,6 @@ Na utilização da aplicação Wire é possível criar equipes. Esta é uma func
 | **Episódios:** | - A empresa atualizou sua identidade visual e precisa alterar a logo do time no Wire. 
 
 <br>
-<br>
 
 ### Cenário de Equipe 05
 |           |               |
@@ -643,7 +620,6 @@ Na utilização da aplicação Wire é possível criar equipes. Esta é uma func
 | **Exeção** | Sem sinal, smartphone sem bateria |
 | **Episódios:** | - Usuário com permissão remove outro usuário participante da Equipe. |
 
-<br>
 <br>
 
 ### Cenário de Equipe 06
@@ -665,7 +641,7 @@ Na utilização da aplicação Wire é possível criar equipes. Esta é uma func
 Na utilização da aplicação Wire é possível utilizar serviços externos, tanto serviços já existentes e disponibilizados pela comunidade quanto algum serviço que o próprio utilizador tenha implementado para uso privado. Esta é uma funcionalidade que ajuda na utilização da ferramenta por grupos, empresas ou mesmo um usuário convencional.
 
 
-# Cenário de Serviços 01
+### Cenário de Serviços 01
 |           |               |
 |-----------|---------------|
 | **Id**  | CS01 |
@@ -678,9 +654,8 @@ Na utilização da aplicação Wire é possível utilizar serviços externos, ta
 | **Episódos:** | 
 
 <br>
-<br>
 
-# Cenário de Serviços 02
+### Cenário de Serviços 02
 |           |               |
 |-----------|---------------|
 | **Id**  | CS02 |
@@ -693,11 +668,10 @@ Na utilização da aplicação Wire é possível utilizar serviços externos, ta
 | **Episódos** |	- Usuário acopla um novo serviço <br> - Usuário ativa o serviço <br> - Usuário desativa o serviço
 
 <br>
-<br>
 	
 
 
-# Cenário de Serviços 03
+### Cenário de Serviços 03
 |           |               |
 |-----------|---------------|
 | **Id**  | CS03 |
@@ -710,10 +684,9 @@ Na utilização da aplicação Wire é possível utilizar serviços externos, ta
 | **Episódos** |	- Usuário acopla um novo serviço <br> - Usuário ativa o serviço <br> - Usuário desativa o serviço |
 
 <br>
-<br>
 
 
-# Cenário de Serviços 04
+### Cenário de Serviços 04
 |           |               |
 |-----------|---------------|
 | **Id**  | CS04|
@@ -726,12 +699,11 @@ Na utilização da aplicação Wire é possível utilizar serviços externos, ta
 | **Episódos** |	- Usuário acopla um novo serviço<br> - Usuário ativa o serviço<br> - Usuário adiciona serviço ao grupo.|
 
 <br>
-<br>
 
 
 
 
-# Cenário de Serviços 05
+### Cenário de Serviços 05
 |           |               |
 |-----------|---------------|
 | **Id**  | CS05 |
@@ -744,8 +716,6 @@ Na utilização da aplicação Wire é possível utilizar serviços externos, ta
 | **Episódos** |	- Usuário acessa a tela de serviços <br> - Usuário entra em gerenciar serviços.|
 
 <br>
-<br>
-		| **
 
 
 
