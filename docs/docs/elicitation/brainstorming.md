@@ -38,9 +38,10 @@ Durante a discussão, as ideias eram anotadas no quadro branco por um dos membro
 <div class="polaroid">
     <img src="docs/assets/img/brainstorm/requisitos_nao_funcionais.jpg"> <br>
 </div>
-</body>
 
 <h3><strong>Referências</strong></h3>
 
 * [Managing Software Requirements](http://index-of.es/Programming/C++/Addison%20Wesley%20-%20Leffingwell%20&%20Widrig%20-%20Managing%20Software%20Requirements,%201St%20Edition.pdf), acessado dia 10 de Outubro;
 * [Requisitos - Aula 07](https://aprender.ead.unb.br/pluginfile.php/719761/mod_resource/content/1/Requisitos%20-%20Aula%2007.pdf), acessado dia 10 de Outubro.
+
+</body>
