@@ -2,7 +2,7 @@
 
 | Data | Versão | Descrição | Autor |
 | --- | --- | --- | --- |
-| 10/09/2019 | 1.0 | Criação da Entrevista  | Iuri Severo |
+| 10/09/2019 | 1.0 | Criação da Entrevista  | Iuri Severo e Lucas Fellipe|
 
 <h3><strong>Introdução</strong></h3>
 <p align="justify"> &emsp;&emsp;Na área de Requisitos de Software existe uma técnica chamada entrevista, que consiste em encontrar os requisitos ideais para o sistema. Dessa forma, o entrevistador define algumas perguntas a serem respondidas pelo entrevistado, permitindo que o entrevistador adquira informações de caráter subjetivo. A entrevista é uma ótima ferramenta para aproximar o engenheiro de requisitos e o usuário, permitindo que o usuário atue no sistema.</p>
