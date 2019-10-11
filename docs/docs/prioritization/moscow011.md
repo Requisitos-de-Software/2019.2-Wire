@@ -13,57 +13,67 @@
 | RF02 | Definir quanto tempo a mensagem fica visível|  |
 | RF03 | Apagar mensagem |  |
 | RF04 | Responder mensagem |  |
-| RF05 | Encaminhar mensagem | COULD |
-| RF06 | Editar mensagem | COULD |
-| RF07 | Enviar áudio | COULD |
-| RF08 | Apagar áudio | COULD |
-| RF09 | Selecionar mensagens | COULD |
-| RF10 | Dar play e pause no áudio | COULD |
-| RF11 | Escolher ponto de tempo do áudio | COULD |
-| RF12 | Enviar imagem e vídeo | COULD |
-| RF13 | Editar imagem| COULD |
-| RF14 | Enviar arquivo | COULD |
-| RF15 | Download de arquivos | COULD |
-| RF16 | Abrir arquivo dentro do aplicativo | COULD |
-| RF17 | Chamada de vídeo | COULD |
-| RF18 | Adicionar pessoas à chamda de vídeo | COULD |
-| RF19 | Entrar em chamada de vídeo já existente | COULD |
-| RF20 | Ligar e desligar câmera | COULD |
-| RF21 | Fazer ligação de áudio | COULD |
-| RF22 | Ligar e desligar microfone | COULD |
-| RF23 | Sair da chamada | COULD |
-| RF24 | Criar grupo | COULD |
-| RF25 | Adicionar pessoas no grupo | COULD |
-| RF26 | Remover pessoas do grupo | COULD |
-| RF27 | Definir permissões de cada membro do grupo | COULD |
-| RF28 | Responder mensagem recebida no grupo no privado | COULD |
-| RF29 | Fixar mensagens | COULD |
-| RF30 | Mensagem de alerta | COULD |
-| RF31 | Silenciar grupo | COULD |
-| RF32 | Criar canal de transmissão de mensagens | COULD |
-| RF33 | Criar Guest Room | COULD |
-| RF34 | Adicionar contatos | COULD |
-| RF35 | Editar dados do contato | COULD |
-| RF36 | Bloquear usuário | COULD |
-| RF37 | Criar time | COULD |
-| RF38 | Adicionar usuários ao seu time | COULD |
-| RF39 | Cadastrar usuário pelo número | COULD |
-| RF40 | Cadastrar usuário pelo e-mail | COULD |
-| RF41 | Definir nome do usuário | COULD |
-| RF42 | Editar perfil | COULD |
-| RF43 | Alterar opção de fazer download automático | COULD |
-| RF44 | Mudar senha | COULD |
-| RF45 | Fazer Backup | COULD |
-| RF46 | Deletar conta | COULD |
+| RF05 | Encaminhar mensagem |  |
+| RF06 | Editar mensagem |  |
+| RF07 | Enviar áudio |  |
+| RF08 | Apagar áudio |  |
+| RF09 | Selecionar mensagens |  |
+| RF10 | Dar play e pause no áudio |  |
+| RF11 | Escolher ponto de tempo do áudio |  |
+| RF12 | Enviar imagem e vídeo |  |
+| RF13 | Editar imagem|  |
+| RF14 | Enviar arquivo |  |
+| RF15 | Download de arquivos |  |
+| RF16 | Abrir arquivo dentro do aplicativo |  |
+| RF17 | Chamada de vídeo |  |
+| RF18 | Adicionar pessoas à chamda de vídeo |  |
+| RF19 | Entrar em chamada de vídeo já existente |  |
+| RF20 | Ligar e desligar câmera |  |
+| RF21 | Fazer ligação de áudio |  |
+| RF22 | Ligar e desligar microfone |  |
+| RF23 | Sair da chamada |  |
+| RF24 | Criar grupo |  |
+| RF25 | Adicionar pessoas no grupo |  |
+| RF26 | Remover pessoas do grupo |  |
+| RF27 | Definir permissões de cada membro do grupo |  |
+| RF28 | Responder mensagem recebida no grupo no privado |  |
+| RF29 | Fixar mensagens |  |
+| RF30 | Mensagem de alerta |  |
+| RF31 | Silenciar grupo |  |
+| RF32 | Criar canal de transmissão de mensagens |  |
+| RF33 | Criar Guest Room |  |
+| RF34 | Adicionar contatos |  |
+| RF35 | Editar dados do contato |  |
+| RF36 | Bloquear usuário |  |
+| RF37 | Criar time |  |
+| RF38 | Adicionar usuários ao seu time |  |
+| RF39 | Cadastrar usuário pelo número |  |
+| RF40 | Cadastrar usuário pelo e-mail |  |
+| RF41 | Definir nome do usuário |  |
+| RF42 | Editar perfil |  |
+| RF43 | Alterar opção de fazer download automático |  |
+| RF44 | Mudar senha |  |
+| RF45 | Fazer Backup |  |
+| RF46 | Deletar conta |  |
 
 ### Requisitos não funcionais
 
 | ID | Descrição | Prioridade |
 | --- | --- | --- |
-| RNF1 | A aplicação fornecerá criptografia de ponta-a-ponta. | MUST |
-| RNF2 | O usuário poderá cadastrar, configurar e utilizar até 8 contas simultâneamente | SHOULD |
-| RNF3 | Aplicação disponível ao usuário em todas as plataformas | SHOULD |
-| RNF4 | Proteção total aos dados do usuário | MUST |
+| RNF01 | Criptografia de ponta-a-ponta. |  |
+| RNF02 | Cadastro, configuração e utilização de até 8 contas simultâneas |  |
+| RNF03 | Disponível em multiplataformas independentes |  |
+| RNF04 | Alterar foto de fundo |  |
+| RNF05 | Alterar fonte do texto |  |
+| RNF06 | Modo noturno |  |
+| RNF07 | Proteção de  dados do usuário |  |
+| RNF08 | Disponibilidade self-hosted e cloud manager |  |
+| RNF09 | Multilinguagem |  |
+| RNF10 | Possibilidade de acoplar serviços externos |  |
+| RNF11 | Compatibilidade com outros formatos de mensagem (Markdown, GIFS, etc) |  |
+| RNF12 | Check de visualização de mensagem |  |
+| RNF13 | Visto por último |  |
+| RNF14 | Aviso de mensagem não enviada |  |
 
 
 <!DOCTYPE html>
