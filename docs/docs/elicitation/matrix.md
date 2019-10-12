@@ -18,10 +18,9 @@
 # Matriz de Relação
 
 ## Requisitos Funcionais
-<br>
 
 | ID | Descrição | 5W2H |  Introspecção  | Questionário |  Storytelling | Entrevista | Brainstorming|
-| ----- | ---- | ---- | ---- | ---- | ---- | ---- |
+| ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | RF01 | Enviar mensagem                                | X | X | X | X | X |
 | RF02 | Definir quanto tempo a mensagem fica visível   |  | X |  |  |   |    |
 | RF03 | Apagar mensagem                                |  |  | X |  |   |    |
@@ -69,6 +68,21 @@
 | RF45 | Fazer Backup                                   |  | X |  |  |  X  |   |
 | RF46 | Deletar conta                                  |  | X | X |  |   |  |
 
-[Clique aqui para visualizar a imagem ampliada.](https://user-images.githubusercontent.com/37874689/65194986-8df07e80-da53-11e9-83f8-69aca722e2c7.jpg)
-
 ## Requisitos Não Funcionais
+
+| ID | Descrição |  5W2H |  Introspecção  | Questionário |  Storytelling | Entrevista | Brainstorming |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| RNF01 | Criptografia de ponta-a-ponta.                                    | X |  | X | X | X |  |
+| RNF02 | Cadastro, configuração e utilização de até 8 contas simultâneas   |  | X | X | X |  | X |
+| RNF03 | Disponível em multiplataformas independentes                      | X |  | X | X | X |  |
+| RNF04 | Alterar foto de fundo                                             |  | X |  |  |  | X |
+| RNF05 | Alterar fonte do texto                                            |  | X |  |  |  | X |
+| RNF06 | Modo noturno                                                      |  | X |  |  |  | X |
+| RNF07 | Proteção de  dados do usuário                                     | X | X | X | X | X |  |
+| RNF08 | Disponibilidade self-hosted e cloud manager                       |  |  |  |  | X | X |
+| RNF09 | Multilinguagem                                                    |  |  |  |  |  | X |
+| RNF10 | Possibilidade de acoplar serviços externos                        |  |  |  |  |  | X |
+| RNF11 | Compatibilidade com outros formatos de mensagem (Markdown, GIFS, etc) |  |  |  |  |  | X |
+| RNF12 | Check de visualização de mensagem                                 |  |  | X |  |  | X |
+| RNF13 | Visto por último                                                  |  |  | X |  |  | X |
+| RNF14 | Aviso de mensagem não enviada                                     |  |  |  |  |  | X |
