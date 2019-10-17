@@ -12,5 +12,9 @@ Usamos algumas formas de modelagem de requisitos, que são as seguintes:
 ---
 
 ## Ágil
-- [**NFR Framework**](/docs/modeling/nfr.md)
 - [**Product Backlog**](/docs/modeling/backlog.md)
+
+---
+
+## Backlog 
+- [**NFR Framework**](/docs/modeling/nfr.md)
