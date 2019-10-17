@@ -7,7 +7,7 @@
 - [**Priorização**](docs/prioritization/prioritization.md)
 - [**Modelagem de Requisitos**](docs/modeling/modeling.md)
 - [**Políticas**](/docs/policies/policies.md)
-
+---
 - **Links**
 - [Github](https://github.com/Requisitos-2019-2-Wire/Wire)
 - [Wire App Page](https://wire.com)

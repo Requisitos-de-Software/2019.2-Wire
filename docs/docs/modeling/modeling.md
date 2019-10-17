@@ -8,4 +8,9 @@ Usamos algumas formas de modelagem de requisitos, que são as seguintes:
 - [**Léxicos**](/docs/modeling/lexicons.md)
 - [**Cenários**](/docs/modeling/scenarios.md)
 - [**Especificação Suplementar**](/docs/modeling/supplementary_specifications.md)
+
+---
+
+## Ágil
 - [**NFR Framework**](/docs/modeling/nfr.md)
+- [**Product Backlog**](/docs/modeling/backlog.md)
