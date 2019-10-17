@@ -21,6 +21,21 @@
 
 <a href="docs/assets/img/modeling/nfr_eficiencia_propagacao.png"> Clique aqui para ampliar</a>
 
+ 
+ ## NFR - Confiabilidade e Segurança
+
+
+<img src="docs/assets/img/modeling/NFR_Confiabilidade_Wire.png">
+
+<a href="docs/assets/img/modeling/NFR_Confiabilidade_Wire.png"> Clique aqui para ampliar</a>
+
+
+## Propagação
+
+<img src="docs/assets/img/modeling/NFR_Confiabilidade_Wire_prop.png">
+
+<a href="docs/assets/img/modeling/nfr_eficiencia_propagacao_prop.png"> Clique aqui para ampliar</a>
+
 
 
 
