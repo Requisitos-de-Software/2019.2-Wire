@@ -11,7 +11,7 @@
 ## Checklist de verificação
 
 * O título é auto-explicativo
-* O objetivo é claro
+* O objetivo é claro 
 * O contexto apresenta pré-condição
 * A pré-condição está completa
 * O contexto apresenta local
@@ -24,17 +24,8 @@
 * Possui *hyperlinks*
 
 ## Resultado
-<!DOCTYPE html>
-<html>
-    <head>
-        <link rel="stylesheet" href="docs/assets/css/style.css">
-    </head>
-<body>
-        <div class= "zoom">
-            <img src="https://user-images.githubusercontent.com/40740008/67860673-3981f980-fafd-11e9-9025-0f6cb3b34ccf.jpg" class="img-responsive">
-        </div>
-    </body>
-</hmtl>
+
+![Scenario result](https://user-images.githubusercontent.com/40740008/67860673-3981f980-fafd-11e9-9025-0f6cb3b34ccf.jpg)
 
 Clique [**aqui**](https://user-images.githubusercontent.com/40740008/67860673-3981f980-fafd-11e9-9025-0f6cb3b34ccf.jpg) para ver a imagem em um tamanho melhor
 
