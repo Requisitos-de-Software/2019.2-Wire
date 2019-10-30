@@ -1,5 +1,9 @@
 # Verificação NFR Framework
 
+
+## Rastreabilidade
+  [**NFR**](/docs/modeling/nfr)
+
 ## Checklist de verificação
 
 * Cada softgoal possui um tipo e um tópico?
@@ -26,11 +30,11 @@
 | 4 | Ambiguidade | Informação leva múltiplas interpretações |
 | 5 | Defeito de Informação Estranha | Informação que aparece no artefato e, embora relacionada, não é necessária para o sistema |
 
-[**NFR de Usabilidade**](/docs/verification/NFR/NFR_usabilidade_verify.md) <br>
-[**NFR de Eficiência**](/docs/verification/NFR/NFR_eficiencia_verify.md) <br>
-[**NFR de Confiabilidade**](/docs/verification/NFR/NFR_confiabilidade_verify.md) <br>
+[**NFR de Usabilidade**](/docs/verification/NFR/NFR_usability_verify.md) <br>
+[**NFR de Eficiência**](/docs/verification/NFR/NFR_efficiency_verify.md) <br>
+[**NFR de Confiabilidade**](/docs/verification/NFR/NFR_reliability_verify.md) <br>
 
-## Referência
+## Referências
 * [Extending the NFR Framework with Measurable NonFunctional Requirements](https://pdfs.semanticscholar.org/4ab6/c7def9be016130684ae615d5bd6ae0e04992.pdf)
 * Goal Achievement Evaluation in the NFR Framework, by Sam Supakkul and Lawrence Chung
 * [Verificação NFR - Habitica](https://requisitos-habitica.herokuapp.com/VerificacaoNFR)
@@ -46,4 +50,5 @@ table {
 <link rel="stylesheet" href="docs/assets/css/table.css">
 </head>
 </html> 
+
 
