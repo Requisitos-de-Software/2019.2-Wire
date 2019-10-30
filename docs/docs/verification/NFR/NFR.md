@@ -1,4 +1,4 @@
-# Verificação NFR Frameword
+# Verificação NFR Framework
 
 ## Checklist de verificação
 
@@ -26,9 +26,9 @@
 | 4 | Ambiguidade | Informação leva múltiplas interpretações |
 | 5 | Defeito de Informação Estranha | Informação que aparece no artefato e, embora relacionada, não é necessária para o sistema |
 
-[**NFR de Usabilidade**](/docs/verification/NFR_usabilidade_verify.md) <br>
-[**NFR de Eficiência**](/docs/verification/NFR_eficiencia_verify.md) <br>
-[**NFR de Confiabilidade**](/docs/verification/NFR_confiabilidade_verify.md) <br>
+[**NFR de Usabilidade**](/docs/verification/NFR/NFR_usabilidade_verify.md) <br>
+[**NFR de Eficiência**](/docs/verification/NFR/NFR_eficiencia_verify.md) <br>
+[**NFR de Confiabilidade**](/docs/verification/NFR/NFR_confiabilidade_verify.md) <br>
 
 ## Referência
 * [Extending the NFR Framework with Measurable NonFunctional Requirements](https://pdfs.semanticscholar.org/4ab6/c7def9be016130684ae615d5bd6ae0e04992.pdf)
