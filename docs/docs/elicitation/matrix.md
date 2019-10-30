@@ -15,6 +15,18 @@
 </head>
 <body>
 
+<!DOCTYPE html>
+<html>
+<head>
+<style src='docs/docs/assets/css/table.css'>
+table {
+  width: 100%;
+}
+</style>
+<link rel="stylesheet" href="docs/assets/css/table.css">
+</head>
+</html> 
+
 # Matriz de Relação
 
 ## Requisitos Funcionais
