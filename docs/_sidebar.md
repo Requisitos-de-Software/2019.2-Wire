@@ -6,6 +6,7 @@
 - [**Elicitação**](docs/elicitation/elicitation.md)
 - [**Priorização**](docs/prioritization/prioritization.md)
 - [**Modelagem de Requisitos**](docs/modeling/modeling.md)
+- [**Verificação**](docs/verification/verification.md)
 - [**Políticas**](/docs/policies/policies.md)
 ---
 - **Links**
