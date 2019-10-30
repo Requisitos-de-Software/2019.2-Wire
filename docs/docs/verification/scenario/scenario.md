@@ -89,8 +89,8 @@ Clique [**aqui**](https://user-images.githubusercontent.com/40740008/67860673-39
 
 ## Referências
 
-* Inspeção de *Sofware*. Silvana M. Melo
-* Requisitos de *Software* - [**Habitica**](https://requisitos-habitica.netlify.com)
+* [1] S. M. Melo. Inspeção de software. University of São Paulo: São Carlos, SP, 2009.
+* [2] Requisitos de *Software* - Universidade de Brasília - [**Habitica**](https://requisitos-habitica.netlify.com)
 
 <!DOCTYPE html>
 <html>
