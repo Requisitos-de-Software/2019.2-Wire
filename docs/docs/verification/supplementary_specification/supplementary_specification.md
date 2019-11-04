@@ -14,14 +14,20 @@
 ![image](https://user-images.githubusercontent.com/26935152/68078168-82f96f80-fdaf-11e9-9732-d99825ceccd7.png)
 
 ## Gráficos
+  <div class="row">
+  <div class="column">
+    <img width="349" alt="Screen Shot 2019-10-30 at 14 49 59" src="https://user-images.githubusercontent.com/26935152/68147164-3d0beb00-ff18-11e9-8fef-b93cdc9fcb40.png">
+  </div>
+  <div class="column">
+    <img width="349" alt="Screen Shot 2019-10-30 at 14 56 05" src="https://user-images.githubusercontent.com/26935152/68147199-53b24200-ff18-11e9-900a-f982d4028ecd.png">
+  </div>
+</div>
+<br>
 <div class="row">
   <div class="column">
-    <img width="349" alt="Screen Shot 2019-10-30 at 14 49 59" src="https://user-images.githubusercontent.com/26935152/68091972-1e005100-fe65-11e9-9c42-fbfc0430e5c0.png">
+    <img width="349" alt="Screen Shot 2019-10-30 at 14 57 06" src="https://user-images.githubusercontent.com/26935152/68147211-5d3baa00-ff18-11e9-8718-a7d74ff109db.png">
   </div>
- <div class="row">
-  <div class="column">
-    <img width="349" alt="Screen Shot 2019-10-30 at 14 49 59" src="https://user-images.githubusercontent.com/26935152/68092017-83ecd880-fe65-11e9-9a8e-cb7cfa90b8e8.png">
-  </div>
+</div>
 
 ## Conclusão
 A [**Especificação Suplementar**](/docs/modeling/supplementary_specifications.md) atende em
