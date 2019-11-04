@@ -1,4 +1,4 @@
-# Verificação Cenários
+# Verificação Casos de Uso
 
 | Data | Versão | Descrição | Autor |
 | --- | --- | --- | --- |
