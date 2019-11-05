@@ -4,4 +4,4 @@
 - [<h3>Especificação Suplementar</h3>](docs/verification/supplementary_specification/supplementary_specification.md)
 - [<h3>NFR</h3>](/docs/verification/NFR/NFR.md)
 - [<h3>Rich Pictures</h3>](docs/verification/rich_picture/rich_picture.md)
-- [<h3>Léxicos</h3>](docs/verification/lexicos/lexicos.md)
+- [<h3>Léxicos</h3>](docs/verification/lexico/lexicoMenu.md)

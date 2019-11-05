@@ -60,3 +60,15 @@
 
 * ANTUNES, I. Território das palavras: estudo do léxico em sala de aula. São Paulo: Parábola Editorial, 2012.
 * BIDERMAN, M.T.C. Teoria linguística: teoria lexical e teoria computacional. São Paulo: Martins Fontes, 2001.
+
+<!DOCTYPE html>
+<html>
+<head>
+<style src='docs/docs/assets/css/table.css'>
+table {
+  width: 100%;
+}
+</style>
+<link rel="stylesheet" href="docs/assets/css/table.css">
+</head>
+</html>

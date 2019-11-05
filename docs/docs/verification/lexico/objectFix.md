@@ -49,3 +49,15 @@
 |Objeto|Tipo de Erro|Verificação|Justificativa|
 |---|---|---|---|
 |Perfil|Defeito de Omissão|Possui hyperlink|Falta relacionamento com mensagem|noção: “usuário” não possui perfil|
+
+<!DOCTYPE html>
+<html>
+<head>
+<style src='docs/docs/assets/css/table.css'>
+table {
+  width: 100%;
+}
+</style>
+<link rel="stylesheet" href="docs/assets/css/table.css">
+</head>
+</html>

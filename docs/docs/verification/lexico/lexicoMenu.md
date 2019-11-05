@@ -1,4 +1,4 @@
-# Verificação Léxico
+# Verificação dos Léxicos
 
-[**Léxico Objetos**](/docs/verification/lexico/lexico.md) <br>
-[**Léxico Verbos**](/docs/verification/lexicos/lexicos.md)
+[**Léxicos Objetos**](/docs/verification/lexico/lexicoObject.md) <br>
+[**Léxicos Verbos**](/docs/verification/lexico/lexicoVerbs.md)<br>
