@@ -76,6 +76,8 @@ Clique [**aqui**](https://user-images.githubusercontent.com/42192251/68148460-cd
 
 * [2] Marilyn Bush, Chris Gerrard, Clifford Shelley. Fagan Inspection: The Silver Bullet No-one Wants to Fire. Disponível em: [http://www.osel.co.uk/presentations/fitsbnwtf.pdf](http://www.osel.co.uk/presentations/fitsbnwtf.pdf). Acesso em 28 de outubro de 2019.
 
+* [3] Ivar Jacobson, Ian Spence, Kurt Bittner . USE-CASE 2.0,The Guide to Succeeding with Use Cases. Disponível em: [https://www.ivarjacobson.com/sites/default/files/field_iji_file/article/use-case_2_0_jan11.pdf](https://www.ivarjacobson.com/sites/default/files/field_iji_file/article/use-case_2_0_jan11.pdf). Acesso em 27 de outubro de 2019.
+
 
 <!DOCTYPE html>
 <html>
