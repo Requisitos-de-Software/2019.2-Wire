@@ -22,7 +22,7 @@
 
 ## Possíveis erros que podem ser encontrados
 
-![Fagan errors](https://user-images.githubusercontent.com/40740008/67889473-b1681800-fb2d-11e9-9417-8b0d5289b154.jpg)
+![tabela de defeitos](https://user-images.githubusercontent.com/40740008/68208095-311f3800-ffaf-11e9-9592-82ae6efa30bc.jpg)
 
 
 ## Resultado
