@@ -1,5 +1,8 @@
 # Verificação NFR Framework
 
+| Data | Versão | Descrição | Autor |
+| --- | --- | --- | --- |
+| 30/10/2019 | 1.0 | Verificação do NFR Framwork  | Iuri Severo |
 
 ## Rastreabilidade
   [**NFR**](/docs/modeling/nfr)
