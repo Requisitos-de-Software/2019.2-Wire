@@ -7,6 +7,7 @@
 - [**Priorização**](docs/prioritization/prioritization.md)
 - [**Modelagem de Requisitos**](docs/modeling/modeling.md)
 - [**Verificação**](docs/verification/verification.md)
+- [**Validação**](docs/validation/validation.md)
 - [**Políticas**](/docs/policies/policies.md)
 ---
 - **Links**
