@@ -1,6 +1,8 @@
 | Data | Versão | Descrição | Autor |
 | --- | --- | --- | --- |
+| 26/09/2019 | 1.0 | Criação do documento de Casos de Uso | Iuri Severo |
 | 03/10/2019 | 2.0 | Refatoração do documento de Casos de Uso | Iuri Severo |
+| 16/11/2019 | 2.1 | Refatoração do documento de Casos de Uso a partir da verificação| Iuri Severo |
 
 [Versão 1.0](/docs/modeling/user_cases/user_casesv1.md)
 
@@ -10,46 +12,8 @@ Casos de Uso são utilizados para descrever um conjunto de ações que um sistem
 </p>
 
 ## Módulos dos Casos de Uso
-
-<p align="center">
-<b>Módulo de Mensagens</b>
-</p>
-<p align="center">
-<a href="#/docs/modeling/user_cases/modulo_mensagens.md"><img src="docs/assets/img/modeling/uc_diagrams/UserCasesDiagram_Wire_Mensagens.png" lenght=500px height=500px></a>
-</p>
-
-------------------------------------------------------------------------
-
-<p align="center">
-<b>Módulo de Ligações</b>
-</p>
-<p align="center">
-<a href="#/docs/modeling/user_cases/modulo_ligacoes.md"><img src="docs/assets/img/modeling/uc_diagrams/UserCasesDiagram_Wire_Ligacoes.png" lenght=400px height=400px></a>
-</p>
-
-------------------------------------------------------------------------
-
-<p align="center">
-<b>Módulo de Grupos</b>
-</p>
-<p align="center">
-<a href="#/docs/modeling/user_cases/modulo_grupos.md"><img src="docs/assets/img/modeling/uc_diagrams/UserCasesDiagram_Wire_Grupos.png" lenght=500px height=500px></a>
-</p>
-
-------------------------------------------------------------------------
-
-<p align="center">
-<b>Módulo de Cadastros</b>
-</p>
-<p align="center">
-<a href="#/docs/modeling/user_cases/modulo_cadastros.md"><img src="docs/assets/img/modeling/uc_diagrams/UserCasesDiagram_Wire_Cadastros.png" lenght=500px height=500px></a>
-</p>
-
-------------------------------------------------------------------------
-
-<p align="center">
-<b>Módulo de Usuários</b>
-</p>
-<p align="center">
-<a href="#/docs/modeling/user_cases/modulo_usuarios.md"><img src="docs/assets/img/modeling/uc_diagrams/UserCasesDiagram_Wire_Usuarios.png" lenght=400px height=400px></a>
-</p>
+* [Módulo de Mensagens](docs/modeling/user_cases/modulo_mensagens.md)
+* [Módulo de Ligações](docs/modeling/user_cases/modulo_ligacoes.md)
+* [Módulo de Grupos](docs/modeling/user_cases/modulo_grupos.md)
+* [Módulo de Cadastros](docs/modeling/user_cases/modulo_cadastros.md)
+* [Módulo de Usuários](docs/modeling/user_cases/modulo_usuarios.md)

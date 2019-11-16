@@ -5,24 +5,24 @@
 <img src="docs/assets/img/modeling/uc_diagrams/UserCasesDiagram_Wire_Ligacoes.png">
 
 <p align="right">
-<a href="https://user-images.githubusercontent.com/42645264/66132038-d323bd00-e5ca-11e9-82ab-722b13f2dc8c.png"> Clique aqui para visualizar a imagem ampliada.
+<a href="https://user-images.githubusercontent.com/42645264/68998138-0ecdca00-088d-11ea-9196-8845b725c4ad.png"> Clique aqui para visualizar a imagem ampliada.
 </p>
 
 ## Especificações dos casos de uso
 
 |Casos de Uso|Ator|Descrição|
 |---|---|------|
-|UC15 - Fazer ligação| Usuário | Esse caso de uso permite o usuário se comunicar por meios além da mensagem|
-|UC16 - Ligação de áudio| Usuário | Esse caso permite ao usuário a opção de ter uma conversa por áudio com outro usuário|
-|UC17 - Ligar e desligar microfone| Usuário | Esse caso possibilita o usuário ligar e desligar o microfone, para que ele seja, ou não, escutado durante a ligação|
-|UC18 - Entrar em ligação já existente| Usuário | Este caso de uso permite o usuário entrar em uma ligação, de áudio ou de vídeo, que está em execução|
-|UC19 - Ligação de vídeo| Usuário | Esse caso de uso fornece ao usuário a opção de ter uma conversa por vídeo com outro usuário|
-|UC20 - Ligar e desligar câmera| Usuário | Esse caso possibilita o usuário ligar e desligar a câmera de vídeo, para que ele seja, ou não, visto durante a ligação|
-|UC21 - Adicionar pessoas à ligação| Usuário | Este caso de uso ocorre quando o usuário adiciona uma terceira pessoas à chamada atual, seja de áudio ou de vídeo|
+|UC14 - Fazer ligação| Usuário | Esse caso de uso permite o usuário se comunicar por meios além da mensagem|
+|UC15 - Ligação de áudio| Usuário | Esse caso permite ao usuário a opção de ter uma conversa por áudio com outro usuário|
+|UC16 - Ligar e desligar microfone| Usuário | Esse caso possibilita o usuário ligar e desligar o microfone, para que ele seja, ou não, escutado durante a ligação|
+|UC17 - Entrar em ligação já existente| Usuário | Este caso de uso permite o usuário entrar em uma ligação, de áudio ou de vídeo, que está em execução|
+|UC18 - Ligação de vídeo| Usuário | Esse caso de uso fornece ao usuário a opção de ter uma conversa por vídeo com outro usuário|
+|UC19 - Ligar e desligar câmera| Usuário | Esse caso possibilita o usuário ligar e desligar a câmera de vídeo, para que ele seja, ou não, visto durante a ligação|
+|UC20 - Adicionar pessoas à ligação| Usuário | Este caso de uso ocorre quando o usuário adiciona uma terceira pessoas à chamada atual, seja de áudio ou de vídeo|
 
 ## Fluxo de Eventos
 
-### **UC15 - Fazer ligação**
+### **UC14 - Fazer ligação**
 | |
 | - |
 | <h3> Fluxo Básico </h3> |

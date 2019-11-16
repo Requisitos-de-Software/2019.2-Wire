@@ -5,7 +5,7 @@
 <img src="docs/assets/img/modeling/uc_diagrams/UserCasesDiagram_Wire_Mensagens.png">
 
 <p align="right">
-<a href="https://user-images.githubusercontent.com/42645264/66132029-cdc67280-e5ca-11e9-8e62-3859dabc67c0.png"> Clique aqui para visualizar a imagem ampliada.
+<a href="https://user-images.githubusercontent.com/42645264/68998139-0f666080-088d-11ea-8819-4721785aa471.png"> Clique aqui para visualizar a imagem ampliada.
 </p>
 
 ## Especificações dos casos de uso
@@ -25,8 +25,6 @@
 |UC11 - Abrir arquivo dentro do aplicativo| Usuário | Este caso de uso permite ao usuário abrir um arquivo recebido por mensagem sem sair do aplicativo|
 |UC12 - Enviar imagem e vídeo| Usuário | Este caso de uso fornece ao usuário a opção de enviar arquivos de imagem e vídeo por mensagem|
 |UC13 - Editar imagem| Usuário | Este caso de uso permite ao usuário editar uma imagem que será enviada|
-|UC14 - Fazer backup de mensagens| Usuário | Este caso de uso possibilita o usuário salvar, em um banco de dados próprio, todas as conversas do aplicativo|
-
 
 ## Fluxo de Eventos
 ### **UC01 - Enviar Mensagem**
@@ -54,9 +52,3 @@
 | Usuário 1 envia uma mensagem que possui um arquivo no formato PDF para o usuário 2, que o abre no próprio aplicativo após recebê-lo |
 | <h4><b>FA9 - Enviar e editar imagem</b></h4> |
 | Usuário 1 recorta uma imagem que achou na internet e a enviar para o usuário 2 |
-
-### **UC14 - Fazer Backup de mensagens**
-| |
-| - |
-| <h4><b>Fluxo Básico</b></h4> | 
-| O usuário 1 faz o backup das conversas que possui no aplicativo, salvando-as no Desktop pessoal dele | 
