@@ -63,8 +63,8 @@
 * **Tema** - Aplicativo de comunicação.
 * **Épico** - Comunicação entre usuários.
 * **Feature** - Chat de mensagem.
-* **Rastreabilidade** - [RF01](/docs/elicitation/matrix?id=rf01)
-* **História de Usuário** - [US01](/)
+* **Rastreabilidade** - [RF01](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US01]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/send_message.gif" width=47%>
@@ -73,8 +73,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Chat de mensagem;
-* **Rastreabilidade** - [RF02](/docs/elicitation/matrix?id=rf02)
-* **História de Usuário** - [US01](/)
+* **Rastreabilidade** - [RF02](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US01]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/define_message_time.gif" width=47%>
@@ -83,8 +83,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Chat de mensagem;
-* **Rastreabilidade** - [RF03](/docs/elicitation/matrix?id=rf03)
-* **História de Usuário** - [US01](/)
+* **Rastreabilidade** - [RF03](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US01]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/delete_message.gif" width=47%>
@@ -94,8 +94,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Chat de mensagem;
-* **Rastreabilidade** - [RF04](/docs/elicitation/matrix?id=rf04)
-* **História de Usuário** - [US01](/)
+* **Rastreabilidade** - [RF04](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US01]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/answer_message.gif" width=47%>
@@ -104,8 +104,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Chat de mensagem;
-* **Rastreabilidade** - [RF05](/docs/elicitation/matrix?id=rf05)
-* **História de Usuário** - [US01](/)
+* **Rastreabilidade** - [RF05](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US01]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/forward_message.gif"  width=47%>
@@ -114,8 +114,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Chat de mensagem;
-* **Rastreabilidade** - [RF06](/docs/elicitation/matrix?id=rf06)
-* **História de Usuário** - [US01](/)
+* **Rastreabilidade** - [RF06](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US01]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/edit_message.gif"  width=47%>
@@ -124,8 +124,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Chat de mensagem;
-* **Rastreabilidade** - [RF07](/docs/elicitation/matrix?id=rf07)
-* **História de Usuário** - [US13](/)
+* **Rastreabilidade** - [RF07](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US13]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/record_audio.gif"  width=47%>
@@ -135,8 +135,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Chat de mensagem;
-* **Rastreabilidade** - [RF08](/docs/elicitation/matrix?id=rf08)
-* **História de Usuário** - [US13](/)
+* **Rastreabilidade** - [RF08](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US13]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/delete_audio.gif" width=47%>
@@ -145,8 +145,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Chat de mensagem;
-* **Rastreabilidade** - [RF09](/docs/elicitation/matrix?id=rf09)
-* **História de Usuário** - [US01](/)
+* **Rastreabilidade** - [RF09](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US01]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/select_message.gif" width=47%>
@@ -155,8 +155,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Chat de mensagem;
-* **Rastreabilidade** - [RF10](/docs/elicitation/matrix?id=rf10)
-* **História de Usuário** - [US13](/)
+* **Rastreabilidade** - [RF10](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US13]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/play_audio.gif" width=47%>
@@ -165,8 +165,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Chat de mensagem;
-* **Rastreabilidade** - [RF11](/docs/elicitation/matrix?id=rf11)
-* **História de Usuário** - [US13](/)
+* **Rastreabilidade** - [RF11](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US13]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/delete_audio.gif" width=47%>
@@ -175,8 +175,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Chat de mensagem;
-* **Rastreabilidade** - [RF12](/docs/elicitation/matrix?id=rf12)
-* **História de Usuário** - [US02](/)
+* **Rastreabilidade** - [RF12](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US02]()
 * **Funcionalidade**
 
 <img src="docs/assets/img/post_traceability/send_image.gif" width=47%>
@@ -187,8 +187,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Chat de mensagem;
-* **Rastreabilidade** - [RF13](/docs/elicitation/matrix?id=rf13)
-* **História de Usuário** - [US02](/)
+* **Rastreabilidade** - [RF13](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US02]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/edit_image.gif" width=47%>
@@ -197,8 +197,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Chat de mensagem;
-* **Rastreabilidade** - [RF14](/docs/elicitation/matrix?id=rf14)
-* **História de Usuário** - [US02](/)
+* **Rastreabilidade** - [RF14](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US02]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/send_file.gif" width=47%>
@@ -207,8 +207,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Chat de mensagem;
-* **Rastreabilidade** - [RF15](/docs/elicitation/matrix?id=rf15)
-* **História de Usuário** - [US02](/)
+* **Rastreabilidade** - [RF15](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US02]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/download_file.gif" width=47%>
@@ -217,8 +217,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Chat de mensagem;
-* **Rastreabilidade** - [RF16](/docs/elicitation/matrix?id=rf16)
-* **História de Usuário** - [US02](/)
+* **Rastreabilidade** - [RF16](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US02]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/open_file.gif" width=47%>
@@ -227,8 +227,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Ligação direta entre usuários;
-* **Rastreabilidade** - [RF17](/docs/elicitation/matrix?id=rf17)
-* **História de Usuário** - [US06](/)
+* **Rastreabilidade** - [RF17](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US06]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/video_call.gif" width=47%>
@@ -237,8 +237,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Ligação direta entre usuários;
-* **Rastreabilidade** - [RF18](/docs/elicitation/matrix?id=rf18)
-* **História de Usuário** - [US06](/)
+* **Rastreabilidade** - [RF18](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US06]()
 * **Funcionalidade**
 
     <!-- <img src="docs/assets/img/post_traceability/delete_audio.gif" width=47%> ADICIONAR VÍDEO -->
@@ -247,8 +247,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Ligação direta entre usuários;
-* **Rastreabilidade** - [RF19](/docs/elicitation/matrix?id=rf19-arroz)
-* **História de Usuário** - [US06](/)
+* **Rastreabilidade** - [RF19](/docs/elicitation/matrix?id=requisitos-funcionais-arroz)
+* **História de Usuário** - [US06]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/join_existing_call.gif" width=47%>
@@ -257,8 +257,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Ligação direta entre usuários;
-* **Rastreabilidade** - [RF20](/docs/elicitation/matrix?id=rf20)
-* **História de Usuário** - [US06](/)
+* **Rastreabilidade** - [RF20](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US06]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/turn_off_camera.gif" width=47%>
@@ -267,8 +267,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Ligação direta entre usuários;
-* **Rastreabilidade** - [RF21](/docs/elicitation/matrix?id=rf21)
-* **História de Usuário** - [US05](/)
+* **Rastreabilidade** - [RF21](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US05]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/audio_call.gif" width=47%>
@@ -277,8 +277,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Ligação direta entre usuários;
-* **Rastreabilidade** - [RF22](/docs/elicitation/matrix?id=rf22)
-* **História de Usuário** - [US05](/)
+* **Rastreabilidade** - [RF22](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US05]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/mute_call.gif" width=47%>
@@ -287,8 +287,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Ligação direta entre usuários;
-* **Rastreabilidade** - [RF23](/docs/elicitation/matrix?id=rf23)
-* **História de Usuário** - [US05](/)
+* **Rastreabilidade** - [RF23](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US05]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/turn_off_call.gif" width=47%>
@@ -297,8 +297,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Equipes;
-* **Rastreabilidade** - [RF24](/docs/elicitation/matrix?id=rf24)
-* **História de Usuário** - [US04](/)
+* **Rastreabilidade** - [RF24](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US04]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/group_creation.gif" width=47%>
@@ -307,8 +307,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Equipes;
-* **Rastreabilidade** - [RF25](/docs/elicitation/matrix?id=rf25)
-* **História de Usuário** - [US04](/)
+* **Rastreabilidade** - [RF25](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US04]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/add_contacts_to_group.gif" width=47%>
@@ -317,8 +317,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Equipes;
-* **Rastreabilidade** - [RF26](/docs/elicitation/matrix?id=rf26)
-* **História de Usuário** - [US04](/)
+* **Rastreabilidade** - [RF26](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US04]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/group_remove.gif" width=47%>
@@ -327,8 +327,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Equipes;
-* **Rastreabilidade** - [RF27](/docs/elicitation/matrix?id=rf27)
-* **História de Usuário** - [US03](/)
+* **Rastreabilidade** - [RF27](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US03]()
 * **Funcionalidade**
 
     <!-- <img src="docs/assets/img/post_traceability/delete_audio.gif" width=47%> ADICIONAR VÍDEO -->
@@ -337,8 +337,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Chat de mensagem; <!-- Definir melhor -->
-* **Rastreabilidade** - [RF28](/docs/elicitation/matrix?id=rf28)
-* **História de Usuário** - [US01](/) <!-- Definir melhor -->
+* **Rastreabilidade** - [RF28](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US01]() <!-- Definir melhor -->
 * **Funcionalidade**
 
     <!-- <img src="docs/assets/img/post_traceability/delete_audio.gif" width=47%>
@@ -348,8 +348,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Chat de mensagem;
-* **Rastreabilidade** - [RF29](/docs/elicitation/matrix?id=rf29)
-* **História de Usuário** - [US01](/)
+* **Rastreabilidade** - [RF29](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US01]()
 * **Funcionalidade**
 
     <!-- <img src="docs/assets/img/post_traceability/delete_audio.gif" width=47%> ADICIONAR VÍDEO -->
@@ -358,8 +358,8 @@
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Chat de mensagem; <!-- Definir melhor -->
-* **Rastreabilidade** - [RF30](/docs/elicitation/matrix?id=rf30)
-* **História de Usuário** - [US01](/)
+* **Rastreabilidade** - [RF30](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US01]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/message_notification.gif" width=47%>
@@ -368,7 +368,7 @@
 * **Tema** - 
 * **Épico** - 
 * **Feature** - 
-* **Rastreabilidade** - [RF31](/docs/elicitation/matrix?id=rf31)
+* **Rastreabilidade** - [RF31](/docs/elicitation/matrix?id=requisitos-funcionais)
 * **História de Usuário** - 
 * **Funcionalidade**
 
@@ -378,7 +378,7 @@
 * **Tema** - 
 * **Épico** - 
 * **Feature** - 
-* **Rastreabilidade** - [RF32](/docs/elicitation/matrix?id=rf32)
+* **Rastreabilidade** - [RF32](/docs/elicitation/matrix?id=requisitos-funcionais)
 * **História de Usuário** - 
 * **Funcionalidade**
 
@@ -388,7 +388,7 @@
 * **Tema** - 
 * **Épico** - 
 * **Feature** - 
-* **Rastreabilidade** - [RF33](/docs/elicitation/matrix?id=rf33)
+* **Rastreabilidade** - [RF33](/docs/elicitation/matrix?id=requisitos-funcionais)
 * **História de Usuário** - 
 * **Funcionalidade**
 
@@ -399,7 +399,7 @@
 * **Tema** - 
 * **Épico** - 
 * **Feature** - 
-* **Rastreabilidade** - [RF34](/docs/elicitation/matrix?id=rf34)
+* **Rastreabilidade** - [RF34](/docs/elicitation/matrix?id=requisitos-funcionais)
 * **História de Usuário** - 
 * **Funcionalidade**
 
@@ -409,7 +409,7 @@
 * **Tema** - 
 * **Épico** - 
 * **Feature** - 
-* **Rastreabilidade** - [RF35](/docs/elicitation/matrix?id=rf35)
+* **Rastreabilidade** - [RF35](/docs/elicitation/matrix?id=requisitos-funcionais)
 * **História de Usuário** - 
 * **Funcionalidade**
 
@@ -420,7 +420,7 @@
 * **Tema** - 
 * **Épico** - 
 * **Feature** - 
-* **Rastreabilidade** - [RF36](/docs/elicitation/matrix?id=rf36)
+* **Rastreabilidade** - [RF36](/docs/elicitation/matrix?id=requisitos-funcionais)
 * **História de Usuário** - 
 * **Funcionalidade**
 
@@ -430,7 +430,7 @@
 * **Tema** - Aplicativo de comunicação
 * **Épico** - Comunicação entre usuários
 * **Feature** - Equipes
-* **Rastreabilidade** - [RF37](/docs/elicitation/matrix?id=rf37)
+* **Rastreabilidade** - [RF37](/docs/elicitation/matrix?id=requisitos-funcionais)
 * **História de Usuário** - [US03]() 
 * **Funcionalidade**
 
@@ -441,7 +441,7 @@
 * **Tema** - Aplicativo de comunicação
 * **Épico** - Comunicação entre usuários
 * **Feature** - Equipes
-* **Rastreabilidade** - [RF38](/docs/elicitation/matrix?id=rf38)
+* **Rastreabilidade** - [RF38](/docs/elicitation/matrix?id=requisitos-funcionais)
 * **História de Usuário** - [US03]()
 * **Funcionalidade**
 
@@ -451,7 +451,7 @@
 * **Tema** - Aplicativo de comunicação
 * **Épico** - Gerenciamento de usuários
 * **Feature** - Cadastrar usuário
-* **Rastreabilidade** - [RF39](/docs/elicitation/matrix?id=rf39)
+* **Rastreabilidade** - [RF39](/docs/elicitation/matrix?id=requisitos-funcionais)
 * **História de Usuário** - [US07]()
 * **Funcionalidade**
 
@@ -461,7 +461,7 @@
 * **Tema** - Aplicativo de comunicação
 * **Épico** - Gerenciamento de usuários
 * **Feature** - Cadastrar usuário
-* **Rastreabilidade** - [RF40](/docs/elicitation/matrix?id=rf40)
+* **Rastreabilidade** - [RF40](/docs/elicitation/matrix?id=requisitos-funcionais)
 * **História de Usuário** - [US07]()
 * **Funcionalidade**
 
@@ -471,7 +471,7 @@
 * **Tema** - Aplicativo de comunicação
 * **Épico** - Gerenciamento de usuários
 * **Feature** - Cadastrar usuário
-* **Rastreabilidade** - [RF41](/docs/elicitation/matrix?id=rf41)
+* **Rastreabilidade** - [RF41](/docs/elicitation/matrix?id=requisitos-funcionais)
 * **História de Usuário** - [US08]()
 * **Funcionalidade**
 
@@ -481,7 +481,7 @@
 * **Tema** - Aplicativo de comunicação
 * **Épico** - Gerenciamento de usuários
 * **Feature** - Cadastrar usuário
-* **Rastreabilidade** - [RF42](/docs/elicitation/matrix?id=rf42)
+* **Rastreabilidade** - [RF42](/docs/elicitation/matrix?id=requisitos-funcionais)
 * **História de Usuário** - [US08]()
 * **Funcionalidade**
 
@@ -491,7 +491,7 @@
 * **Tema** - Aplicativo de comunicação
 * **Épico** - Gerenciamento de usuários
 * **Feature** - Definir configurações de conta
-* **Rastreabilidade** - [RF43](/docs/elicitation/matrix?id=rf43)
+* **Rastreabilidade** - [RF43](/docs/elicitation/matrix?id=requisitos-funcionais)
 * **História de Usuário** - [US]()
 * **Funcionalidade**
 
@@ -501,7 +501,7 @@
 * **Tema** - Aplicativo de comunicação
 * **Épico** - Gerenciamento de usuários
 * **Feature** - Definir configurações de conta
-* **Rastreabilidade** - [RF44](/docs/elicitation/matrix?id=rf44)
+* **Rastreabilidade** - [RF44](/docs/elicitation/matrix?id=requisitos-funcionais)
 * **História de Usuário** - [US09]()
 * **Funcionalidade**
 
@@ -511,7 +511,7 @@
 * **Tema** - Aplicativo de comunicação
 * **Épico** - Gerenciamento de usuários
 * **Feature** - Definir configurações de conta
-* **Rastreabilidade** - [RF45](/docs/elicitation/matrix?id=rf45)
+* **Rastreabilidade** - [RF45](/docs/elicitation/matrix?id=requisitos-funcionais)
 * **História de Usuário** - [US09]()
 * **Funcionalidade**
 
@@ -521,37 +521,11 @@
 * **Tema** - Aplicativo de comunicação
 * **Épico** - Gerenciamento de usuários
 * **Feature** - Definir configurações de conta
-* **Rastreabilidade** - [RF46](/docs/elicitation/matrix?id=rf46)
+* **Rastreabilidade** - [RF46](/docs/elicitation/matrix?id=requisitos-funcionais)
 * **História de Usuário** - [US09]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/delete_account.gif" width=47%>
-
-
-## História de Usuário
-
-### US01 - Eu, como usuário do sistema, desejo enviar mensagens de texto para me comunicar com outras pessoas.
-
-### US02 - Eu, como usuário do sistema, desejo enviar arquivos para possuir uma possibilidade maior de compartilhamento de dados
-
-### US03 - Eu, como usuário do sistema, desejo criar equipes para um melhor gerenciamento dos meus contatos
-
-### US04 - Eu, como usuário do sistema, desejo ter controle de gerência das minhas equipes para modularizar comunicações internas
-
-### US05 - Eu, como usuário do sistema, desejo fazer ligações de áudio para que eu possa me comunicar em tempo real com outros usuários de forma eficiente
-
-### US06 - Eu, como usuário do sistema, desejo fazer ligações de vídeo para que eu possa mostrar imagens e compartilhar minha tela durante as chamadas
-
-### US07 - Eu, como usuário do sistema, desejo me cadastrar no aplicativo para que eu possa ter acesso as funcionalidades propostas
-
-### US08 - Eu, como usuário do sistema, desejo criar meu perfil pessoas para que eu seja identificado dentro do aplicativo
-
-### US09 - Eu, como usuário do sistema, desejo ter controle das configurações para personalizar dados da minha conta
-
-### US10 - Eu, como usuário do sistema, desejo integrar e utilizar mais funcionalidades para personalizar a aplicação de acordo com as minhas necessidades
-
-### US11 - Eu, como usuário do sistema, desejo criar novos serviços externos para o Wire para adequar a aplicação as minhas necessidades e contribuir com a comunidade de usuários 
-
 
 
 <!DOCTYPE html>
