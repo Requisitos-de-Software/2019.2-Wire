@@ -314,12 +314,169 @@
 
     <img src="docs/assets/img/post_traceability/message_notification.gif" width=47%> ADICIONAR VÍDEO
 
+### RF31 - Silenciar grupo
+* **Tema** - 
+* **Épico** - 
+* **Feature** - 
+* **Rastreabilidade** - [RF31](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - 
+* **Funcionalidade**
+
+    <!-- <img src="docs/assets/img/post_traceability/delete_audio.gif" width=47%> -->
+
+### RF32 - Criar canal de transmissão de mensagens
+* **Tema** - 
+* **Épico** - 
+* **Feature** - 
+* **Rastreabilidade** - [RF32](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - 
+* **Funcionalidade**
+
+    <!-- <img src="docs/assets/img/post_traceability/delete_audio.gif" width=47%> -->
+
+### RF33 - Criar Guest Room
+* **Tema** - 
+* **Épico** - 
+* **Feature** - 
+* **Rastreabilidade** - [RF33](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - 
+* **Funcionalidade**
+
+    <!-- <img src="docs/assets/img/post_traceability/delete_audio.gif" width=47%> -->
 
 
+### RF34 - Adicionar contatos
+* **Tema** - 
+* **Épico** - 
+* **Feature** - 
+* **Rastreabilidade** - [RF34](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - 
+* **Funcionalidade**
+
+    <!-- <img src="docs/assets/img/post_traceability/delete_audio.gif" width=47%> -->
+
+### RF35 - Criar Guest Room
+* **Tema** - 
+* **Épico** - 
+* **Feature** - 
+* **Rastreabilidade** - [RF35](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - 
+* **Funcionalidade**
+
+    <!-- <img src="docs/assets/img/post_traceability/delete_audio.gif" width=47%> -->
 
 
+### RF36 - Bloquear usuário
+* **Tema** - 
+* **Épico** - 
+* **Feature** - 
+* **Rastreabilidade** - [RF36](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - 
+* **Funcionalidade**
+
+    <img src="docs/assets/img/post_traceability/block_user.gif" width=47%>
+
+### RF37 - Criar time
+* **Tema** - Aplicativo de comunicação
+* **Épico** - Comunicação entre usuários
+* **Feature** - Equipes
+* **Rastreabilidade** - [RF37](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US03]() 
+* **Funcionalidade**
+
+    <img src="docs/assets/img/post_traceability/group_creation.gif" width=47%>
 
 
+### RF38 - Adicionar usuários ao seu time
+* **Tema** - Aplicativo de comunicação
+* **Épico** - Comunicação entre usuários
+* **Feature** - Equipes
+* **Rastreabilidade** - [RF38](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US03]()
+* **Funcionalidade**
+
+    <!-- <img src="docs/assets/img/post_traceability/block_user.gif" width=47%> -->
+
+### RF39 - Cadastrar usuário pelo número
+* **Tema** - Aplicativo de comunicação
+* **Épico** - Gerenciamento de usuários
+* **Feature** - Cadastrar usuário
+* **Rastreabilidade** - [RF39](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US07]()
+* **Funcionalidade**
+
+    <!-- <img src="docs/assets/img/post_traceability/group_creation.gif" width=47%> -->
+
+### RF40 - Cadastrar usuário pelo e-mail
+* **Tema** - Aplicativo de comunicação
+* **Épico** - Gerenciamento de usuários
+* **Feature** - Cadastrar usuário
+* **Rastreabilidade** - [RF40](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US07]()
+* **Funcionalidade**
+
+    <!-- <img src="docs/assets/img/post_traceability/block_user.gif" width=47%> -->
+
+### RF41 - Definir nome do usuário
+* **Tema** - Aplicativo de comunicação
+* **Épico** - Gerenciamento de usuários
+* **Feature** - Cadastrar usuário
+* **Rastreabilidade** - [RF41](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US08]()
+* **Funcionalidade**
+
+    <img src="docs/assets/img/post_traceability/change_username.gif" width=47%>
+
+### RF42 - Editar perfil
+* **Tema** - Aplicativo de comunicação
+* **Épico** - Gerenciamento de usuários
+* **Feature** - Cadastrar usuário
+* **Rastreabilidade** - [RF42](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US08]()
+* **Funcionalidade**
+
+    <!-- <img src="docs/assets/img/post_traceability/.gif" width=47%> -->
+
+### RF43 - Alterar opção de fazer download automático
+* **Tema** - Aplicativo de comunicação
+* **Épico** - Gerenciamento de usuários
+* **Feature** - Definir configurações de conta
+* **Rastreabilidade** - [RF43](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US]()
+* **Funcionalidade**
+
+    <!-- <img src="docs/assets/img/post_traceability/.gif" width=47%> -->
+
+### RF44 - Mudar senha
+* **Tema** - Aplicativo de comunicação
+* **Épico** - Gerenciamento de usuários
+* **Feature** - Definir configurações de conta
+* **Rastreabilidade** - [RF44](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US09]()
+* **Funcionalidade**
+
+    <img src="docs/assets/img/post_traceability/change_password.gif" width=47%>
+
+### RF45 - Fazer Backup
+* **Tema** - Aplicativo de comunicação
+* **Épico** - Gerenciamento de usuários
+* **Feature** - Definir configurações de conta
+* **Rastreabilidade** - [RF45](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US09]()
+* **Funcionalidade**
+
+    <img src="docs/assets/img/post_traceability/backup.gif" width=47%>
+
+### RF46 - Deletar conta
+* **Tema** - Aplicativo de comunicação
+* **Épico** - Gerenciamento de usuários
+* **Feature** - Definir configurações de conta
+* **Rastreabilidade** - [RF46](/docs/elicitation/matrix?id=requisitos-funcionais)
+* **História de Usuário** - [US09]()
+* **Funcionalidade**
+
+
+    <img src="docs/assets/img/post_traceability/delete_account.gif" width=47%>
 
 
 
