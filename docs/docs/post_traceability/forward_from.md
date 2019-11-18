@@ -181,7 +181,7 @@
 * **História de Usuário** - [US06](/)
 * **Funcionalidade**
 
-    <!-- <img src="docs/assets/img/post_traceability/delete_audio.gif" width=47%> ADICIONAR VÍDEO DA CHAMADA DE VÍDEO -->
+    <img src="docs/assets/img/post_traceability/video_call.gif" width=47%>
 
 ### RF18 - Adicionar pessoas à chamada de vídeo
 * **Tema** - Aplicativo de comunicação;
@@ -211,7 +211,7 @@
 * **História de Usuário** - [US06](/)
 * **Funcionalidade**
 
-    <!-- <img src="docs/assets/img/post_traceability/delete_audio.gif" width=47%> ADICIONAR VÍDEO -->
+    <img src="docs/assets/img/post_traceability/turn_off_camera.gif" width=47%>
 
 ### RF21 - Fazer ligação de áudio
 * **Tema** - Aplicativo de comunicação;
@@ -322,7 +322,7 @@
 * **História de Usuário** - 
 * **Funcionalidade**
 
-    <!-- <img src="docs/assets/img/post_traceability/delete_audio.gif" width=47%> -->
+    <img src="docs/assets/img/post_traceability/silence_group.gif" width=47%>
 
 ### RF32 - Criar canal de transmissão de mensagens
 * **Tema** - 
@@ -395,7 +395,7 @@
 * **História de Usuário** - [US03]()
 * **Funcionalidade**
 
-    <!-- <img src="docs/assets/img/post_traceability/block_user.gif" width=47%> -->
+    <img src="docs/assets/img/post_traceability/add_contacts_to_group.gif" width=47%>
 
 ### RF39 - Cadastrar usuário pelo número
 * **Tema** - Aplicativo de comunicação
@@ -435,7 +435,7 @@
 * **História de Usuário** - [US08]()
 * **Funcionalidade**
 
-    <!-- <img src="docs/assets/img/post_traceability/.gif" width=47%> -->
+    <img src="docs/assets/img/post_traceability/edit_profile.gif" width=47%>
 
 ### RF43 - Alterar opção de fazer download automático
 * **Tema** - Aplicativo de comunicação
