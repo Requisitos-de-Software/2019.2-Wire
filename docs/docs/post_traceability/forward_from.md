@@ -8,52 +8,52 @@
 
 | Tema | Épico | Feature | ID   | Descrição                                       | História de Usuário      | Telas     |
 |:----:|:-----:|:-------:|:----:|:-----------------------------------------------:|:------------------------:|:---------:|
-| T01  | E01   | EF01    | RF01 | Enviar mensagem                                 | US01                     | GIF  |
-| T01  | E01   | EF01    | RF02 | Definir quanto tempo a mensagem fica visível    | US01                     | GIF  |
-| T01  | E01   | EF01    | RF03 | Apagar mensagem                                 | US01                     | GIF  |
-| T01  | E01   | EF01    | RF04 | Responder mensagem                              | US01                     | GIF  |
-| T01  | E01   | EF01    | RF05 | Encaminhar mensagem                             | US01                     | GIF  |
-| T01  | E01   | EF01    | RF06 | Editar mensagem                                 | US01                     | GIF  |
-| T01  | E01   | EF01    | RF07 | Enviar áudio                                    |                          | GIF  |
-| T01  | E01   | EF01    | RF08 | Apagar áudio                                    | US05                     | GIF  |
-| T01  | E01   | EF01    | RF09 | Selecionar mensagens                            | US01                     | GIF Protótipo |
-| T01  | E01   | EF01    | RF10 | Dar play e pause no áudio                       | US05                     | GIF  |
-| T01  | E01   | EF01    | RF11 | Escolher ponto de tempo do áudio                | US05                     |           |
-| T01  | E01   | EF01    | RF12 | Enviar imagem e vídeo                           | US05                     | GIF  |
-| T01  | E01   | EF01    | RF13 | Editar imagem                                   | US05                     | GIF  |
-| T01  | E01   | EF01    | RF14 | Enviar arquivo                                  | US02                     | GIF  |
-| T01  | E01   | EF01    | RF15 | Download de arquivos                            | US02                     | GIF  |
-| T01  | E01   | EF01    | RF16 | Abrir arquivo dentro do aplicativo              | US02                     | GIF  |
-| T01  | E01   | FE03    | RF17 | Chamada de vídeo                                | US06                     |           |
-| T01  | E01   | FE03    | RF18 | Adicionar pessoas à chamada de vídeo            | US06                     |           |
-| T01  | E01   | FE03    | RF19 | Entrar em chamada de vídeo já existente         | US06                     | GIF  |
-| T01  | E01   | FE03    | RF20 | Ligar e desligar câmera                         | US06                     |           |
-| T01  | E01   | FE03    | RF21 | Fazer ligação de áudio                          | US05                     | GIF  |
-| T01  | E01   | FE03    | RF22 | Ligar e desligar microfone                      | US05, US06               | GIF  |
-| T01  | E01   | FE03    | RF23 | Sair da chamada                                 | US05, US06               | GIF  |
-| T01  | E01   | FE02    | RF24 | Criar grupo                                     | US03, US04               | GIF  |
-| T01  | E01   | FE02    | RF25 | Adicionar pessoas no grupo                      | US03, US04               | GIF  |
-| T01  | E01   | FE02    | RF26 | Remover pessoas do grupo                        | US04                     | GIF  |
-| T01  | E01   | FE02    | RF27 | Definir permissões de cada membro do grupo      | US04                     | GIF Protótipo |
-| T01  |       |         | RF28 | Responder mensagem recebida no grupo no privado | US01                     | GIF Protótipo |
-| T01  |       |         | RF29 | Fixar mensagens                                 | US01                     | GIF Protótipo |
-| T01  |       |         | RF30 | Mensagem de alerta                              | US01                     | GIF  |
-| T01  |       |         | RF31 | Silenciar grupo                                 | US03                     | GIF  |
-| T01  |       |         | RF32 | Criar canal de transmissão de mensagens         | US01                     |           |
-| T01  |       |         | RF33 | Criar Guest Room                                |                          |           |
-| T01  |       |         | RF34 | Adicionar contatos                              | New user story           |           |
-| T01  |       |         | RF35 | Editar dados do contato                         | New user story           |           |
-| T01  |       |         | RF36 | Bloquear usuário                                | New user story           | GIF  |
-| T01  | E01   | FE02    | RF37 | Criar time                                      | US04 e US03              | GIF  |
-| T01  | E01   | FE02    | RF38 | Adicionar usuários ao seu time                  | US04                     |           |
-| T01  | E02   | FE04    | RF39 | Cadastrar usuário pelo número                   | US07                     |           |
-| T01  | E02   | FE04    | RF40 | Cadastrar usuário pelo e-mail                   | US07                     |           |
-| T01  | E02   | FE04    | RF41 | Definir nome do usuário                         | US08                     | GIF  |
-| T01  | E02   | FE04    | RF42 | Editar perfil                                   | US08                     | GIF  |
-| T01  | E02   | FE05    | RF43 | Alterar opção de fazer download automático      | Não existe no aplicativo |           |
-| T01  | E02   | FE05    | RF44 | Mudar senha                                     | US09                     | GIF  |
-| T01  | E02   | FE05    | RF45 | Fazer Backup                                    | US09                     | GIF  |
-| T01  | E02   | FE05    | RF46 | Deletar conta                                   | US09                     | GIF  |
+| T01  | E01   | EF01    | [RF01](/docs/post_traceability/forward_from?id=rf01-enviar-mensagem) | Enviar mensagem                                 | US01                     | GIF  |
+| T01  | E01   | EF01    | [RF02](/docs/post_traceability/forward_from?id=rf02-definir-quanto-tempo-a-mensagem-fica-visível) | Definir quanto tempo a mensagem fica visível    | US01                     | GIF  |
+| T01  | E01   | EF01    | [RF03](/docs/post_traceability/forward_from?id=rf03-apagar-mensagem) | Apagar mensagem                                 | US01                     | GIF  |
+| T01  | E01   | EF01    | [RF04](/docs/post_traceability/forward_from?id=rf04-responder-mensagem) | Responder mensagem                              | US01                     | GIF  |
+| T01  | E01   | EF01    | [RF05](/docs/post_traceability/forward_from?id=rf05-encaminhar-mensagem) | Encaminhar mensagem                             | US01                     | GIF  |
+| T01  | E01   | EF01    | [RF06](/docs/post_traceability/forward_from?id=rf06-editar-mensagem) | Editar mensagem                                 | US01                     | GIF  |
+| T01  | E01   | EF01    | [RF07](/docs/post_traceability/forward_from?id=rf07-enviar-áudio) | Enviar áudio                                    |                          | GIF  |
+| T01  | E01   | EF01    | [RF08](/docs/post_traceability/forward_from?id=rf08-apagar-áudio) | Apagar áudio                                    | US05                     | GIF  |
+| T01  | E01   | EF01    | [RF09](/docs/post_traceability/forward_from?id=rf09-selecionar-mensagens) | Selecionar mensagens                            | US01                     | GIF Protótipo |
+| T01  | E01   | EF01    | [RF10](/docs/post_traceability/forward_from?id=rf10-dar-play-e-pause-no-áudio) | Dar play e pause no áudio                       | US05                     | GIF  |
+| T01  | E01   | EF01    | [RF11](/docs/post_traceability/forward_from?id=rf11-escolher-ponto-de-tempo-do-áudio) | Escolher ponto de tempo do áudio                | US05                     |           |
+| T01  | E01   | EF01    | [RF12](/docs/post_traceability/forward_from?id=rf12-enviar-imagemvídeo) | Enviar imagem e vídeo                           | US05                     | GIF  |
+| T01  | E01   | EF01    | [RF13](/docs/post_traceability/forward_from?id=rf13-editar-imagem) | Editar imagem                                   | US05                     | GIF  |
+| T01  | E01   | EF01    | [RF14](/docs/post_traceability/forward_from?id=rf14-enviar-arquivo) | Enviar arquivo                                  | US02                     | GIF  |
+| T01  | E01   | EF01    | [RF15](/docs/post_traceability/forward_from?id=rf15-download-de-arquivos) | Download de arquivos                            | US02                     | GIF  |
+| T01  | E01   | EF01    | [RF16](/docs/post_traceability/forward_from?id=rf16-abrir-arquivo-dentro-do-aplicativo) | Abrir arquivo dentro do aplicativo              | US02                     | GIF  |
+| T01  | E01   | FE03    | [RF17](/docs/post_traceability/forward_from?id=rf17-chamada-de-vídeo) | Chamada de vídeo                                | US06                     |           |
+| T01  | E01   | FE03    | [RF18](/docs/post_traceability/forward_from?id=rf18-adicionar-pessoas-à-chamada-de-vídeo) | Adicionar pessoas à chamada de vídeo            | US06                     |           |
+| T01  | E01   | FE03    | [RF19](/docs/post_traceability/forward_from?id=rf19-entrar-em-chamada-de-vídeo-já-existente) | Entrar em chamada de vídeo já existente         | US06                     | GIF  |
+| T01  | E01   | FE03    | [RF20](/docs/post_traceability/forward_from?id=rf20-ligar-e-desligar-câmera) | Ligar e desligar câmera                         | US06                     |           |
+| T01  | E01   | FE03    | [RF21](/docs/post_traceability/forward_from?id=rf21-fazer-ligação-de-áudio) | Fazer ligação de áudio                          | US05                     | GIF  |
+| T01  | E01   | FE03    | [RF22](/docs/post_traceability/forward_from?id=rf22-ligar-e-desligar-microfone) | Ligar e desligar microfone                      | US05, US06               | GIF  |
+| T01  | E01   | FE03    | [RF23](/docs/post_traceability/forward_from?id=rf23-sair-da-chamada) | Sair da chamada                                 | US05, US06               | GIF  |
+| T01  | E01   | FE02    | [RF24](/docs/post_traceability/forward_from?id=rf24-criar-grupo) | Criar grupo                                     | US03, US04               | GIF  |
+| T01  | E01   | FE02    | [RF25](/docs/post_traceability/forward_from?id=rf25-adicionar-pessoas-no-grupo) | Adicionar pessoas no grupo                      | US03, US04               | GIF  |
+| T01  | E01   | FE02    | [RF26](/docs/post_traceability/forward_from?id=rf26-remover-pessoas-do-grupo) | Remover pessoas do grupo                        | US04                     | GIF  |
+| T01  | E01   | FE02    | [RF27](/docs/post_traceability/forward_from?id=rf27-definir-permissōes-de-cada-membro-do-grupo) | Definir permissões de cada membro do grupo      | US04                     | GIF Protótipo |
+| T01  |       |         | [RF28](/docs/post_traceability/forward_from?id=rf28-responder-mensagem-recebida-no-grupo-no-privado) | Responder mensagem recebida no grupo no privado | US01                     | GIF Protótipo |
+| T01  |       |         | [RF29](/docs/post_traceability/forward_from?id=rf29-fixar-mensagens) | Fixar mensagens                                 | US01                     | GIF Protótipo |
+| T01  |       |         | [RF30](/docs/post_traceability/forward_from?id=rf30-mensagem-de-alerta) | Mensagem de alerta                              | US01                     | GIF  |
+| T01  |       |         | [RF31](/docs/post_traceability/forward_from?id=rf31-silenciar-grupo) | Silenciar grupo                                 | US03                     | GIF  |
+| T01  |       |         | [RF32](/docs/post_traceability/forward_from?id=rf32-criar-canal-de-transmissão-de-mensagens) | Criar canal de transmissão de mensagens         | US01                     |           |
+| T01  |       |         | [RF33](/docs/post_traceability/forward_from?id=rf33-criar-guest-room) | Criar Guest Room                                |                          |           |
+| T01  |       |         | [RF34](/docs/post_traceability/forward_from?id=rf34-adicionar-contatos) | Adicionar contatos                              | New user story           |           |
+| T01  |       |         | [RF35](/docs/post_traceability/forward_from?id=rf35-criar-guest-room) | Editar dados do contato                         | New user story           |           |
+| T01  |       |         | [RF36](/docs/post_traceability/forward_from?id=rf36-bloquear-usuário) | Bloquear usuário                                | New user story           | GIF  |
+| T01  | E01   | FE02    | [RF37](/docs/post_traceability/forward_from?id=rf37-criar-time) | Criar time                                      | US04 e US03              | GIF  |
+| T01  | E01   | FE02    | [RF38](/docs/post_traceability/forward_from?id=rf38-adicionar-usuários-ao-seu-time) | Adicionar usuários ao seu time                  | US04                     |           |
+| T01  | E02   | FE04    | [RF39](/docs/post_traceability/forward_from?id=rf39-cadastrar-usuário-pelo-número) | Cadastrar usuário pelo número                   | US07                     |           |
+| T01  | E02   | FE04    | [RF40](/docs/post_traceability/forward_from?id=rf40-cadastrar-usuário-pelo-e-mail) | Cadastrar usuário pelo e-mail                   | US07                     |           |
+| T01  | E02   | FE04    | [RF41](/docs/post_traceability/forward_from?id=rf41-definir-nome-do-usuário) | Definir nome do usuário                         | US08                     | GIF  |
+| T01  | E02   | FE04    | [RF42](/docs/post_traceability/forward_from?id=rf42-editar-perfil) | Editar perfil                                   | US08                     | GIF  |
+| T01  | E02   | FE05    | [RF43](/docs/post_traceability/forward_from?id=rf43-alterar-opção-de-fazer-download-automático) | Alterar opção de fazer download automático      | Não existe no aplicativo |           |
+| T01  | E02   | FE05    | [RF44](/docs/post_traceability/forward_from?id=rf44-mudar-senha) | Mudar senha                                     | US09                     | GIF  |
+| T01  | E02   | FE05    | [RF45](/docs/post_traceability/forward_from?id=rf45-fazer-backup) | Fazer Backup                                    | US09                     | GIF  |
+| T01  | E02   | FE05    | [RF46](/docs/post_traceability/forward_from?id=rf46-deletar-conta) | Deletar conta                                   | US09                     | GIF  |
 
 ## Requisitos Funcionais
 ### RF01 - Enviar mensagem
@@ -220,7 +220,7 @@
 
     <img src="docs/assets/img/post_traceability/open_file.gif" width=47%>
 
-### RF17 - Chamade de vídeo
+### RF17 - Chamada de vídeo
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Ligação direta entre usuários;
@@ -359,7 +359,7 @@
 * **História de Usuário** - [US01](/)
 * **Funcionalidade**
 
-    <img src="docs/assets/img/post_traceability/message_notification.gif" width=47%> ADICIONAR VÍDEO
+    <img src="docs/assets/img/post_traceability/message_notification.gif" width=47%>
 
 ### RF31 - Silenciar grupo
 * **Tema** - 
@@ -522,17 +522,7 @@
 * **História de Usuário** - [US09]()
 * **Funcionalidade**
 
-
     <img src="docs/assets/img/post_traceability/delete_account.gif" width=47%>
-
-
-
-
-
-
-
-
-
 
 
 ## História de Usuário
