@@ -1,3 +1,3 @@
 # Pós rastreabilidade
 
-- [**Foward From**](docs/post_traceability/foward_from.md)
+- [**Forward From**](docs/post_traceability/forward_from.md)
