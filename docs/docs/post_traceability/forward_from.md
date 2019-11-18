@@ -70,12 +70,12 @@
 
     <img src="docs/assets/img/post_traceability/edit_message.gif"  width=47%>
 
-<!-- ### RF07 - Enviar áudio
+### RF07 - Enviar áudio
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Chat de mensagem;
 * **Rastreabilidade** - [RF07](/docs/elicitation/matrix?id=requisitos-funcionais)
-* **História de Usuário** - [US05](/)
+* **História de Usuário** - [US13](/)
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/record_audio.gif"  width=47%>
@@ -86,10 +86,10 @@
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Chat de mensagem;
 * **Rastreabilidade** - [RF08](/docs/elicitation/matrix?id=requisitos-funcionais)
-* **História de Usuário** - [US05](/)
+* **História de Usuário** - [US13](/)
 * **Funcionalidade**
 
-    <img src="docs/assets/img/post_traceability/delete_audio.gif" width=47%> -->
+    <img src="docs/assets/img/post_traceability/delete_audio.gif" width=47%>
 
 ### RF09 - Selecionar mensagens
 * **Tema** - Aplicativo de comunicação;
@@ -101,25 +101,25 @@
 
     <img src="docs/assets/img/post_traceability/select_message.gif" width=47%>
 
-<!-- ### RF10 - Dar play e pause no áudio
+### RF10 - Dar play e pause no áudio
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Chat de mensagem;
 * **Rastreabilidade** - [RF10](/docs/elicitation/matrix?id=requisitos-funcionais)
-* **História de Usuário** - [US05](/)
+* **História de Usuário** - [US13](/)
 * **Funcionalidade**
 
-    <img src="docs/assets/img/post_traceability/play_audio.gif" width=47%> -->
+    <img src="docs/assets/img/post_traceability/play_audio.gif" width=47%>
 
-<!-- ### RF11 - Escolher ponto de tempo do áudio
+### RF11 - Escolher ponto de tempo do áudio
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Chat de mensagem;
 * **Rastreabilidade** - [RF11](/docs/elicitation/matrix?id=requisitos-funcionais)
-* **História de Usuário** - [US05](/)
+* **História de Usuário** - [US13](/)
 * **Funcionalidade**
 
-    <img src="docs/assets/img/post_traceability/delete_audio.gif" width=47%> -->
+    <img src="docs/assets/img/post_traceability/delete_audio.gif" width=47%>
 
 ### RF12 - Enviar imagem/vídeo
 * **Tema** - Aplicativo de comunicação;
@@ -153,15 +153,15 @@
 
     <img src="docs/assets/img/post_traceability/send_file.gif" width=47%>
 
-<!-- ### RF15 - Download de arquivos
+### RF15 - Download de arquivos
 * **Tema** - Aplicativo de comunicação;
 * **Épico** - Comunicação entre usuários;
 * **Feature** - Chat de mensagem;
 * **Rastreabilidade** - [RF15](/docs/elicitation/matrix?id=requisitos-funcionais)
-* **História de Usuário** - [US05](/)
+* **História de Usuário** - [US02](/)
 * **Funcionalidade**
 
-    <img src="docs/assets/img/post_traceability/download_file.gif" width=47%> -->
+    <img src="docs/assets/img/post_traceability/download_file.gif" width=47%>
 
 ### RF16 - Abrir arquivo dentro do aplicativo
 * **Tema** - Aplicativo de comunicação;

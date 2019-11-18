@@ -25,4 +25,4 @@
 
 ### US12 - Eu, como usuário do sistema, desejo ter um controle dos meus contatos para que eu gerencie-os da melhor forma possível.
 
-### US13 - Eu, como usuário do sistema, desejo enviar imagens e vídeos para que eu possa me comunicar de forma áudio-visual. 
+### US13 - Eu, como usuário do sistema, desejo ter controle sobre os meus áudios para que eu possa me comunicar melhor com outros usuários.
