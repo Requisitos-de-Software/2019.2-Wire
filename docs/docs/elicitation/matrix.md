@@ -84,17 +84,17 @@ table {
 
 | ID | Descrição |  5W2H |  Introspecção  | Questionário |  Storytelling | Entrevista | Brainstorming |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| RNF01 | Criptografia de ponta-a-ponta.                                    | X |  | X | X | X |  |
-| RNF02 | Cadastro, configuração e utilização de até 8 contas simultâneas   |  | X | X | X |  | X |
-| RNF03 | Disponível em multiplataformas independentes                      | X |  | X | X | X |  |
-| RNF04 | Alterar foto de fundo                                             |  | X |  |  |  | X |
-| RNF05 | Alterar fonte do texto                                            |  | X |  |  |  | X |
-| RNF06 | Modo noturno                                                      |  | X |  |  |  | X |
-| RNF07 | Proteção de  dados do usuário                                     | X | X | X | X | X |  |
-| RNF08 | Disponibilidade self-hosted e cloud manager                       |  |  |  |  | X | X |
-| RNF09 | Multilinguagem                                                    |  |  |  |  |  | X |
-| RNF10 | Possibilidade de acoplar serviços externos                        |  |  |  |  |  | X |
-| RNF11 | Compatibilidade com outros formatos de mensagem (Markdown, GIFS, etc) |  |  |  |  |  | X |
-| RNF12 | Check de visualização de mensagem                                 |  |  | X |  |  | X |
-| RNF13 | Visto por último                                                  |  |  | X |  |  | X |
-| RNF14 | Aviso de mensagem não enviada                                     |  |  |  |  |  | X |
+| [RNF01](#RNF01) | Criptografia de ponta-a-ponta.                                    | X |  | X | X | X |  |
+| [RNF02](#RNF02) | Cadastro, configuração e utilização de até 8 contas simultâneas   |  | X | X | X |  | X |
+| [RNF03](#RNF03) | Disponível em multiplataformas independentes                      | X |  | X | X | X |  |
+| [RNF04](#RNF04) | Alterar foto de fundo                                             |  | X |  |  |  | X |
+| [RNF05](#RNF05) | Alterar fonte do texto                                            |  | X |  |  |  | X |
+| [RNF06](#RNF06) | Modo noturno                                                      |  | X |  |  |  | X |
+| [RNF07](#RNF07) | Proteção de  dados do usuário                                     | X | X | X | X | X |  |
+| [RNF08](#RNF08) | Disponibilidade self-hosted e cloud manager                       |  |  |  |  | X | X |
+| [RNF09](#RNF09) | Multilinguagem                                                    |  |  |  |  |  | X |
+| [RNF10](#RNF10) | Possibilidade de acoplar serviços externos                        |  |  |  |  |  | X |
+| [RNF11](#RNF11) | Compatibilidade com outros formatos de mensagem (Markdown, GIFS, etc) |  |  |  |  |  | X |
+| [RNF12](#RNF12) | Check de visualização de mensagem                                 |  |  | X |  |  | X |
+| [RNF13](#RNF13) | Visto por último                                                  |  |  | X |  |  | X |
+| [RNF14](#RNF14) | Aviso de mensagem não enviada                                     |  |  |  |  |  | X |
