@@ -4,9 +4,56 @@
 | :--------: | :----: | :------------------: | :----------------------------: |
 | 17/11/2019 |  1.0   | Criação do documento | Guilherme Mendes, João Pedro e Lucas Fellipe |
 
+## Tabela Forward from
 
-
-[Planilha links]
+| Tema | Épico | Feature | ID   | Descrição                                       | História de Usuário      | Telas     |
+|:----:|:-----:|:-------:|:----:|:-----------------------------------------------:|:------------------------:|:---------:|
+| T01  | E01   | EF01    | RF01 | Enviar mensagem                                 | US01                     | GIF  |
+| T01  | E01   | EF01    | RF02 | Definir quanto tempo a mensagem fica visível    | US01                     | GIF  |
+| T01  | E01   | EF01    | RF03 | Apagar mensagem                                 | US01                     | GIF  |
+| T01  | E01   | EF01    | RF04 | Responder mensagem                              | US01                     | GIF  |
+| T01  | E01   | EF01    | RF05 | Encaminhar mensagem                             | US01                     | GIF  |
+| T01  | E01   | EF01    | RF06 | Editar mensagem                                 | US01                     | GIF  |
+| T01  | E01   | EF01    | RF07 | Enviar áudio                                    |                          | GIF  |
+| T01  | E01   | EF01    | RF08 | Apagar áudio                                    | US05                     | GIF  |
+| T01  | E01   | EF01    | RF09 | Selecionar mensagens                            | US01                     | GIF Protótipo |
+| T01  | E01   | EF01    | RF10 | Dar play e pause no áudio                       | US05                     | GIF  |
+| T01  | E01   | EF01    | RF11 | Escolher ponto de tempo do áudio                | US05                     |           |
+| T01  | E01   | EF01    | RF12 | Enviar imagem e vídeo                           | US05                     | GIF  |
+| T01  | E01   | EF01    | RF13 | Editar imagem                                   | US05                     | GIF  |
+| T01  | E01   | EF01    | RF14 | Enviar arquivo                                  | US02                     | GIF  |
+| T01  | E01   | EF01    | RF15 | Download de arquivos                            | US02                     | GIF  |
+| T01  | E01   | EF01    | RF16 | Abrir arquivo dentro do aplicativo              | US02                     | GIF  |
+| T01  | E01   | FE03    | RF17 | Chamada de vídeo                                | US06                     |           |
+| T01  | E01   | FE03    | RF18 | Adicionar pessoas à chamada de vídeo            | US06                     |           |
+| T01  | E01   | FE03    | RF19 | Entrar em chamada de vídeo já existente         | US06                     | GIF  |
+| T01  | E01   | FE03    | RF20 | Ligar e desligar câmera                         | US06                     |           |
+| T01  | E01   | FE03    | RF21 | Fazer ligação de áudio                          | US05                     | GIF  |
+| T01  | E01   | FE03    | RF22 | Ligar e desligar microfone                      | US05, US06               | GIF  |
+| T01  | E01   | FE03    | RF23 | Sair da chamada                                 | US05, US06               | GIF  |
+| T01  | E01   | FE02    | RF24 | Criar grupo                                     | US03, US04               | GIF  |
+| T01  | E01   | FE02    | RF25 | Adicionar pessoas no grupo                      | US03, US04               | GIF  |
+| T01  | E01   | FE02    | RF26 | Remover pessoas do grupo                        | US04                     | GIF  |
+| T01  | E01   | FE02    | RF27 | Definir permissões de cada membro do grupo      | US04                     | GIF Protótipo |
+| T01  |       |         | RF28 | Responder mensagem recebida no grupo no privado | US01                     | GIF Protótipo |
+| T01  |       |         | RF29 | Fixar mensagens                                 | US01                     | GIF Protótipo |
+| T01  |       |         | RF30 | Mensagem de alerta                              | US01                     | GIF  |
+| T01  |       |         | RF31 | Silenciar grupo                                 | US03                     | GIF  |
+| T01  |       |         | RF32 | Criar canal de transmissão de mensagens         | US01                     |           |
+| T01  |       |         | RF33 | Criar Guest Room                                |                          |           |
+| T01  |       |         | RF34 | Adicionar contatos                              | New user story           |           |
+| T01  |       |         | RF35 | Editar dados do contato                         | New user story           |           |
+| T01  |       |         | RF36 | Bloquear usuário                                | New user story           | GIF  |
+| T01  | E01   | FE02    | RF37 | Criar time                                      | US04 e US03              | GIF  |
+| T01  | E01   | FE02    | RF38 | Adicionar usuários ao seu time                  | US04                     |           |
+| T01  | E02   | FE04    | RF39 | Cadastrar usuário pelo número                   | US07                     |           |
+| T01  | E02   | FE04    | RF40 | Cadastrar usuário pelo e-mail                   | US07                     |           |
+| T01  | E02   | FE04    | RF41 | Definir nome do usuário                         | US08                     | GIF  |
+| T01  | E02   | FE04    | RF42 | Editar perfil                                   | US08                     | GIF  |
+| T01  | E02   | FE05    | RF43 | Alterar opção de fazer download automático      | Não existe no aplicativo |           |
+| T01  | E02   | FE05    | RF44 | Mudar senha                                     | US09                     | GIF  |
+| T01  | E02   | FE05    | RF45 | Fazer Backup                                    | US09                     | GIF  |
+| T01  | E02   | FE05    | RF46 | Deletar conta                                   | US09                     | GIF  |
 
 ## Requisitos Funcionais
 ### RF01 - Enviar mensagem
@@ -511,3 +558,17 @@
 ### US10 - Eu, como usuário do sistema, desejo integrar e utilizar mais funcionalidades para personalizar a aplicação de acordo com as minhas necessidades
 
 ### US11 - Eu, como usuário do sistema, desejo criar novos serviços externos para o Wire para adequar a aplicação as minhas necessidades e contribuir com a comunidade de usuários 
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style src='docs/docs/assets/css/table.css'>
+table {
+  width: 100%;
+}
+</style>
+<link rel="stylesheet" href="docs/assets/css/table.css">
+</head>
+</html> 
