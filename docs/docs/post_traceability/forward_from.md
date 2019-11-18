@@ -331,7 +331,7 @@
 * **História de Usuário** - [US03]()
 * **Funcionalidade**
 
-    <!-- <img src="docs/assets/img/post_traceability/delete_audio.gif" width=47%> ADICIONAR VÍDEO -->
+<img src="docs/assets/img/post_traceability/change_permissions.gif" width=47%>
 
 ### RF28 - Responder mensagem recebida no grupo no privado
 * **Tema** - Aplicativo de comunicação;
@@ -341,8 +341,8 @@
 * **História de Usuário** - [US01]() <!-- Definir melhor -->
 * **Funcionalidade**
 
-    <!-- <img src="docs/assets/img/post_traceability/delete_audio.gif" width=47%>
-    ADC VÍDEO -->
+<img src="docs/assets/img/post_traceability/answer_private.gif" width=47%>
+
 
 ### RF29 - Fixar mensagens
 * **Tema** - Aplicativo de comunicação;
@@ -352,7 +352,7 @@
 * **História de Usuário** - [US01]()
 * **Funcionalidade**
 
-    <!-- <img src="docs/assets/img/post_traceability/delete_audio.gif" width=47%> ADICIONAR VÍDEO -->
+<img src="docs/assets/img/post_traceability/pin_message.gif" width=47%>
 
 ### RF30 - Mensagem de alerta
 * **Tema** - Aplicativo de comunicação;
@@ -369,7 +369,7 @@
 * **Épico** - 
 * **Feature** - 
 * **Rastreabilidade** - [RF31](/docs/elicitation/matrix?id=requisitos-funcionais)
-* **História de Usuário** - 
+* **História de Usuário** - [US03]()
 * **Funcionalidade**
 
     <img src="docs/assets/img/post_traceability/silence_group.gif" width=47%>
@@ -379,7 +379,7 @@
 * **Épico** - 
 * **Feature** - 
 * **Rastreabilidade** - [RF32](/docs/elicitation/matrix?id=requisitos-funcionais)
-* **História de Usuário** - 
+* **História de Usuário** - [US01]()
 * **Funcionalidade**
 
     <!-- <img src="docs/assets/img/post_traceability/delete_audio.gif" width=47%> -->
@@ -405,7 +405,7 @@
 
     <!-- <img src="docs/assets/img/post_traceability/delete_audio.gif" width=47%> -->
 
-### RF35 - Criar Guest Room
+### RF35 - Editar dados do contato
 * **Tema** - 
 * **Épico** - 
 * **Feature** - 
@@ -492,7 +492,7 @@
 * **Épico** - Gerenciamento de usuários
 * **Feature** - Definir configurações de conta
 * **Rastreabilidade** - [RF43](/docs/elicitation/matrix?id=requisitos-funcionais)
-* **História de Usuário** - [US]()
+* **História de Usuário** - 
 * **Funcionalidade**
 
     <!-- <img src="docs/assets/img/post_traceability/.gif" width=47%> -->
