@@ -403,7 +403,7 @@
 * **História de Usuário** - 
 * **Funcionalidade**
 
-    <!-- <img src="docs/assets/img/post_traceability/delete_audio.gif" width=47%> -->
+    <img src="docs/assets/img/post_traceability/add_contacts.gif" width=47%>
 
 ### RF35 - Editar dados do contato
 * **Tema** - 
@@ -455,7 +455,7 @@
 * **História de Usuário** - [US07](/docs/post_traceability/user_stories?id=us07-eu-como-usuário-do-sistema-desejo-me-cadastrar-no-aplicativo-para-que-eu-possa-ter-acesso-as-funcionalidades-propostas)
 * **Funcionalidade**
 
-    <!-- <img src="docs/assets/img/post_traceability/group_creation.gif" width=47%> -->
+    <img src="docs/assets/img/post_traceability/signup_phone.gif" width=47%>
 
 ### RF40 - Cadastrar usuário pelo e-mail
 * **Tema** - Aplicativo de comunicação
@@ -465,7 +465,7 @@
 * **História de Usuário** - [US07](/docs/post_traceability/user_stories?id=us07-eu-como-usuário-do-sistema-desejo-me-cadastrar-no-aplicativo-para-que-eu-possa-ter-acesso-as-funcionalidades-propostas)
 * **Funcionalidade**
 
-    <!-- <img src="docs/assets/img/post_traceability/block_user.gif" width=47%> -->
+    <img src="docs/assets/img/post_traceability/signup_email.gif" width=47%>
 
 ### RF41 - Definir nome do usuário
 * **Tema** - Aplicativo de comunicação
