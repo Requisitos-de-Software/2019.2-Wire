@@ -1,5 +1,8 @@
 # Histórias de Usuário
 
+### Rastreabilidade
+* [Backlog do Produto](https://user-images.githubusercontent.com/42192251/67009479-19e0df00-f0c2-11e9-8d57-9d0f8d7e2b95.jpg)
+ 
 
 #### US01 - Eu, como usuário do sistema, desejo enviar mensagens de texto para me comunicar com outras pessoas.
 
