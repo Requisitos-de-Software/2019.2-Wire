@@ -2,24 +2,24 @@ table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
     width: 100%;
-  }
-  table {
+}
+table {
    border-collapse: collapse;
-  }
-  th, tr, td {
+}
+th, tr, td {
     border: 1px solid #dddddd;
     text-align: left;
     padding: 8px;
-  }
-  td:nth-child(2), th:nth-child(1) {
+}
+td:nth-child(2), th:nth-child(1) {
       border-left: solid 1px silver;
-  }
-  td:nth-child(3), th:nth-child(1) {
+}
+td:nth-child(3), th:nth-child(1) {
       border-left: solid 1px silver;
-  }
-  td:nth-child(4), th:nth-child(1) {
+}
+td:nth-child(4), th:nth-child(1) {
       border-left: solid 1px silver;
-  }
+}
 td:nth-child(5), th:nth-child(1) {
     border-left: solid 1px silver;
 }
@@ -36,6 +36,18 @@ td:nth-child(9), th:nth-child(1) {
     border-left: solid 1px silver;
 }
 td:nth-child(10 ), th:nth-child(1) {
+    border-left: solid 1px silver;
+}
+td:nth-child(11 ), th:nth-child(1) {
+    border-left: solid 1px silver;
+}
+td:nth-child(12 ), th:nth-child(1) {
+    border-left: solid 1px silver;
+}
+td:nth-child(13 ), th:nth-child(1) {
+    border-left: solid 1px silver;
+}
+td:nth-child(14 ), th:nth-child(1) {
     border-left: solid 1px silver;
 }
 .myButton {
