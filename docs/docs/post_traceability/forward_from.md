@@ -527,6 +527,10 @@
 
     <img src="docs/assets/img/post_traceability/delete_account.gif" width=47%>
 
+### Referências
+* Milene Serrano, Maurício Serrano. Requisitos – Aula 26. Disponível em : https://aprender.ead.unb.br/pluginfile.php/730439/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf. Acesso em 17 de novembro de 2019.
+* [Ebrary] Young, Ralph. Requirements Engineering Handbook. Norwood, US:
+Artech House Books, 2003. Acesso em 16 de novembro de 2019.
 
 <!DOCTYPE html>
 <html>
