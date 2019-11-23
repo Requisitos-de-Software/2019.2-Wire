@@ -143,7 +143,7 @@
     CA05 - Deve ser possível salvar as configurações de aparência
 </div>
 
-#### Gerenciamento dos contatos
+#### F3 - Gerenciamento dos contatos
 ##### US01 - Eu, como usuário, desejo ter um gerenciamento dos meus contatos para que eu 
 <div class="criterios-aceitacao">
     CA01 - Deve ser possível adicionar contatos<br>
@@ -153,8 +153,8 @@
     CA05 - Deve ser possível desbloquear contato
 </div>
 
-### Serviços externos
-#### Integração de serviços externos
+### E3 - Serviços externos
+#### F1 - Integração de serviços externos
 ##### US01 - Eu, como usuário, desejo integrar serviços externos para que minha utilização seja mais eficiente e completa
 <div class="criterios-aceitacao">
     CA01 - Deve ser possível adicionar um serviço pré-existente ao Wire<br>
@@ -162,10 +162,4 @@
     CA03 - Deve ser possível migrar serviços própios para dentro dos chats no Wire<br>
     CA04 - Deve ser possível disponibilizar serviços criados à comunidade
 </div>
-
-**LEGENDA**
-* Tema
-    * Épico
-        * Feature
-            * Casos de usuário
-                *  Critérios de aceitação
+ 
