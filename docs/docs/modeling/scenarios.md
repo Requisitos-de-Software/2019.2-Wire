@@ -2,6 +2,8 @@
 | --- | --- | --- | --- |
 | 26/09/2019 | 1.0 | Criação do documento de Cenários | [Caio Fernandes](https://github.com/caiovfernandes) e [Gabriel Alves](https://github.com/gitgabiru)|
 | 07/10/2019 | 1.1 | Melhoria do Layout |[Caio Fernandes](https://github.com/caiovfernandes) |
+| 22/11/2019 | 2.0 | Refatoração dos cenários | Lucas Fellipe e Guilherme Mendes |
+
 
 
 # Cenários - Modelagem de Requisitos
@@ -75,7 +77,7 @@ CS05<br>
 ---
 
 ## **Configurações**
-Cenários referentes à funcionalidades que provêm de configurações do serviço.
+Cenários referentes as funcionalidades que provêm das configurações de serviço.
 
 ### Cenário de Configuração 1
 
@@ -83,13 +85,12 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |-----------|---------------|
 | **Id**  | CC01 |
 | **Título**  | Redefinir senha |
-| **Metas e Objetivos**  | Trocar senha e confirmar alteração via e-mail |
-| **Contexto**  | Aplicativo logado |
-| **Ator(es)**  | Usuários |
-| **Recursos**  | Smartphone, internet e energia |
-| **Exceção**  | Sem sinal, smartphone sem bateria |
-| **Episódios:**  | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> -  Usuário acessa conta <br> -  Usuário redefine a senha | 
-
+| **Metas e Objetivos**  | Trocar a senha atual e confirmar a alteração via e-mail. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta. |
+| **Ator(es)**  | Usuário. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios:**  | - Usuário acessa seu perfil. <br> - Usuário acessa ajustes. <br> -  Usuário acessa conta <br> -  Usuário redefine a senha | 
 
 <br>
 
@@ -98,13 +99,12 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |-----------|---------------|
 | **Id**  | CC02 |
 | **Título**  |  Excluir conta |
-| **Metas e Objetivos**  | Ter a conta excluida permanentemente do aplicativo |
-| **Contexto**  | Aplicativo logado |
-| **Ator(es)**  | Usuários |
-| **Recursos**  | Smartphone, internet e energia |
-| **Exceção**  | Sem sinal, smartphone sem bateria |
-| **Episódios**  | -  Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> -  Usuário acessa conta <br> -  Usuário faz a exclusão da conta |
-
+| **Metas e Objetivos**  | Ter a conta excluida permanentemente do aplicativo. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta. |
+| **Ator(es)**  | Usuário. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios**  | -  Usuário acessa seu perfil. <br> - Usuário acessa ajustes. <br> -  Usuário acessa conta. <br> -  Usuário exclui sua conta permanentemente. |
 
 <br>
 
@@ -112,13 +112,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC03 |
-| **Título**  | Dar permissão ao uso de dados móveis |
-| **Metas e Objetivos**  | Enviar dados anônimos a equipe de desenvolvimento e receber notícias do aplicativo |
-| **Contexto**  | Aplicativo logado |
-| **Ator(es)**  | Usuários |
-| **Recursos**  | Smartphone, internet e energia |
-| **Exceção**  | Sem sinal, smartphone sem bateria |
-| **Episódios**  | -  Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa conta <br> - Usuário habilita envio de dados anônimos e receber notícias |
+| **Título**  | Dar permissão e utilizar dados móveis |
+| **Metas e Objetivos**  | Enviar mensagens e dados anônimos aos usuários e receber notícias do aplicativo. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta e estar logado. |
+| **Ator(es)**  | Usuário. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios**  | -  Usuário acessa seu perfil. <br> - Usuário acessa ajustes. <br> - Usuário acessa conta. <br> - Usuário habilita a opção de envio de dados anônimos e a opção de receber notícias. |
 
 <br>
 
@@ -126,13 +126,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC04 |
-| **Título**  | Criar back up de conversa |
-| **Metas e Objetivos**  | Criar backup para preservar o histórico de conversa |
-| **Contexto**  | Aplicativo logado |
-| **Ator(es)**  | Usuários |
-| **Recursos**  | Smartphone, internet e energia |
-| **Exceção**  | Sem sinal, smartphone sem bateria |
-| **Episódios**  | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br>- Usuário acessa conta <br> - Usuário faz a exclusão da conta |
+| **Título**  | Criar *backup* de uma conversa |
+| **Metas e Objetivos**  | Criar um *backup* para preservar seu histórico de conversa. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta e estar logado. |
+| **Ator(es)**  | Usuário. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios**  | - Usuário acessa seu perfil. <br> - Usuário acessa ajustes. <br> - Usuário acessa conta. <br> - Usuário habilita a opção de fazer o *backup* de uma conversa. |
 
 <br>
 
@@ -140,13 +140,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC05 |
-| **Título**  | Alterar nome |
-| **Metas e Objetivos**  | Redefinir novo nome do usuário |
-| **Contexto**  | Aplicativo logado |
-| **Ator(es)**  | Usuário |
-| **Recursos**  | Smartphone, internet e energia |
-| **Exceção**  | Sem sinal, smartphone sem bateria |
-| **Episódios**  |- Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br>- Usuário acessa conta <br>- Usuário edita nome |
+| **Título**  | Alterar nome pessoal |
+| **Metas e Objetivos**  | Mudar seu nome pessoal. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta e estar logado. |
+| **Ator(es)**  | Usuário. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios**  | - Usuário acessa seu perfil. <br> - Usuário acessa ajustes. <br> - Usuário acessa conta. <br> - Usuário altera seu nome pessoal conforme a sua vontade. |
 
 <br>
 
@@ -155,12 +155,12 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |-----------|---------------|
 | **Id**  | CC06 |
 | **Título**  | Alterar nome de usuário |
-| **Metas e Objetivos**  | Usuário redefine “username” do aplicativo |
-| **Contexto**  | Aplicativo logado |
-| **Ator(es)**  | Usuários |
-| **Recursos**  | Smartphone, internet e energia |
-| **Exceção**  | Sem sinal, smartphone sem bateria |
-| **Episódios**  | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa conta<br>- Usuário redefine username |
+| **Metas e Objetivos**  | Alteração do seu *username*. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta e estar logado. |
+| **Ator(es)**  | Usuário. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios**  | - Usuário acessa seu perfil. <br> - Usuário acessa ajustes. <br> - Usuário acessa conta. <br> - Usuário altera seu *username* conforme a sua vontade e disponibilidade no aplicativo. |
 
 <br>
 
@@ -168,13 +168,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC07 |
-| **Título**  | Adicionar novo e-mail ao aplicativo |
-| **Metas e Objetivos**  | Usuário adiciona mais um e-mail a sua conta |
-| **Contexto**  | Aplicativo logado |
-| **Ator(es)**  | Usuários |
-| **Recursos**  | Smartphone, internet e energia |
-| **Exceção**  | Sem sinal, smartphone sem bateria |
-| **Episódios**  | - Usuário acessa no seu perfil <br>- Usuário acessa em configurações<br>- Usuário acessa conta<br> - Usuário adiciona novo e-mail |
+| **Título**  | Adição de novo *e-mail* ao aplicativo |
+| **Metas e Objetivos**  | Adição de um novo *e-mail* ao aplicativo. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta e estar logado. |
+| **Ator(es)**  | Usuário. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios**  | - Usuário acessa seu perfil. <br> - Usuário acessa ajustes. <br> - Usuário acessa conta. <br> - Usuário adiciona um novo *e-mail* a sua conta. |
 
 <br>
 
@@ -182,13 +182,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC08 |
-| **Título**  |Adicionar número de telefone |
-| **Metas e Objetivos**  | Usuário adiciona número válido de telefone |
-| **Contexto**  | Aplicativo logado |
-| **Ator(es)**  | Usuários |
-| **Recursos**  | Smartphone, internet e energia |
-| **Exceção**  | Sem sinal, smartphone sem bateria |
-| **Episódios**  | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa conta <br> - Usuário adiciona número válido no aplicativo |
+| **Título**  | Adição de novo número de telefone |
+| **Metas e Objetivos**  | Adição de um novo número de telefone válido ao aplicativo. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta e estar logado. |
+| **Ator(es)**  | Usuário. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios**  | - Usuário acessa seu perfil. <br> - Usuário acessa ajustes. <br> - Usuário acessa conta. <br> - Usuário adiciona um novo número de telefone válido a sua conta. |
 
 <br>
 
@@ -196,13 +196,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC09 |
-| **Título**  | Adicionar imagem ao perfil |
-| **Metas e Objetivos**  | Usuário adiciona nova imagem ao seu perfil |
-| **Contexto**  | Aplicativo logado |
-| **Ator(es)**  | Usuários |
-| **Recursos**  | Smartphone, internet e energia |
-| **Exceção**  | Sem sinal, smartphone sem bateria |
-| **Episódios**  | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa contaUsuário adiciona foto ao perfil |
+| **Título**  | Adicionar nova imagem ao perfil de usuário |
+| **Metas e Objetivos**  | Adição de uma nova imagem ao perfil de usuário. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta e estar logado. |
+| **Ator(es)**  | Usuário. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios**  | - Usuário acessa seu perfil. <br> - Usuário acessa ajustes. <br> - Usuário acessa conta. <br> - Usuário adiciona uma nova foto de perfil. |
 
 <br>
 
@@ -211,12 +211,12 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |-----------|---------------|
 | **Id**  | CC10 |
 | **Título**  | Compartilhar contatos |
-| **Metas e Objetivos**  | Usuário compartilha contatos salvos no smartphone com o aplicativo para encontrar os contatos no Wire |
-| **Contexto**  | Aplicativo logado |
-| **Ator(es)**  | Usuários |
-| **Recursos**  | Smartphone, internet e energia |
-| **Exceção**  | Sem sinal, smartphone sem bateria |
-| **Episódios**  | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário habilita compartilhar contatos |
+| **Metas e Objetivos**  | Compartilhar os contatos salvos no smartphone com o aplicativo para o usuário encontre os seus contatos no Wire |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta e estar logado. |
+| **Ator(es)**  | Usuário. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios**  | - Usuário acessa seu perfil. <br> - Usuário acessa ajustes. <br> - Usuário acessa opções. <br> - Usuário habilita a opção de compartilhar contatos. |
 
 <br>
 
@@ -224,13 +224,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC11 |
-| **Título**  | Ativar vibração de notificação |
-| **Metas e Objetivos**  | Usuário habilita modo vibração para notificações |
-| **Contexto**  | Aplicativo logado |
-| **Ator(es)**  | Usuários |
-| **Recursos**  | Smartphone, internet e energia |
-| **Exceção**  | Sem sinal, smartphone sem bateria |
-| **Episódios**  | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções<br> - Usuário habilita modo vibração |
+| **Título**  | Ativar modo vibração de notificação |
+| **Metas e Objetivos**  | Habilitar o modo vibração para as notificações recebidas de um determinado usuário ou grupo. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta e estar logado. |
+| **Ator(es)**  | Usuário. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios**  | - Usuário acessa seu perfil. <br> - Usuário acessa ajustes. <br> - Usuário acessa opções. <br> - Usuário habilita a opção de modo vibração do aplicativo. |
 
 <br>
 
@@ -238,13 +238,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC12 |
-| **Título** | Habilitar sinal sonoro de notificação |
-| **Metas/Objetivos** | Usuário habilita sinal sonoro para todas as notificações. |
-| **Contexto** | Aplicativo logado |
-| **Ator(es)** | Usuários |
-| **Recursos** | Smartphone, internet e energia |
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódos** | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário habilita sinal sonoro|
+| **Título** | Habilitar toque sonoro de notificação |
+| **Metas/Objetivos** | Habilitar toque sonoro para todas as notificações recebidas. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta e estar logado. |
+| **Ator(es)**  | Usuário. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios**  | - Usuário acessa seu perfil. <br> - Usuário acessa ajustes. <br> - Usuário acessa opções. <br> - Usuário habilita a opção de toque sonoro para as notificações. |
 
 <br>
 
@@ -252,13 +252,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC13 |
-| **Título** |  Escolher sinal sonoro de chamada |
-| **Metas/Objetivos** | Usuário escolhe sinal sonoro para as chamadas recebidas |
-| **Contexto** | Aplicativo logado |
-| **Ator(es)** | Usuários |
-| **Recursos** | Smartphone, internet e energia |
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódos** | - Usuário acessa no seu perfil <br>  - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário escolhe sinal sonoro de chamada|
+| **Título** |  Escolher toque sonoro de chamada |
+| **Metas/Objetivos** | Escolher toque sonoro específico para as chamadas recebidas. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta e estar logado. |
+| **Ator(es)**  | Usuário. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios**  | - Usuário acessa seu perfil. <br> - Usuário acessa ajustes. <br> - Usuário acessa opções. <br> - Usuário escolhe o toque sonoro de chamadas desejado. |
 
 <br>
 
@@ -266,13 +266,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC14 |
-| **Título** | Escolher sinal sonoro de mensagem |
-| **Metas/Objetivos** | Usuário escolhe sinal sonoro para as mensagens recebidas |
-| **Contexto** | Aplicativo logado |
-| **Ator(es)** | Usuários |
-| **Recursos** | Smartphone, internet e energia |
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódos** | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário escolhe sinal sonoro de mensagens recebidas |
+| **Título** | Escolher toque sonoro de mensagem |
+| **Metas/Objetivos** | Escolher toque sonoro específico para as mensagens recebidas. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta e estar logado. |
+| **Ator(es)**  | Usuário. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios**  | - Usuário acessa seu perfil. <br> - Usuário acessa ajustes. <br> - Usuário acessa opções. <br> - Usuário escolhe o toque sonoro de mensagens desejado. |
 
 <br>
 	       
@@ -280,13 +280,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC15 |
-| **Título:** | Escolher tema “dark”  |
-| **Metas/Objetivos** | Usuário seleciona tema “dark” |
-| **Contexto** | Aplicativo logado |
-| **Ator(es)** | Usuários |
-| **Recursos** | Smartphone, internet e energia |
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódos** | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário seleciona tema “dark”|
+| **Título:** | Escolher tema *dark*  |
+| **Metas/Objetivos** | Habilitar modo *dark* no aplicativo. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta e estar logado. |
+| **Ator(es)**  | Usuário. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios**  | - Usuário acessa seu perfil. <br> - Usuário acessa ajustes. <br> - Usuário acessa opções. <br> - Usuário habilita o modo *dark*. |
 
 <br>
 
