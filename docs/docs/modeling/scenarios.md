@@ -12,7 +12,7 @@ Trata-se de uma estratégia reconhecida para compreender as interações entre a
 assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fluxo. 
 </p>    
 
-## **Tipos de Cenários Wire App:**
+## **Tipos de Cenários *Wire* App:**
 
 <button data-toggle="collapse" data-target="#config" class="myButton" >Configurações</button>
 <div id="config" class="collapse">
@@ -211,7 +211,7 @@ Cenários referentes as funcionalidades que provêm das configurações de servi
 |-----------|---------------|
 | **Id**  | CC10 |
 | **Título**  | Compartilhar contatos |
-| **Metas e Objetivos**  | Compartilhar os contatos salvos no smartphone com o aplicativo para o usuário encontre os seus contatos no Wire |
+| **Metas e Objetivos**  | Compartilhar os contatos salvos no smartphone com o aplicativo para o usuário encontre os seus contatos no *Wire* |
 | **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta e estar logado. |
 | **Ator(es)**  | Usuário. |
 | **Recursos**  | Smartphone e acesso à internet. |
@@ -294,13 +294,13 @@ Cenários referentes as funcionalidades que provêm das configurações de servi
 |           |               |
 |-----------|---------------|
 | **Id**  | CC16 |
-| **Título** | Esconder conteúdo da tela |
-| **Metas/Objetivos** | Usuário habilita esconder conteúdo da tela de tarefas |
-| **Contexto**| Aplicativo logado |
-| **Ator(es)** | Usuários |
-| **Recursos** | Smartphone, internet e energia|
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódos**| Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário habilita esconder conteúdo da tela de tarefas |
+| **Título** | Esconder o conteúdo da tela do aplicativo |
+| **Metas/Objetivos** | Habilitar esconder conteúdo da tela de tarefas. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta e estar logado. |
+| **Ator(es)**  | Usuário. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios**  | - Usuário acessa seu perfil. <br> - Usuário acessa ajustes. <br> - Usuário acessa opções. <br> - Usuário habilita esconder o conteúdo da tela de tarefas. |
 
 <br>
 
@@ -308,13 +308,13 @@ Cenários referentes as funcionalidades que provêm das configurações de servi
 |           |               |
 |-----------|---------------|
 | **Id**  | CC17 |
-| **Título** | Pré visualizar mensagens |
-| **Metas/Objetivos** | Usuário habilita pré visualizar mensagens na tela de notificações |
-| **Contexto**| Aplicativo logado |
-| **Ator(es)** | Usuários |
-| **Recursos** | Smartphone, internet e energia|
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódos**| Usuário acessa no seu perfil<br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário habilita pré visualizar mensagens |
+| **Título** | Pré-visualizar Mensagens |
+| **Metas/Objetivos** | Habilitar pré-visualizar mensagens na tela de notificações. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta e estar logado. |
+| **Ator(es)**  | Usuário. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios**  | - Usuário acessa seu perfil. <br> - Usuário acessa ajustes. <br> - Usuário acessa opções. <br> - Usuário habilita pré-visualizar mensagens. |
 
 <br>
 
@@ -322,13 +322,13 @@ Cenários referentes as funcionalidades que provêm das configurações de servi
 |           |               |
 |-----------|---------------|
 | **Id**  | CC18 |
-| **Título** | Download automático de imagens |
-| **Metas/Objetivos** | Usuário habilita sempre executar download  de imagens |
-| **Contexto**| Aplicativo logado |
-| **Ator(es)** | Usuários |
-| **Recursos** | Smartphone, internet e energia|
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódos**| Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário habilita sempre executar download de imagens |
+| **Título** | *Download* automático de imagens |
+| **Metas/Objetivos** | Habilitar opção de *download* automático de imagens. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta e estar logado. |
+| **Ator(es)**  | Usuário. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios**  | - Usuário acessa seu perfil. <br> - Usuário acessa ajustes. <br> - Usuário acessa opções. <br> - Usuário habilita a opção de *download* de imagens. |
 
 <br>
 
@@ -336,13 +336,13 @@ Cenários referentes as funcionalidades que provêm das configurações de servi
 |           |               |
 |-----------|---------------|
 | **Id**  | CC19 |
-| **Título** | Habilitar botão de envio |
-| **Metas/Objetivos** | Usuário habilita botão de envio para aparecer direto no teclado |
-| **Contexto** | Aplicativo logado |
-| **Ator(es)** | Usuários |
-| **Recursos** | Smartphone, internet e energia |
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódos** | Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário habilita botão de envio |
+| **Título** | Habilitar botão de envio no teclado |
+| **Metas/Objetivos** | Habilitar botão de envio no teclado para enviar a mensagem de forma mais rápida. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta e estar logado. |
+| **Ator(es)**  | Usuário. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios**  | - Usuário acessa seu perfil. <br> - Usuário acessa ajustes. <br> - Usuário acessa opções. <br> - Usuário habilita o botão de envio do teclado. |
 
 <br>
    
@@ -350,31 +350,31 @@ Cenários referentes as funcionalidades que provêm das configurações de servi
 |           |               |
 |-----------|---------------|
 | **Id**  | CC20 |
-| **Título** | Bloquear com senha |
-| **Metas/Objetivos** | Usuário habilita bloqueio com senha após 10 segundo de inatividade no aplicativo |
-| **Contexto** | Aplicativo logado |
-| **Ator(es)** | Usuários |
-| **Recursos** | Smartphone, internet e energia |
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódos** | Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário habilita bloqueio de inatividade|
+| **Título** | Bloquear a tela por inatividade |
+| **Metas/Objetivos** | Habilitar o bloqueio com senha após X segundos de inatividade no aplicativo. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta e estar logado. |
+| **Ator(es)**  | Usuário. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios**  | - Usuário acessa seu perfil. <br> - Usuário acessa ajustes. <br> - Usuário acessa opções. <br> - Usuário habilita a opção de bloqueio por inatividade. |
 
 <br>
 <br>
 
 ## **Chat**
-Cenárioas da tela de chat da aplicação, descreve utilizações para funcionalidades acionadas na tela de chat.
+Cenários da tela do chat do aplicativo *Wire*. Descreve de forma suscinta e clara as funcionalidades existentes na tela do chat de conversa.
 
 ### Cenário de Chat 1
 |           |               |
 |-----------|---------------|
 | **Id**  | CM01 |
-| **Título**  | Enviar mensagem de texto. |
-| **Metas e Objetivos**  |Mandar e receber mensagens de texto. |
-| **Contexto:**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet, configurações de privacidade de microfone ativadas para o Wire. |
-| **Ator(es)**  |  Dois amigos. |
-| **Recursos**  | Smartphone, internet e energia. |
-| **Exceção**  |  Sem sinal, smartphone sem bateria |
-| **Episódios:**  | Amigo 1 envia mensagem de texto para amigo 2. <br>  Amigo 2 responde com  texto para amigo  |
+| **Título**  | Enviar ou receber mensagens de texto |
+| **Metas e Objetivos** | Enviar ou receber mensagens de um determinado usuário. |
+| **Contexto:**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)**  |  Dois usuários ou dois amigos. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios:**  | - Usuário 1 abre conversa de um usuário 2. <br>  - Usuário 1 envia mensagem de texto para usuário 2. <br> - Usuário 2 recebe mensagem de texto do usuário 1. |
 
 <br>
 
@@ -382,13 +382,13 @@ Cenárioas da tela de chat da aplicação, descreve utilizações para funcional
 |           |               |
 |-----------|---------------|
 | **Id**  | CM02 |
-| **Título**  | Enviar mensagem de áudio. |
-| **Metas e Objetivos**  |Mandar e receber mensagens de voz. |
-| **Contexto**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet, configurações de privacidade de microfone ativadas para o Wire. |
-| **Ator(es)**  |  Duas pessoas. |
-| **Recursos**  | SO, internet. |
-| **Exceção**  |  Sem internet, smartphone sem bateria |
-| **Episódios:**  | Amigo 1 envia mensagem de áudio para amigo 2. <br> Amigo 2 responde com áudio para amigo 1. |
+| **Título**  | Enviar ou receber mensagens de áudio |
+| **Metas e Objetivos** | Enviar ou receber mensagens de áudio/voz de um determinado usuário. |
+| **Contexto:**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. Além disso, é necessário ativar a opção de habilitar envio de áudio. |
+| **Ator(es)**  |  Dois usuários ou dois amigos. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios:**  | - Usuário 1 abre conversa de um usuário 2. <br>  - Usuário 1 envia mensagem de áudio/voz para usuário 2. <br> - Usuário 2 recebe mensagem de áudio/voz do usuário 1. |
 
 <br>
 
@@ -396,13 +396,13 @@ Cenárioas da tela de chat da aplicação, descreve utilizações para funcional
 |           |               |
 |-----------|---------------|
 | **Id**  | CM03 |
-| **Título**  | Enviar foto e vídeo. |
-| **Metas e Objetivos**  |projeto da empresa para a equipe. |
-| **Contexto**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet, permissões de acesso aos dados do dispositivo habilitadas. |
-| **Ator(es)**  |  Pessoas do time. |
-| **Recursos**  | SO, internet e energia. |
-| **Exceção**  |  Sem sinal, smartphone sem bateria |
-| **Episódios:**  | Gerente envia arquivos de imagem e vídeo acerca do novo projeto para a  equipe.|
+| **Título**  | Enviar ou receber fotos e vídeos |
+| **Metas e Objetivos** | Enviar ou receber fotos e/ou vídeos de um determinado usuário. |
+| **Contexto:**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)**  |  Dois usuários, dois amigos ou usuários em uma equipe. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios:**  | - O dono da equipe abre o grupo. <br> - O dono da equipe envia foto e/ou vídeo de um determinado projeto para a equipe. |
 
 <br>
 
@@ -410,13 +410,13 @@ Cenárioas da tela de chat da aplicação, descreve utilizações para funcional
 |           |               |
 |-----------|---------------|
 | **Id**  | CM04 |
-| **Título**  | Criar um grupo. |
-| **Metas e Objetivos**  |onde apenas participarão analistas e desenvolvedores. |
-| **Contexto**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
+| **Título**  | Criar um grupo |
+| **Metas e Objetivos**  | Criar um grupo para adicionar várias pessoas para ter uma comunicação mais efetiva entre todos os membros do grupo. |
+| **Contexto:**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
 | **Ator(es)** | Usuários. |
-| **Ator(es)**  | SO e internet. |
-| **Recursos**  | Sem sinal, smartphone sem bateria. |
-| **Episódios:**  |Equipe define um grupo para analistas e desenvolvedores terem uma comunicação mais efetiva|
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios:**  | - Usuário procura opção de Criar grupo. <br> - Usuário adiciona os usuários que vão pertencer à esse grupo. | 
 
 <br>
 
@@ -424,13 +424,13 @@ Cenárioas da tela de chat da aplicação, descreve utilizações para funcional
 |           |               |
 |-----------|---------------|
 | **Id**  | CM05 |
-| **Título**  | Mensagem com tempo de visualização. |
-| **Metas e Objetivos**  |que desapareça depois de um tempo. |
-| **Contexto**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)**  |  Pessoas na conversa. |
-| **Recursos**  | SO e internet. |
-| **Exceção**  |  Sem sinal, smartphone sem bateria. |
-| **Episódios:**  | Envio de credenciais para acesso rápido ao email geral da empresa.|
+| **Título**  | Enviar mensagem com tempo de visualização |
+| **Metas e Objetivos**  | Enviar uma mensagem que desapareça depois de um determinado tempo. |
+| **Contexto:**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)**  |  Dois usuários ou dois amigos. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios:**  | - Usuário 1 acessa a conversa com um determinado usuário 2. <br> - Usuário seleciona a opção de enviar mensagem com tempo de visualização. <br> - Usuário determina o tempo de visualização da mensagem. <br> - Usuário envia mensagem. |
 
 <br>
 
@@ -438,13 +438,13 @@ Cenárioas da tela de chat da aplicação, descreve utilizações para funcional
 |           |               |
 |-----------|---------------|
 | **Id**  | CM06 |
-| **Título**  | Chamar a atenção de uma pessoa. |
-| **Metas e Objetivos**  |alerta que vai chamar a atenção. |
-| **Contexto**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)**  |  Pessoas na conversa. |
-| **Recursos**  | SO e internet. |
-| **Exceção**  |  Sem sinal, smartphone sem bateria. |
-| **Episódios:**  | Envia um alerta que vibra e chama a atenção.|
+| **Título**  | Chamar a atenção de um determinado usuário |
+| **Metas e Objetivos**  | Chamar a atenção de um determinado usuário com um toque sonoro. |
+| **Contexto:**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)**  |  Dois usuários ou dois amigos. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios:**  | - Usuário 1 acessa conversa com um determinado usuário 2. <br> - Usuário 1 aperta na opção de chamar a atenção. <br> - Usuário 2 recebe um toque sonoro. |
 
 <br>
 
@@ -452,13 +452,13 @@ Cenárioas da tela de chat da aplicação, descreve utilizações para funcional
 |           |               |
 |-----------|---------------|
 | **Id**  | CM07 |
-| **Título**  | Enviar uma mensagem utilizando a formatação markdown. |
-| **Metas e Objetivos**  |utilizando a formatação do tipo markdown. |
-| **Contexto**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)**  |  Pessoas na conversa. |
-| **Recursos**  | SO, internet e energia. |
-| **Exceção**  |  Sem sinal, smartphone sem bateria |
-| **Episódios:**  | Especifica um texto importante na mensagem utilizando negrito.|
+| **Título**  | Enviar uma mensagem utilizando a formatação de texto *markdown* |
+| **Metas e Objetivos**  | Enviar uma mensagem para um determinado usuário utilizando a formatação *markdown* |
+| **Contexto:**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)**  |  Dois usuários ou dois amigos. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios:**  | - Usuário abre conversa com um usuário 2. <br> - Usuário 1 envia mensagem no formato *markdown* para um usuário 2. |
 
 <br>
 
@@ -466,13 +466,13 @@ Cenárioas da tela de chat da aplicação, descreve utilizações para funcional
 |           |               |
 |-----------|---------------|
 | **Id**  | CM08 |
-| **Título**  | Videoconferência em grupo. |
-| **Metas e Objetivos**  |uma videoconferência com toda a equipe. |
-| **Contexto**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)**  |  Pessoas no grupo. |
-| **Recursos**  | SO e internet. |
-| **Exceção**  |  Sem sinal, smartphone sem bateria |
-| **Episódios:**  | Chefe deseja informar os dados de crescimento da empresa para toda a equipe.|
+| **Título**  | Video-conferência em grupo. |
+| **Metas e Objetivos**  | Realizar uma vídeo-conferência com a equipe. |
+| **Contexto:** | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)**  | Equipe, dois usuários ou dois amigos. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios:**  | - Dono da equipe abre a conversa. <br> - Dono da equipe realiza uma vídeo-conferência com todos os integrantes. |
 
 <br>
 
@@ -480,13 +480,13 @@ Cenárioas da tela de chat da aplicação, descreve utilizações para funcional
 |           |               |
 |-----------|---------------|
 | **Id**  | CM09 |
-| **Título**  | Enviar um gif na mensagem. |
-| **Metas e Objetivos**  |um sentimento de maneira mais intensa. |
-| **Contexto**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)**  |  Pessoas na conversa. |
-| **Recursos**  | SO e internet. |
-| **Exceção**  |  Sem sinal, smartphone sem bateria |
-| **Episódios:**  | Amigo expressa alegria ao contar que foi promovido no trabalho, para expressar melhor o sentimento, ele utiliza um gif animado.|
+| **Título**  | Enviar ou receber um *GIF* na mensagem |
+| **Metas e Objetivos**  | Enviar um *GIF* na mensagem para demonstrar alguma emoção. |
+| **Contexto:**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)**  | Dois usuários ou dois amigos. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios:**  | - Usuário 1 abre conversa com um usuário 2. <br> - Usuário 1 envia um *GIF* animado para o usuário 2. <br> - Usuário 2 recebe *GIF* animado do usuário 1. |
 
 <br>
 
@@ -494,13 +494,13 @@ Cenárioas da tela de chat da aplicação, descreve utilizações para funcional
 |           |               |
 |-----------|---------------|
 | **Id**  | CM10 |
-| **Título**  | Arquivar conversa. |
-| **Metas e Objetivos**  |uma conversa para visualizá-la depois. |
-| **Contexto**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |  
-| **Ator(es)**  | Pessoas na conversa. |
-| **Recursos**  | SO, internet e energia. |
-| **Exceção**  |  Sem sinal, smartphone sem bateria |
-| **Episódios:**  | Por conta de |
+| **Título**  | Arquivar conversa |
+| **Metas e Objetivos**  | Arquivar uma conversa. |
+| **Contexto:**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)**  | Usuário. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios:**  | - Usuário abre conversa. <br> - Usuário arquiva conversa. |
 
 <br>
 
@@ -508,13 +508,13 @@ Cenárioas da tela de chat da aplicação, descreve utilizações para funcional
 |           |               |
 |-----------|---------------|
 | **Id**  | CM11 |
-| **Título**  | Múltiplas contas. |
-| **Metas e Objetivos**  |mais de uma conta simultaneamente . |
-| **Contexto**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)**  |  Pessoas na conversa. |
-| **Recursos**  | SO, internet e energia. |
-| **Exceção**  |  Sem sinal, smartphone sem bateria. |
-| **Episódios:**  | Usuário utiliza Wire tanto pessoalmente quanto para o trabalho, para isso, ele utiliza duas contas,uma delas é associada a um time, que se trata da organização onde ele trabalha, a outra, é a pessoal, que não está cadastrada em nenhum time. |
+| **Título**  | Possuir múltiplas contas. |
+| **Metas e Objetivos**  | Possuir mais de uma conta simultaneamente. |
+| **Contexto:**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)**  | Usuário. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios:** | - Usuário acessa seu perfil. <br> - Usuário acessa ajustes. <br> - Usuário acessa conta. <br> - Usuário acessa uma nova conta. |
 
 <br>
 
@@ -522,13 +522,13 @@ Cenárioas da tela de chat da aplicação, descreve utilizações para funcional
 |           |               |
 |-----------|---------------|
 | **Id**  | CM12 |
-| **Título**  | Criar um chat para convidados. |
-| **Metas e Objetivos**  |chat para convidados fora do time. |
-| **Contexto**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)**  |  Usuário do Wire. |
-| **Recursos**  | SO, internet e energia. |
-| **Exceção**  |  Sem sinal, smartphone sem bateria |
-| **Episódios:**  |   |
+| **Título**  | Criar uma conversa para convidados que não estão no time |
+| **Metas e Objetivos**  | Criar um chat para convidados que não fazem parte do time. |
+| **Contexto:**  | - Local: Tela de inicial. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)**  | Usuários. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios:**  | - Usuário acessa a opção de criar conversa. <br> - Usuário cria um "grupo" com todos os convidados. |
 
 <br>
 
@@ -536,33 +536,31 @@ Cenárioas da tela de chat da aplicação, descreve utilizações para funcional
 |           |               |
 |-----------|---------------|
 | **Id**  | CM13 |
-| **Título**  | Reunião de planejamento. |
-| **Metas e Objetivos**  |e organizar os documentos do trimestre. |
-| **Contexto**  | Funcionário |
-| **Ator(es)** Funcionário e gerente |
-| **Recursos** | Smartphones, notebooks, internet e energia |
-| **Ator(es)**  | Queda de energia e/ou falha no sinal de internet |
-| **Recursos**  | - Gerente manda mensagem no grupo do setor <br> - Funcionários se manifestam via mensagem de texto |
-| **Exceção**  |  para que todos enviem seus relatórios. |
-| **Episódios:**  | seus respectivos documentos (por exemplo: .pdf) |
+| **Título**  | Reunião de planejamento |
+| **Metas e Objetivos**  | Reunião para planejar os objetivos e metas de um projeto. |
+| **Contexto:**  | - Local: Tela de inicial. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)** | Usuários de uma equipe. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios:**  | - Dono da reunião manda mensagem de texto para os funcionários. <br> - Os funcionários respondem se estão de acordo com o planejamento ou não. |
 
 <br>
 
 
 ## **Equipes**
-Na utilização da aplicação Wire é possível criar equipes. Esta é uma funcionalidade que ajuda na utilização da ferramenta por grupos em empresas ou mesmo uma empresa como um todo.
+Na utilização do aplicativo *Wire* é possível criar equipes. Esta é uma funcionalidade que ajuda na utilização da ferramenta por grupos em empresas ou mesmo uma empresa como um todo.
 
 ### Cenário de Equipe 01
 |           |               |
 |-----------|---------------|
 | **Id**  | CE01 |
-| **Título** |  Criar uma Equipe |
-| **Metas/Objetivos** | Criar  e adicionar membros e uma equipe. |
-| **Contexto:** | - Local: Tela de cadastro ou configurações. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)** | Usuários do Wire. |
-| **Recursos** | SO, internet e energia. |
-| **Exeção** |Sem sinal, smartphone sem bateria |
-| **Episódios:** | - Usuário cria um Equipe. <br> - Usuário adiciona membros à equipe.
+| **Título** | Criar uma Equipe |
+| **Metas/Objetivos** | Criar, adicionar ou remover membros de uma equipe. |
+| **Contexto:**  | - Local: Tela configurações da conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)** | Usuários. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios:** | - Usuário cria uma equipe. <br> - Usuário adiciona membros à equipe. |
 
 <br>
 
@@ -570,13 +568,13 @@ Na utilização da aplicação Wire é possível criar equipes. Esta é uma func
 |           |               |
 |-----------|---------------|
 | **Id**  | CE02 |
-| **Título** |  Renomear equipe |
-| **Metas/Objetivos** | Renomear a equipe. |
-| **Contexto:** | - Local: Tela de configurações. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)** | Dono da equipe. |
-| **Recursos** | SO, internet e energia. |
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódios:** | - Usuário com permissão necesária abre configurações da equipe. <br> - Usuário renomeia a equipe.
+| **Título** | Renomear equipe |
+| **Metas/Objetivos** | Renomear equipe devido a um erro de escrita. |
+| **Contexto:**  | - Local: Tela de configurações da conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)** | Administrador da equipe. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios:** | - Administrador abre as configurações do chat da equipe. <br> - Usuário renomeia a equipe. |
 
 <br>
 
@@ -584,13 +582,13 @@ Na utilização da aplicação Wire é possível criar equipes. Esta é uma func
 |           |               |
 |-----------|---------------|
 | **Id**  | CE03 |
-| **Título** |  Gerenciar equipe |
-| **Metas/Objetivos** | Tela para gerenciar toda a equipe e seus membros. |
-| **Contexto:** | - Local: Tela de configurações -> Gerenciar Equipe ou teams.wire.com. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)** | Dono da equipe. |
-| **Recursos** | SO, internet e energia. |
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódios:** | - Administrador da equipe deseja ter uma visão geral do time, seus membros e suas respectivas posições dentro do time. 
+| **Título** | Gerenciar equipe |
+| **Metas/Objetivos** | Gerenciar de forma eficiente a equipe. |
+| **Contexto:** | - Local: Tela de configurações da equipe. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)** | Administrador da equipe. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios:** | - O administrador da equipe deseja ter uma visão geral do time, uma visão geral dos seus membros e suas respectivas posições dentro do time. |
 
 <br>
 
@@ -598,13 +596,13 @@ Na utilização da aplicação Wire é possível criar equipes. Esta é uma func
 |           |               |
 |-----------|---------------|
 | **Id**  | CE04 |
-| **Título** |  Adicionar ou remover logo da Equipe.|
-| **Metas/Objetivos** | Adicionar, remover ou editar a imagem de logo da equipe. |
-| **Contexto:** | - Local: Tela de configurações -> Gerenciar Equipe ou teams.wire.com. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)** | Dono da equipe. |
-| **Recursos** | SO, internet e energia. |
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódios:** | - A empresa atualizou sua identidade visual e precisa alterar a logo do time no Wire. 
+| **Título** | Adicionar ou remover ícone/logo da equipe |
+| **Metas/Objetivos** | Adicionar, remover ou editar o ícone/logo da equipe. |
+| **Contexto:** | - Local: Tela de configurações da equipe. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)** | Administrador da equipe. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios:** | - Usuário acessa configurações da equipe. <br> - Usuário adiciona, remove ou edita o ícone/logo da equipe. |
 
 <br>
 
@@ -612,13 +610,13 @@ Na utilização da aplicação Wire é possível criar equipes. Esta é uma func
 |           |               |
 |-----------|---------------|
 | **Id**  | CE05 |
-| **Título** |  Remover um usuário da equipe.|
-| **Metas/Objetivos** | Remover um usuário ativo da equipe. |
-| **Contexto:** | - Local: Tela de configurações -> Gerenciar Equipe ou teams.wire.com. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)** | Dono da equipe. |
-| **Recursos** | SO, internet e energia. |
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódios:** | - Usuário com permissão remove outro usuário participante da Equipe. |
+| **Título** |  Adicionar ou remover um usuário da equipe |
+| **Metas/Objetivos** | Adicionar ou remover um usuário da equipe. |
+| **Contexto:** | - Local: Tela de configurações da equipe. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)** | Administrador da equipe. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios:** | - Usuário acessa tela de configurações da equipe. <br> - Usuário adiciona ou remove usuários da equipe. |
 
 <br>
 
@@ -626,19 +624,19 @@ Na utilização da aplicação Wire é possível criar equipes. Esta é uma func
 |           |               |
 |-----------|---------------|
 | **Id**  | CE06 |
-| **Título** |  Excluir a equipe.|
-| **Metas/Objetivos** | Excluir a equipe da aplicação Wire. |
-| **Contexto:** | - Local: Tela de configurações -> Gerenciar Equipe ou teams.wire.com. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)** | Dono da equipe. |
-| **Recursos** | SO, internet e energia. |
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódios:** | - Usuário dono da equipe apaga a equipe. |
+| **Título** | Excluir a equipe |
+| **Metas/Objetivos** | Excluir a equipe. |
+| **Contexto:** | - Local: Tela de configurações da equipe. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)** | Administrador da equipe. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O usuário não possuir internet ou estar sem bateria. |
+| **Episódios:** | - Usuário acessa configurações da equipe. <br> - Usuário exclui a equipe. |
 
 <br>
 <br>
 
 ## **Serviços**
-Na utilização da aplicação Wire é possível utilizar serviços externos, tanto serviços já existentes e disponibilizados pela comunidade quanto algum serviço que o próprio utilizador tenha implementado para uso privado. Esta é uma funcionalidade que ajuda na utilização da ferramenta por grupos, empresas ou mesmo um usuário convencional.
+Na utilização da aplicação *Wire* é possível utilizar serviços externos, tanto serviços já existentes e disponibilizados pela comunidade quanto algum serviço que o próprio utilizador tenha implementado para uso privado. Esta é uma funcionalidade que ajuda na utilização da ferramenta por grupos, empresas ou mesmo um usuário convencional.
 
 
 ### Cenário de Serviços 01
@@ -646,7 +644,7 @@ Na utilização da aplicação Wire é possível utilizar serviços externos, ta
 |-----------|---------------|
 | **Id**  | CS01 |
 | **Título** | Acoplar serviço externo. |
-| **Metas/Objetivos** | Trazer para o ambiente/conversas serviços externos ao Wire, pode ser utilizado um serviço existente ou também pode ser implementado um |novo serviço.
+| **Metas/Objetivos** | Trazer para o ambiente/conversas serviços externos ao *Wire*, pode ser utilizado um serviço existente ou também pode ser implementado um |novo serviço.
 | **Contexto** | Perfil -> Serviços. |
 | **Ator(es)** | Usuários. |
 | **Recursos** | SO compatível, internet e energia. |
@@ -661,7 +659,7 @@ Na utilização da aplicação Wire é possível utilizar serviços externos, ta
 | **Id**  | CS02 |
 | **Título** | Habilitar serviço. |
 | **Metas/Objetivos** | Permitir ao usuário habilitar ou desabilitar um serviço acoplado.|
-| **Contexto** | Perfil -> Serviços ou teams.wire.com|
+| **Contexto** | Perfil -> Serviços ou teams.*Wire*.com|
 | **Ator(es)**|  Usuários. |
 | **Recursos:** |O compatível, internet e energia. |
 | **Exeção** | Sem sinal, sem internet, serviço fora do ar. |
@@ -677,7 +675,7 @@ Na utilização da aplicação Wire é possível utilizar serviços externos, ta
 | **Id**  | CS03 |
 | **Título** | Habilitar serviço. |
 | **Metas/Objetivos** | Permitir ao usuário habilitar ou desabilitar um serviço acoplado.|
-| **Contexto** | Perfil -> Serviços ou teams.wire.com|
+| **Contexto** | Perfil -> Serviços ou teams.*Wire*.com|
 | **Ator(es)** | Usuários. |
 | **Recursos** |O compatível, internet e energia. |
 | **Exeção** | Sem sinal, sem internet, serviço fora do ar. |
@@ -692,7 +690,7 @@ Na utilização da aplicação Wire é possível utilizar serviços externos, ta
 | **Id**  | CS04|
 | **Título** | Habilitar serviço para um grupo. |
 | **Metas/Objetivos** | Permitir ao usuário acoplar um serviço a uma conversa em grupo.|
-| **Contexto** | Perfil -> Serviços ou teams.wire.com| 
+| **Contexto** | Perfil -> Serviços ou teams.*Wire*.com| 
 | **Ator(es)** | Usuários. |
 | **Recursos** |O compatível, internet e energia. |
 | **Exeção** | Sem sinal, sem internet, serviço fora do ar. |
@@ -709,7 +707,7 @@ Na utilização da aplicação Wire é possível utilizar serviços externos, ta
 | **Id**  | CS05 |
 | **Título** | Obter serviços. |
 | **Metas/Objetivos** | Disponibilizar ao usuário uma lista de serviços disponibilizados pela comunidade que ele possa usar.|
-| **Contexto** | Perfil -> Serviços ou teams.wire.com|  
+| **Contexto** | Perfil -> Serviços ou teams.*Wire*.com|  
 | **Ator(es)** | Usuários. |
 | **Recursos:** |O compatível, internet e energia. |
 | **Exeção** | Sem sinal, sem internet, serviço fora do ar. |
