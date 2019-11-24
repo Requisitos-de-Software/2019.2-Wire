@@ -2,6 +2,8 @@
 | --- | --- | --- | --- |
 | 26/09/2019 | 1.0 | Criação do documento de Cenários | [Caio Fernandes](https://github.com/caiovfernandes) e [Gabriel Alves](https://github.com/gitgabiru)|
 | 07/10/2019 | 1.1 | Melhoria do Layout |[Caio Fernandes](https://github.com/caiovfernandes) |
+| 22/11/2019 | 2.0 | Refatoração dos cenários | Lucas Fellipe e Guilherme Mendes |
+
 
 
 # Cenários - Modelagem de Requisitos
@@ -10,72 +12,76 @@ Trata-se de uma estratégia reconhecida para compreender as interações entre a
 assim como elicitara parte comportamental do software, sua dinãnima e/ou seu fluxo. 
 </p>    
 
-## **Tipos de Cenários Wire App:**
+## **Tipos de Cenários *Wire* App:**
 
 <button data-toggle="collapse" data-target="#config" class="myButton" >Configurações</button>
 <div id="config" class="collapse">
-CC01<br>
-CC02<br>
-CC03<br>
-CC04<br>
-CC05<br>
-CC06<br>
-CC07<br>
-CC08<br>
-CC09<br>
-CC10<br>
-CC11<br>
-CC12<br>
-CC13<br>
-CC14<br>
-CC15<br>
-CC16<br>
-CC17<br>
-CC18<br>
-CC19<br>
-CC20<br>
+
+[CC01](docs/modeling/scenarios?id=cenário-de-configuração-1)<br>
+[CC02](docs/modeling/scenarios?id=cenário-de-configuração-2)<br>
+[CC03](docs/modeling/scenarios?id=cenário-de-configuração-3)<br>
+[CC04](docs/modeling/scenarios?id=cenário-de-configuração-4)<br>
+[CC05](docs/modeling/scenarios?id=cenário-de-configuração-5)<br>
+[CC06](docs/modeling/scenarios?id=cenário-de-configuração-6)<br>
+[CC07](docs/modeling/scenarios?id=cenário-de-configuração-7)<br>
+[CC08](docs/modeling/scenarios?id=cenário-de-configuração-8)<br>
+[CC09](docs/modeling/scenarios?id=cenário-de-configuração-9)<br>
+[CC10](docs/modeling/scenarios?id=cenário-de-configuração-10)<br>
+[CC11](docs/modeling/scenarios?id=cenário-de-configuração-11)<br>
+[CC12](docs/modeling/scenarios?id=cenário-de-configuração-12)<br>
+[CC13](docs/modeling/scenarios?id=cenário-de-configuração-13)<br>
+[CC14](docs/modeling/scenarios?id=cenário-de-configuração-14)<br>
+[CC15](docs/modeling/scenarios?id=cenário-de-configuração-15)<br>
+[CC16](docs/modeling/scenarios?id=cenário-de-configuração-16)<br>
+[CC17](docs/modeling/scenarios?id=cenário-de-configuração-17)<br>
+[CC18](docs/modeling/scenarios?id=cenário-de-configuração-18)<br>
+[CC19](docs/modeling/scenarios?id=cenário-de-configuração-19)<br>
+[CC20](docs/modeling/scenarios?id=cenário-de-configuração-20)<br>
 </div>
 
 <button data-toggle="collapse" data-target="#chat" class="myButton" >Chat</button>
 <div id="chat" class="collapse">
-CM01<br>
-CM02<br>
-CM03<br>
-CM04<br>
-CM05<br>
-CM06<br>
-CM07<br>
-CM08<br>
-CM09<br>
-CM10<br>
-CM11<br>
-CM12<br>
-CM13<br>
+
+[CM01](/docs/modeling/scenarios?id=cenário-de-chat-1)<br>
+[CM02](/docs/modeling/scenarios?id=cenário-de-chat-2)<br>
+[CM03](/docs/modeling/scenarios?id=cenário-de-chat-3)<br>
+[CM04](/docs/modeling/scenarios?id=cenário-de-chat-4)<br>
+[CM05](/docs/modeling/scenarios?id=cenário-de-chat-5)<br>
+[CM06](/docs/modeling/scenarios?id=cenário-de-chat-6)<br>
+[CM07](/docs/modeling/scenarios?id=cenário-de-chat-7)<br>
+[CM08](/docs/modeling/scenarios?id=cenário-de-chat-8)<br>
+[CM09](/docs/modeling/scenarios?id=cenário-de-chat-9)<br>
+[CM10](/docs/modeling/scenarios?id=cenário-de-chat-10)<br>
+[CM11](/docs/modeling/scenarios?id=cenário-de-chat-11)<br>
+[CM12](/docs/modeling/scenarios?id=cenário-de-chat-12)<br>
+[CM13](/docs/modeling/scenarios?id=cenário-de-chat-13)<br>
 </div>
 
 <button data-toggle="collapse" data-target="#equipes" class="myButton" >Equipes</button>
 <div id="equipes" class="collapse">
-CE01<br>
-CE02<br>
-CE03<br>
-CE04<br>
-CE05<br>
-CE06<br>
+
+[CE01](/docs/modeling/scenarios?id=cenário-de-equipe-01)<br>
+[CE02](/docs/modeling/scenarios?id=cenário-de-equipe-02)<br>
+[CE03](/docs/modeling/scenarios?id=cenário-de-equipe-03)<br>
+[CE04](/docs/modeling/scenarios?id=cenário-de-equipe-04)<br>
+[CE05](/docs/modeling/scenarios?id=cenário-de-equipe-05)<br>
+[CE06](/docs/modeling/scenarios?id=cenário-de-equipe-06)<br>
 </div>
 
 <button data-toggle="collapse" data-target="#servicos" class="myButton" >Serviços</button>
 <div id="servicos" class="collapse">
-CS01<br>
-CS02<br>
-CS03<br>
-CS04<br>
-CS05<br>
+
+[CS01](/docs/modeling/scenarios?id=cenário-de-serviços-01)<br>
+[CS02](/docs/modeling/scenarios?id=cenário-de-serviços-02)<br>
+[CS03](/docs/modeling/scenarios?id=cenário-de-serviços-03)<br>
+[CS04](/docs/modeling/scenarios?id=cenário-de-serviços-04)<br>
+[CS05](/docs/modeling/scenarios?id=cenário-de-serviços-05)<br>
 </div>
 
 ---
 
 ## **Configurações**
-Cenários referentes à funcionalidades que provêm de configurações do serviço.
+Cenários referentes as funcionalidades que provêm das configurações de serviço.
 
 ### Cenário de Configuração 1
 
@@ -83,13 +89,12 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |-----------|---------------|
 | **Id**  | CC01 |
 | **Título**  | Redefinir senha |
-| **Metas e Objetivos**  | Trocar senha e confirmar alteração via e-mail |
-| **Contexto**  | Aplicativo logado |
-| **Ator(es)**  | Usuários |
-| **Recursos**  | Smartphone, internet e energia |
-| **Exceção**  | Sem sinal, smartphone sem bateria |
-| **Episódios:**  | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> -  Usuário acessa conta <br> -  Usuário redefine a senha | 
-
+| **Metas e Objetivos**  | Trocar a senha atual e confirmar a alteração via e-mail. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O usuário deve possuir uma conta. |
+| **Ator(es)**  | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios:**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa seu perfil. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa ajustes. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa conta <br> -  [Usuário](/docs/modeling/lexicos/objects?id=usuário) redefine a senha | 
 
 <br>
 
@@ -98,13 +103,12 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |-----------|---------------|
 | **Id**  | CC02 |
 | **Título**  |  Excluir conta |
-| **Metas e Objetivos**  | Ter a conta excluida permanentemente do aplicativo |
-| **Contexto**  | Aplicativo logado |
-| **Ator(es)**  | Usuários |
-| **Recursos**  | Smartphone, internet e energia |
-| **Exceção**  | Sem sinal, smartphone sem bateria |
-| **Episódios**  | -  Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> -  Usuário acessa conta <br> -  Usuário faz a exclusão da conta |
-
+| **Metas e Objetivos**  | Ter a conta excluida permanentemente do aplicativo. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta. |
+| **Ator(es)**  | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios**  | -  [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa seu perfil. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa ajustes. <br> -  [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa conta. <br> -  [Usuário](/docs/modeling/lexicos/objects?id=usuário) exclui sua conta permanentemente. |
 
 <br>
 
@@ -112,13 +116,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC03 |
-| **Título**  | Dar permissão ao uso de dados móveis |
-| **Metas e Objetivos**  | Enviar dados anônimos a equipe de desenvolvimento e receber notícias do aplicativo |
-| **Contexto**  | Aplicativo logado |
-| **Ator(es)**  | Usuários |
-| **Recursos**  | Smartphone, internet e energia |
-| **Exceção**  | Sem sinal, smartphone sem bateria |
-| **Episódios**  | -  Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa conta <br> - Usuário habilita envio de dados anônimos e receber notícias |
+| **Título**  | Dar permissão e utilizar dados móveis |
+| **Metas e Objetivos**  | Enviar mensagens e dados anônimos aos [Usuário](/docs/modeling/lexicos/objects?id=usuário) e receber notícias do aplicativo. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta e estar logado. |
+| **Ator(es)**  | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios**  | -  [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa seu perfil. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa ajustes. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa conta. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) habilita a opção de envio de dados anônimos e a opção de receber notícias. |
 
 <br>
 
@@ -126,13 +130,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC04 |
-| **Título**  | Criar back up de conversa |
-| **Metas e Objetivos**  | Criar backup para preservar o histórico de conversa |
-| **Contexto**  | Aplicativo logado |
-| **Ator(es)**  | Usuários |
-| **Recursos**  | Smartphone, internet e energia |
-| **Exceção**  | Sem sinal, smartphone sem bateria |
-| **Episódios**  | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br>- Usuário acessa conta <br> - Usuário faz a exclusão da conta |
+| **Título**  | Criar *backup* de uma conversa |
+| **Metas e Objetivos**  | Criar um *backup* para preservar seu histórico de conversa. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta e estar logado. |
+| **Ator(es)**  | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa seu perfil. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa ajustes. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa conta. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) habilita a opção de fazer o *backup* de uma conversa. |
 
 <br>
 
@@ -140,13 +144,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC05 |
-| **Título**  | Alterar nome |
-| **Metas e Objetivos**  | Redefinir novo nome do usuário |
-| **Contexto**  | Aplicativo logado |
-| **Ator(es)**  | Usuário |
-| **Recursos**  | Smartphone, internet e energia |
-| **Exceção**  | Sem sinal, smartphone sem bateria |
-| **Episódios**  |- Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br>- Usuário acessa conta <br>- Usuário edita nome |
+| **Título**  | Alterar nome pessoal |
+| **Metas e Objetivos**  | Mudar seu nome pessoal. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta e estar logado. |
+| **Ator(es)**  | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa seu perfil. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa ajustes. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa conta. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) altera seu nome pessoal conforme a sua vontade. |
 
 <br>
 
@@ -154,13 +158,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC06 |
-| **Título**  | Alterar nome de usuário |
-| **Metas e Objetivos**  | Usuário redefine “username” do aplicativo |
-| **Contexto**  | Aplicativo logado |
-| **Ator(es)**  | Usuários |
-| **Recursos**  | Smartphone, internet e energia |
-| **Exceção**  | Sem sinal, smartphone sem bateria |
-| **Episódios**  | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa conta<br>- Usuário redefine username |
+| **Título**  | Alterar nome de [Usuário](/docs/modeling/lexicos/objects?id=usuário) |
+| **Metas e Objetivos**  | Alteração do seu *username*. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta e estar logado. |
+| **Ator(es)**  | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa seu perfil. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa ajustes. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa conta. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) altera seu *username* conforme a sua vontade e disponibilidade no aplicativo. |
 
 <br>
 
@@ -168,13 +172,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC07 |
-| **Título**  | Adicionar novo e-mail ao aplicativo |
-| **Metas e Objetivos**  | Usuário adiciona mais um e-mail a sua conta |
-| **Contexto**  | Aplicativo logado |
-| **Ator(es)**  | Usuários |
-| **Recursos**  | Smartphone, internet e energia |
-| **Exceção**  | Sem sinal, smartphone sem bateria |
-| **Episódios**  | - Usuário acessa no seu perfil <br>- Usuário acessa em configurações<br>- Usuário acessa conta<br> - Usuário adiciona novo e-mail |
+| **Título**  | Adição de novo *e-mail* ao aplicativo |
+| **Metas e Objetivos**  | Adição de um novo *e-mail* ao aplicativo. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta e estar logado. |
+| **Ator(es)**  | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa seu perfil. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa ajustes. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa conta. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) adiciona um novo *e-mail* a sua conta. |
 
 <br>
 
@@ -182,13 +186,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC08 |
-| **Título**  |Adicionar número de telefone |
-| **Metas e Objetivos**  | Usuário adiciona número válido de telefone |
-| **Contexto**  | Aplicativo logado |
-| **Ator(es)**  | Usuários |
-| **Recursos**  | Smartphone, internet e energia |
-| **Exceção**  | Sem sinal, smartphone sem bateria |
-| **Episódios**  | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa conta <br> - Usuário adiciona número válido no aplicativo |
+| **Título**  | Adição de novo número de telefone |
+| **Metas e Objetivos**  | Adição de um novo número de telefone válido ao aplicativo. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta e estar logado. |
+| **Ator(es)**  | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa seu perfil. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa ajustes. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa conta. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) adiciona um novo número de telefone válido a sua conta. |
 
 <br>
 
@@ -196,13 +200,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC09 |
-| **Título**  | Adicionar imagem ao perfil |
-| **Metas e Objetivos**  | Usuário adiciona nova imagem ao seu perfil |
-| **Contexto**  | Aplicativo logado |
-| **Ator(es)**  | Usuários |
-| **Recursos**  | Smartphone, internet e energia |
-| **Exceção**  | Sem sinal, smartphone sem bateria |
-| **Episódios**  | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa contaUsuário adiciona foto ao perfil |
+| **Título**  | Adicionar nova imagem ao perfil de [Usuário](/docs/modeling/lexicos/objects?id=usuário) |
+| **Metas e Objetivos**  | Adição de uma nova imagem ao perfil de [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta e estar logado. |
+| **Ator(es)**  | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa seu perfil. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa ajustes. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa conta. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) adiciona uma nova foto de perfil. |
 
 <br>
 
@@ -211,12 +215,12 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |-----------|---------------|
 | **Id**  | CC10 |
 | **Título**  | Compartilhar contatos |
-| **Metas e Objetivos**  | Usuário compartilha contatos salvos no smartphone com o aplicativo para encontrar os contatos no Wire |
-| **Contexto**  | Aplicativo logado |
-| **Ator(es)**  | Usuários |
-| **Recursos**  | Smartphone, internet e energia |
-| **Exceção**  | Sem sinal, smartphone sem bateria |
-| **Episódios**  | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário habilita compartilhar contatos |
+| **Metas e Objetivos**  | Compartilhar os contatos salvos no smartphone com o aplicativo para o [Usuário](/docs/modeling/lexicos/objects?id=usuário) encontre os seus contatos no *Wire* |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta e estar logado. |
+| **Ator(es)**  | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa seu perfil. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa ajustes. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa opções. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) habilita a opção de compartilhar contatos. |
 
 <br>
 
@@ -224,13 +228,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC11 |
-| **Título**  | Ativar vibração de notificação |
-| **Metas e Objetivos**  | Usuário habilita modo vibração para notificações |
-| **Contexto**  | Aplicativo logado |
-| **Ator(es)**  | Usuários |
-| **Recursos**  | Smartphone, internet e energia |
-| **Exceção**  | Sem sinal, smartphone sem bateria |
-| **Episódios**  | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções<br> - Usuário habilita modo vibração |
+| **Título**  | Ativar modo vibração de notificação |
+| **Metas e Objetivos**  | Habilitar o modo vibração para as notificações recebidas de um determinado [Usuário](/docs/modeling/lexicos/objects?id=usuário) ou grupo. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta e estar logado. |
+| **Ator(es)**  | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa seu perfil. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa ajustes. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa opções. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) habilita a opção de modo vibração do aplicativo. |
 
 <br>
 
@@ -238,13 +242,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC12 |
-| **Título** | Habilitar sinal sonoro de notificação |
-| **Metas/Objetivos** | Usuário habilita sinal sonoro para todas as notificações. |
-| **Contexto** | Aplicativo logado |
-| **Ator(es)** | Usuários |
-| **Recursos** | Smartphone, internet e energia |
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódos** | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário habilita sinal sonoro|
+| **Título** | Habilitar toque sonoro de notificação |
+| **Metas/Objetivos** | Habilitar toque sonoro para todas as notificações recebidas. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta e estar logado. |
+| **Ator(es)**  | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa seu perfil. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa ajustes. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa opções. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) habilita a opção de toque sonoro para as notificações. |
 
 <br>
 
@@ -252,13 +256,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC13 |
-| **Título** |  Escolher sinal sonoro de chamada |
-| **Metas/Objetivos** | Usuário escolhe sinal sonoro para as chamadas recebidas |
-| **Contexto** | Aplicativo logado |
-| **Ator(es)** | Usuários |
-| **Recursos** | Smartphone, internet e energia |
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódos** | - Usuário acessa no seu perfil <br>  - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário escolhe sinal sonoro de chamada|
+| **Título** |  Escolher toque sonoro de chamada |
+| **Metas/Objetivos** | Escolher toque sonoro específico para as chamadas recebidas. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta e estar logado. |
+| **Ator(es)**  | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa seu perfil. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa ajustes. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa opções. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) escolhe o toque sonoro de chamadas desejado. |
 
 <br>
 
@@ -266,13 +270,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC14 |
-| **Título** | Escolher sinal sonoro de mensagem |
-| **Metas/Objetivos** | Usuário escolhe sinal sonoro para as mensagens recebidas |
-| **Contexto** | Aplicativo logado |
-| **Ator(es)** | Usuários |
-| **Recursos** | Smartphone, internet e energia |
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódos** | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário escolhe sinal sonoro de mensagens recebidas |
+| **Título** | Escolher toque sonoro de mensagem |
+| **Metas/Objetivos** | Escolher toque sonoro específico para as mensagens recebidas. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta e estar logado. |
+| **Ator(es)**  | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa seu perfil. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa ajustes. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa opções. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) escolhe o toque sonoro de mensagens desejado. |
 
 <br>
 	       
@@ -280,13 +284,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC15 |
-| **Título:** | Escolher tema “dark”  |
-| **Metas/Objetivos** | Usuário seleciona tema “dark” |
-| **Contexto** | Aplicativo logado |
-| **Ator(es)** | Usuários |
-| **Recursos** | Smartphone, internet e energia |
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódos** | - Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário seleciona tema “dark”|
+| **Título:** | Escolher tema *dark*  |
+| **Metas/Objetivos** | Habilitar modo *dark* no aplicativo. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta e estar logado. |
+| **Ator(es)**  | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa seu perfil. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa ajustes. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa opções. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) habilita o modo *dark*. |
 
 <br>
 
@@ -294,13 +298,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC16 |
-| **Título** | Esconder conteúdo da tela |
-| **Metas/Objetivos** | Usuário habilita esconder conteúdo da tela de tarefas |
-| **Contexto**| Aplicativo logado |
-| **Ator(es)** | Usuários |
-| **Recursos** | Smartphone, internet e energia|
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódos**| Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário habilita esconder conteúdo da tela de tarefas |
+| **Título** | Esconder o conteúdo da tela do aplicativo |
+| **Metas/Objetivos** | Habilitar esconder conteúdo da tela de tarefas. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta e estar logado. |
+| **Ator(es)**  | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa seu perfil. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa ajustes. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa opções. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) habilita esconder o conteúdo da tela de tarefas. |
 
 <br>
 
@@ -308,13 +312,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC17 |
-| **Título** | Pré visualizar mensagens |
-| **Metas/Objetivos** | Usuário habilita pré visualizar mensagens na tela de notificações |
-| **Contexto**| Aplicativo logado |
-| **Ator(es)** | Usuários |
-| **Recursos** | Smartphone, internet e energia|
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódos**| Usuário acessa no seu perfil<br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário habilita pré visualizar mensagens |
+| **Título** | Pré-visualizar Mensagens |
+| **Metas/Objetivos** | Habilitar pré-visualizar mensagens na tela de notificações. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta e estar logado. |
+| **Ator(es)**  | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa seu perfil. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa ajustes. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa opções. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) habilita pré-visualizar mensagens. |
 
 <br>
 
@@ -322,13 +326,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC18 |
-| **Título** | Download automático de imagens |
-| **Metas/Objetivos** | Usuário habilita sempre executar download  de imagens |
-| **Contexto**| Aplicativo logado |
-| **Ator(es)** | Usuários |
-| **Recursos** | Smartphone, internet e energia|
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódos**| Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário habilita sempre executar download de imagens |
+| **Título** | *Download* automático de imagens |
+| **Metas/Objetivos** | Habilitar opção de *download* automático de imagens. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta e estar logado. |
+| **Ator(es)**  | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa seu perfil. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa ajustes. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa opções. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) habilita a opção de *download* de imagens. |
 
 <br>
 
@@ -336,13 +340,13 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC19 |
-| **Título** | Habilitar botão de envio |
-| **Metas/Objetivos** | Usuário habilita botão de envio para aparecer direto no teclado |
-| **Contexto** | Aplicativo logado |
-| **Ator(es)** | Usuários |
-| **Recursos** | Smartphone, internet e energia |
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódos** | Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário habilita botão de envio |
+| **Título** | Habilitar botão de envio no teclado |
+| **Metas/Objetivos** | Habilitar botão de envio no teclado para enviar a mensagem de forma mais rápida. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta e estar logado. |
+| **Ator(es)**  | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa seu perfil. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa ajustes. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa opções. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) habilita o botão de envio do teclado. |
 
 <br>
    
@@ -350,31 +354,31 @@ Cenários referentes à funcionalidades que provêm de configurações do servi�
 |           |               |
 |-----------|---------------|
 | **Id**  | CC20 |
-| **Título** | Bloquear com senha |
-| **Metas/Objetivos** | Usuário habilita bloqueio com senha após 10 segundo de inatividade no aplicativo |
-| **Contexto** | Aplicativo logado |
-| **Ator(es)** | Usuários |
-| **Recursos** | Smartphone, internet e energia |
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódos** | Usuário acessa no seu perfil <br> - Usuário acessa em configurações <br> - Usuário acessa opções <br> - Usuário habilita bloqueio de inatividade|
+| **Título** | Bloquear a tela por inatividade |
+| **Metas/Objetivos** | Habilitar o bloqueio com senha após X segundos de inatividade no aplicativo. |
+| **Contexto**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta e estar logado. |
+| **Ator(es)**  | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa seu perfil. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa ajustes. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa opções. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) habilita a opção de bloqueio por inatividade. |
 
 <br>
 <br>
 
 ## **Chat**
-Cenárioas da tela de chat da aplicação, descreve utilizações para funcionalidades acionadas na tela de chat.
+Cenários da tela do chat do aplicativo *Wire*. Descreve de forma suscinta e clara as funcionalidades existentes na tela do chat de conversa.
 
 ### Cenário de Chat 1
 |           |               |
 |-----------|---------------|
 | **Id**  | CM01 |
-| **Título**  | Enviar mensagem de texto. |
-| **Metas e Objetivos**  |Mandar e receber mensagens de texto. |
-| **Contexto:**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet, configurações de privacidade de microfone ativadas para o Wire. |
-| **Ator(es)**  |  Dois amigos. |
-| **Recursos**  | Smartphone, internet e energia. |
-| **Exceção**  |  Sem sinal, smartphone sem bateria |
-| **Episódios:**  | Amigo 1 envia mensagem de texto para amigo 2. <br>  Amigo 2 responde com  texto para amigo  |
+| **Título**  | Enviar ou receber mensagens de texto |
+| **Metas e Objetivos** | Enviar ou receber mensagens de um determinado [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Contexto:**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)**  |  Dois [Usuário](/docs/modeling/lexicos/objects?id=usuário) ou dois amigos. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios:**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) 1 abre conversa de um [Usuário](/docs/modeling/lexicos/objects?id=usuário) 2. <br>  - [Usuário](/docs/modeling/lexicos/objects?id=usuário) 1 envia mensagem de texto para [Usuário](/docs/modeling/lexicos/objects?id=usuário) 2. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) 2 recebe mensagem de texto do [Usuário](/docs/modeling/lexicos/objects?id=usuário) 1. |
 
 <br>
 
@@ -382,13 +386,13 @@ Cenárioas da tela de chat da aplicação, descreve utilizações para funcional
 |           |               |
 |-----------|---------------|
 | **Id**  | CM02 |
-| **Título**  | Enviar mensagem de áudio. |
-| **Metas e Objetivos**  |Mandar e receber mensagens de voz. |
-| **Contexto**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet, configurações de privacidade de microfone ativadas para o Wire. |
-| **Ator(es)**  |  Duas pessoas. |
-| **Recursos**  | SO, internet. |
-| **Exceção**  |  Sem internet, smartphone sem bateria |
-| **Episódios:**  | Amigo 1 envia mensagem de áudio para amigo 2. <br> Amigo 2 responde com áudio para amigo 1. |
+| **Título**  | Enviar ou receber mensagens de áudio |
+| **Metas e Objetivos** | Enviar ou receber mensagens de áudio/voz de um determinado [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Contexto:**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. Além disso, é necessário ativar a opção de habilitar envio de áudio. |
+| **Ator(es)**  |  Dois [Usuário](/docs/modeling/lexicos/objects?id=usuário) ou dois amigos. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios:**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) 1 abre conversa de um [Usuário](/docs/modeling/lexicos/objects?id=usuário) 2. <br>  - [Usuário](/docs/modeling/lexicos/objects?id=usuário) 1 envia mensagem de áudio/voz para [Usuário](/docs/modeling/lexicos/objects?id=usuário) 2. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) 2 recebe mensagem de áudio/voz do [Usuário](/docs/modeling/lexicos/objects?id=usuário) 1. |
 
 <br>
 
@@ -396,13 +400,13 @@ Cenárioas da tela de chat da aplicação, descreve utilizações para funcional
 |           |               |
 |-----------|---------------|
 | **Id**  | CM03 |
-| **Título**  | Enviar foto e vídeo. |
-| **Metas e Objetivos**  |projeto da empresa para a equipe. |
-| **Contexto**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet, permissões de acesso aos dados do dispositivo habilitadas. |
-| **Ator(es)**  |  Pessoas do time. |
-| **Recursos**  | SO, internet e energia. |
-| **Exceção**  |  Sem sinal, smartphone sem bateria |
-| **Episódios:**  | Gerente envia arquivos de imagem e vídeo acerca do novo projeto para a  equipe.|
+| **Título**  | Enviar ou receber fotos e vídeos |
+| **Metas e Objetivos** | Enviar ou receber fotos e/ou vídeos de um determinado [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Contexto:**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)**  |  Dois [Usuário](/docs/modeling/lexicos/objects?id=usuário), dois amigos ou [Usuário](/docs/modeling/lexicos/objects?id=usuário) em uma equipe. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios:**  | - O dono da equipe abre o grupo. <br> - O dono da equipe envia foto e/ou vídeo de um determinado projeto para a equipe. |
 
 <br>
 
@@ -410,13 +414,13 @@ Cenárioas da tela de chat da aplicação, descreve utilizações para funcional
 |           |               |
 |-----------|---------------|
 | **Id**  | CM04 |
-| **Título**  | Criar um grupo. |
-| **Metas e Objetivos**  |onde apenas participarão analistas e desenvolvedores. |
-| **Contexto**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)** | Usuários. |
-| **Ator(es)**  | SO e internet. |
-| **Recursos**  | Sem sinal, smartphone sem bateria. |
-| **Episódios:**  |Equipe define um grupo para analistas e desenvolvedores terem uma comunicação mais efetiva|
+| **Título**  | Criar um grupo |
+| **Metas e Objetivos**  | Criar um grupo para adicionar várias pessoas para ter uma comunicação mais efetiva entre todos os membros do grupo. |
+| **Contexto:**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)** | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios:**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) procura opção de Criar grupo. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) adiciona os [Usuário](/docs/modeling/lexicos/objects?id=usuário) que vão pertencer à esse grupo. | 
 
 <br>
 
@@ -424,13 +428,13 @@ Cenárioas da tela de chat da aplicação, descreve utilizações para funcional
 |           |               |
 |-----------|---------------|
 | **Id**  | CM05 |
-| **Título**  | Mensagem com tempo de visualização. |
-| **Metas e Objetivos**  |que desapareça depois de um tempo. |
-| **Contexto**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)**  |  Pessoas na conversa. |
-| **Recursos**  | SO e internet. |
-| **Exceção**  |  Sem sinal, smartphone sem bateria. |
-| **Episódios:**  | Envio de credenciais para acesso rápido ao email geral da empresa.|
+| **Título**  | Enviar mensagem com tempo de visualização |
+| **Metas e Objetivos**  | Enviar uma mensagem que desapareça depois de um determinado tempo. |
+| **Contexto:**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)**  |  Dois [Usuário](/docs/modeling/lexicos/objects?id=usuário) ou dois amigos. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios:**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) 1 acessa a conversa com um determinado [Usuário](/docs/modeling/lexicos/objects?id=usuário) 2. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) seleciona a opção de enviar mensagem com tempo de visualização. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) determina o tempo de visualização da mensagem. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) envia mensagem. |
 
 <br>
 
@@ -438,13 +442,13 @@ Cenárioas da tela de chat da aplicação, descreve utilizações para funcional
 |           |               |
 |-----------|---------------|
 | **Id**  | CM06 |
-| **Título**  | Chamar a atenção de uma pessoa. |
-| **Metas e Objetivos**  |alerta que vai chamar a atenção. |
-| **Contexto**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)**  |  Pessoas na conversa. |
-| **Recursos**  | SO e internet. |
-| **Exceção**  |  Sem sinal, smartphone sem bateria. |
-| **Episódios:**  | Envia um alerta que vibra e chama a atenção.|
+| **Título**  | Chamar a atenção de um determinado [Usuário](/docs/modeling/lexicos/objects?id=usuário) |
+| **Metas e Objetivos**  | Chamar a atenção de um determinado [Usuário](/docs/modeling/lexicos/objects?id=usuário) com um toque sonoro. |
+| **Contexto:**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)**  |  Dois [Usuário](/docs/modeling/lexicos/objects?id=usuário) ou dois amigos. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios:**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) 1 acessa conversa com um determinado [Usuário](/docs/modeling/lexicos/objects?id=usuário) 2. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) 1 aperta na opção de chamar a atenção. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) 2 recebe um toque sonoro. |
 
 <br>
 
@@ -452,13 +456,13 @@ Cenárioas da tela de chat da aplicação, descreve utilizações para funcional
 |           |               |
 |-----------|---------------|
 | **Id**  | CM07 |
-| **Título**  | Enviar uma mensagem utilizando a formatação markdown. |
-| **Metas e Objetivos**  |utilizando a formatação do tipo markdown. |
-| **Contexto**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)**  |  Pessoas na conversa. |
-| **Recursos**  | SO, internet e energia. |
-| **Exceção**  |  Sem sinal, smartphone sem bateria |
-| **Episódios:**  | Especifica um texto importante na mensagem utilizando negrito.|
+| **Título**  | Enviar uma mensagem utilizando a formatação de texto *markdown* |
+| **Metas e Objetivos**  | Enviar uma mensagem para um determinado [Usuário](/docs/modeling/lexicos/objects?id=usuário) utilizando a formatação *markdown* |
+| **Contexto:**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)**  |  Dois [Usuário](/docs/modeling/lexicos/objects?id=usuário) ou dois amigos. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios:**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) abre conversa com um [Usuário](/docs/modeling/lexicos/objects?id=usuário) 2. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) 1 envia mensagem no formato *markdown* para um [Usuário](/docs/modeling/lexicos/objects?id=usuário) 2. |
 
 <br>
 
@@ -466,13 +470,13 @@ Cenárioas da tela de chat da aplicação, descreve utilizações para funcional
 |           |               |
 |-----------|---------------|
 | **Id**  | CM08 |
-| **Título**  | Videoconferência em grupo. |
-| **Metas e Objetivos**  |uma videoconferência com toda a equipe. |
-| **Contexto**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)**  |  Pessoas no grupo. |
-| **Recursos**  | SO e internet. |
-| **Exceção**  |  Sem sinal, smartphone sem bateria |
-| **Episódios:**  | Chefe deseja informar os dados de crescimento da empresa para toda a equipe.|
+| **Título**  | Video-conferência em grupo. |
+| **Metas e Objetivos**  | Realizar uma vídeo-conferência com a equipe. |
+| **Contexto:** | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)**  | Equipe, dois [Usuário](/docs/modeling/lexicos/objects?id=usuário) ou dois amigos. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios:**  | - Dono da equipe abre a conversa. <br> - Dono da equipe realiza uma vídeo-conferência com todos os integrantes. |
 
 <br>
 
@@ -480,13 +484,13 @@ Cenárioas da tela de chat da aplicação, descreve utilizações para funcional
 |           |               |
 |-----------|---------------|
 | **Id**  | CM09 |
-| **Título**  | Enviar um gif na mensagem. |
-| **Metas e Objetivos**  |um sentimento de maneira mais intensa. |
-| **Contexto**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)**  |  Pessoas na conversa. |
-| **Recursos**  | SO e internet. |
-| **Exceção**  |  Sem sinal, smartphone sem bateria |
-| **Episódios:**  | Amigo expressa alegria ao contar que foi promovido no trabalho, para expressar melhor o sentimento, ele utiliza um gif animado.|
+| **Título**  | Enviar ou receber um *GIF* na mensagem |
+| **Metas e Objetivos**  | Enviar um *GIF* na mensagem para demonstrar alguma emoção. |
+| **Contexto:**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)**  | Dois [Usuário](/docs/modeling/lexicos/objects?id=usuário) ou dois amigos. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios:**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) 1 abre conversa com um [Usuário](/docs/modeling/lexicos/objects?id=usuário) 2. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) 1 envia um *GIF* animado para o [Usuário](/docs/modeling/lexicos/objects?id=usuário) 2. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) 2 recebe *GIF* animado do [Usuário](/docs/modeling/lexicos/objects?id=usuário) 1. |
 
 <br>
 
@@ -494,13 +498,13 @@ Cenárioas da tela de chat da aplicação, descreve utilizações para funcional
 |           |               |
 |-----------|---------------|
 | **Id**  | CM10 |
-| **Título**  | Arquivar conversa. |
-| **Metas e Objetivos**  |uma conversa para visualizá-la depois. |
-| **Contexto**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |  
-| **Ator(es)**  | Pessoas na conversa. |
-| **Recursos**  | SO, internet e energia. |
-| **Exceção**  |  Sem sinal, smartphone sem bateria |
-| **Episódios:**  | Por conta de |
+| **Título**  | Arquivar conversa |
+| **Metas e Objetivos**  | Arquivar uma conversa. |
+| **Contexto:**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)**  | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios:**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) abre conversa. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) arquiva conversa. |
 
 <br>
 
@@ -508,13 +512,13 @@ Cenárioas da tela de chat da aplicação, descreve utilizações para funcional
 |           |               |
 |-----------|---------------|
 | **Id**  | CM11 |
-| **Título**  | Múltiplas contas. |
-| **Metas e Objetivos**  |mais de uma conta simultaneamente . |
-| **Contexto**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)**  |  Pessoas na conversa. |
-| **Recursos**  | SO, internet e energia. |
-| **Exceção**  |  Sem sinal, smartphone sem bateria. |
-| **Episódios:**  | Usuário utiliza Wire tanto pessoalmente quanto para o trabalho, para isso, ele utiliza duas contas,uma delas é associada a um time, que se trata da organização onde ele trabalha, a outra, é a pessoal, que não está cadastrada em nenhum time. |
+| **Título**  | Possuir múltiplas contas. |
+| **Metas e Objetivos**  | Possuir mais de uma conta simultaneamente. |
+| **Contexto:**  | - Local: Tela de ajustes. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)**  | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios:** | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa seu perfil. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa ajustes. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa conta. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa uma nova conta. |
 
 <br>
 
@@ -522,13 +526,13 @@ Cenárioas da tela de chat da aplicação, descreve utilizações para funcional
 |           |               |
 |-----------|---------------|
 | **Id**  | CM12 |
-| **Título**  | Criar um chat para convidados. |
-| **Metas e Objetivos**  |chat para convidados fora do time. |
-| **Contexto**  | - Local: Tela de conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)**  |  Usuário do Wire. |
-| **Recursos**  | SO, internet e energia. |
-| **Exceção**  |  Sem sinal, smartphone sem bateria |
-| **Episódios:**  |   |
+| **Título**  | Criar uma conversa para convidados que não estão no time |
+| **Metas e Objetivos**  | Criar um chat para convidados que não fazem parte do time. |
+| **Contexto:**  | - Local: Tela de inicial. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)**  | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios:**  | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa a opção de criar conversa. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) cria um "grupo" com todos os convidados. |
 
 <br>
 
@@ -536,33 +540,31 @@ Cenárioas da tela de chat da aplicação, descreve utilizações para funcional
 |           |               |
 |-----------|---------------|
 | **Id**  | CM13 |
-| **Título**  | Reunião de planejamento. |
-| **Metas e Objetivos**  |e organizar os documentos do trimestre. |
-| **Contexto**  | Funcionário |
-| **Ator(es)** Funcionário e gerente |
-| **Recursos** | Smartphones, notebooks, internet e energia |
-| **Ator(es)**  | Queda de energia e/ou falha no sinal de internet |
-| **Recursos**  | - Gerente manda mensagem no grupo do setor <br> - Funcionários se manifestam via mensagem de texto |
-| **Exceção**  |  para que todos enviem seus relatórios. |
-| **Episódios:**  | seus respectivos documentos (por exemplo: .pdf) |
+| **Título**  | Reunião de planejamento |
+| **Metas e Objetivos**  | Reunião para planejar os objetivos e metas de um projeto. |
+| **Contexto:**  | - Local: Tela de inicial. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)** | [Usuário](/docs/modeling/lexicos/objects?id=usuário) de uma equipe. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios:**  | - Dono da reunião manda mensagem de texto para os funcionários. <br> - Os funcionários respondem se estão de acordo com o planejamento ou não. |
 
 <br>
 
 
 ## **Equipes**
-Na utilização da aplicação Wire é possível criar equipes. Esta é uma funcionalidade que ajuda na utilização da ferramenta por grupos em empresas ou mesmo uma empresa como um todo.
+Na utilização do aplicativo *Wire* é possível criar equipes. Esta é uma funcionalidade que ajuda na utilização da ferramenta por grupos em empresas ou mesmo uma empresa como um todo.
 
 ### Cenário de Equipe 01
 |           |               |
 |-----------|---------------|
 | **Id**  | CE01 |
-| **Título** |  Criar uma Equipe |
-| **Metas/Objetivos** | Criar  e adicionar membros e uma equipe. |
-| **Contexto:** | - Local: Tela de cadastro ou configurações. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)** | Usuários do Wire. |
-| **Recursos** | SO, internet e energia. |
-| **Exeção** |Sem sinal, smartphone sem bateria |
-| **Episódios:** | - Usuário cria um Equipe. <br> - Usuário adiciona membros à equipe.
+| **Título** | Criar uma Equipe |
+| **Metas/Objetivos** | Criar, adicionar ou remover membros de uma equipe. |
+| **Contexto:**  | - Local: Tela configurações da conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)** | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios:** | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) cria uma equipe. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) adiciona membros à equipe. |
 
 <br>
 
@@ -570,13 +572,13 @@ Na utilização da aplicação Wire é possível criar equipes. Esta é uma func
 |           |               |
 |-----------|---------------|
 | **Id**  | CE02 |
-| **Título** |  Renomear equipe |
-| **Metas/Objetivos** | Renomear a equipe. |
-| **Contexto:** | - Local: Tela de configurações. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)** | Dono da equipe. |
-| **Recursos** | SO, internet e energia. |
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódios:** | - Usuário com permissão necesária abre configurações da equipe. <br> - Usuário renomeia a equipe.
+| **Título** | Renomear equipe |
+| **Metas/Objetivos** | Renomear equipe devido a um erro de escrita. |
+| **Contexto:**  | - Local: Tela de configurações da conversa. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)** | Administrador da equipe. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios:** | - Administrador abre as configurações do chat da equipe. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) renomeia a equipe. |
 
 <br>
 
@@ -584,13 +586,13 @@ Na utilização da aplicação Wire é possível criar equipes. Esta é uma func
 |           |               |
 |-----------|---------------|
 | **Id**  | CE03 |
-| **Título** |  Gerenciar equipe |
-| **Metas/Objetivos** | Tela para gerenciar toda a equipe e seus membros. |
-| **Contexto:** | - Local: Tela de configurações -> Gerenciar Equipe ou teams.wire.com. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)** | Dono da equipe. |
-| **Recursos** | SO, internet e energia. |
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódios:** | - Administrador da equipe deseja ter uma visão geral do time, seus membros e suas respectivas posições dentro do time. 
+| **Título** | Gerenciar equipe |
+| **Metas/Objetivos** | Gerenciar de forma eficiente a equipe. |
+| **Contexto:** | - Local: Tela de configurações da equipe. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)** | Administrador da equipe. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios:** | - O administrador da equipe deseja ter uma visão geral do time, uma visão geral dos seus membros e suas respectivas posições dentro do time. |
 
 <br>
 
@@ -598,13 +600,13 @@ Na utilização da aplicação Wire é possível criar equipes. Esta é uma func
 |           |               |
 |-----------|---------------|
 | **Id**  | CE04 |
-| **Título** |  Adicionar ou remover logo da Equipe.|
-| **Metas/Objetivos** | Adicionar, remover ou editar a imagem de logo da equipe. |
-| **Contexto:** | - Local: Tela de configurações -> Gerenciar Equipe ou teams.wire.com. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)** | Dono da equipe. |
-| **Recursos** | SO, internet e energia. |
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódios:** | - A empresa atualizou sua identidade visual e precisa alterar a logo do time no Wire. 
+| **Título** | Adicionar ou remover ícone/logo da equipe |
+| **Metas/Objetivos** | Adicionar, remover ou editar o ícone/logo da equipe. |
+| **Contexto:** | - Local: Tela de configurações da equipe. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)** | Administrador da equipe. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios:** | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa configurações da equipe. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) adiciona, remove ou edita o ícone/logo da equipe. |
 
 <br>
 
@@ -612,13 +614,13 @@ Na utilização da aplicação Wire é possível criar equipes. Esta é uma func
 |           |               |
 |-----------|---------------|
 | **Id**  | CE05 |
-| **Título** |  Remover um usuário da equipe.|
-| **Metas/Objetivos** | Remover um usuário ativo da equipe. |
-| **Contexto:** | - Local: Tela de configurações -> Gerenciar Equipe ou teams.wire.com. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)** | Dono da equipe. |
-| **Recursos** | SO, internet e energia. |
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódios:** | - Usuário com permissão remove outro usuário participante da Equipe. |
+| **Título** |  Adicionar ou remover um [Usuário](/docs/modeling/lexicos/objects?id=usuário) da equipe |
+| **Metas/Objetivos** | Adicionar ou remover um [Usuário](/docs/modeling/lexicos/objects?id=usuário) da equipe. |
+| **Contexto:** | - Local: Tela de configurações da equipe. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)** | Administrador da equipe. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios:** | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa tela de configurações da equipe. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) adiciona ou remove [Usuário](/docs/modeling/lexicos/objects?id=usuário) da equipe. |
 
 <br>
 
@@ -626,19 +628,19 @@ Na utilização da aplicação Wire é possível criar equipes. Esta é uma func
 |           |               |
 |-----------|---------------|
 | **Id**  | CE06 |
-| **Título** |  Excluir a equipe.|
-| **Metas/Objetivos** | Excluir a equipe da aplicação Wire. |
-| **Contexto:** | - Local: Tela de configurações -> Gerenciar Equipe ou teams.wire.com. <br> - Tempo: Em qualquer momento. <br> - Pré-condição:  SO com internet. |
-| **Ator(es)** | Dono da equipe. |
-| **Recursos** | SO, internet e energia. |
-| **Exeção** | Sem sinal, smartphone sem bateria |
-| **Episódios:** | - Usuário dono da equipe apaga a equipe. |
+| **Título** | Excluir a equipe |
+| **Metas/Objetivos** | Excluir a equipe. |
+| **Contexto:** | - Local: Tela de configurações da equipe. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)** | Administrador da equipe. |
+| **Recursos**  | Smartphone e acesso à internet. |
+| **Exceção**  | O [Usuário](/docs/modeling/lexicos/objects?id=usuário) não possuir internet ou estar sem bateria. |
+| **Episódios:** | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa configurações da equipe. <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) exclui a equipe. |
 
 <br>
 <br>
 
 ## **Serviços**
-Na utilização da aplicação Wire é possível utilizar serviços externos, tanto serviços já existentes e disponibilizados pela comunidade quanto algum serviço que o próprio utilizador tenha implementado para uso privado. Esta é uma funcionalidade que ajuda na utilização da ferramenta por grupos, empresas ou mesmo um usuário convencional.
+Na utilização da aplicação *Wire* é possível utilizar serviços externos, tanto serviços já existentes e disponibilizados pela comunidade quanto algum serviço que o próprio utilizador tenha implementado para uso privado. Esta é uma funcionalidade que ajuda na utilização da ferramenta por grupos, empresas ou mesmo um [Usuário](/docs/modeling/lexicos/objects?id=usuário) convencional.
 
 
 ### Cenário de Serviços 01
@@ -646,12 +648,12 @@ Na utilização da aplicação Wire é possível utilizar serviços externos, ta
 |-----------|---------------|
 | **Id**  | CS01 |
 | **Título** | Acoplar serviço externo. |
-| **Metas/Objetivos** | Trazer para o ambiente/conversas serviços externos ao Wire, pode ser utilizado um serviço existente ou também pode ser implementado um |novo serviço.
-| **Contexto** | Perfil -> Serviços. |
-| **Ator(es)** | Usuários. |
+| **Metas/Objetivos** | Trazer para o ambiente/conversas serviços externos ao *Wire*, pode ser utilizado um serviço existente ou também pode ser implementado um |novo serviço.
+| **Contexto:** | - Local: Tela de configurações dos serviços. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)** | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
 | **Recursos** | SO compatível, internet e energia. |
 | **Exeção** | Sem sinal, sem internet, serviço fora do ar.|
-| **Episódos:** | 
+| **Episódos:** | - [Usuário](/docs/modeling/lexicos/objects?id=usuário) acopla um novo serviço |
 
 <br>
 
@@ -660,12 +662,12 @@ Na utilização da aplicação Wire é possível utilizar serviços externos, ta
 |-----------|---------------|
 | **Id**  | CS02 |
 | **Título** | Habilitar serviço. |
-| **Metas/Objetivos** | Permitir ao usuário habilitar ou desabilitar um serviço acoplado.|
-| **Contexto** | Perfil -> Serviços ou teams.wire.com|
-| **Ator(es)**|  Usuários. |
+| **Metas/Objetivos** | Permitir ao [Usuário](/docs/modeling/lexicos/objects?id=usuário) habilitar ou desabilitar um serviço acoplado.|
+| **Contexto:** | - Local: Tela de configurações dos serviços ou teams.*Wire*.com <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)**|  [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
 | **Recursos:** |O compatível, internet e energia. |
 | **Exeção** | Sem sinal, sem internet, serviço fora do ar. |
-| **Episódos** |	- Usuário acopla um novo serviço <br> - Usuário ativa o serviço <br> - Usuário desativa o serviço
+| **Episódos** |	- [Usuário](/docs/modeling/lexicos/objects?id=usuário) acopla um novo serviço <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) ativa o serviço <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) desativa o serviço
 
 <br>
 	
@@ -676,12 +678,12 @@ Na utilização da aplicação Wire é possível utilizar serviços externos, ta
 |-----------|---------------|
 | **Id**  | CS03 |
 | **Título** | Habilitar serviço. |
-| **Metas/Objetivos** | Permitir ao usuário habilitar ou desabilitar um serviço acoplado.|
-| **Contexto** | Perfil -> Serviços ou teams.wire.com|
-| **Ator(es)** | Usuários. |
+| **Metas/Objetivos** | Permitir ao [Usuário](/docs/modeling/lexicos/objects?id=usuário) habilitar ou desabilitar um serviço acoplado.|
+| **Contexto:** | - Local: Tela de configurações dos serviços ou teams.*Wire*.com <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)** | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
 | **Recursos** |O compatível, internet e energia. |
 | **Exeção** | Sem sinal, sem internet, serviço fora do ar. |
-| **Episódos** |	- Usuário acopla um novo serviço <br> - Usuário ativa o serviço <br> - Usuário desativa o serviço |
+| **Episódos** |	- [Usuário](/docs/modeling/lexicos/objects?id=usuário) acopla um novo serviço <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) ativa o serviço <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) desativa o serviço |
 
 <br>
 
@@ -691,12 +693,12 @@ Na utilização da aplicação Wire é possível utilizar serviços externos, ta
 |-----------|---------------|
 | **Id**  | CS04|
 | **Título** | Habilitar serviço para um grupo. |
-| **Metas/Objetivos** | Permitir ao usuário acoplar um serviço a uma conversa em grupo.|
-| **Contexto** | Perfil -> Serviços ou teams.wire.com| 
-| **Ator(es)** | Usuários. |
+| **Metas/Objetivos** | Permitir ao [Usuário](/docs/modeling/lexicos/objects?id=usuário) acoplar um serviço a uma conversa em grupo.|
+| **Contexto:** | - Local: Tela de configurações dos serviços ou teams.*Wire*.com <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
+| **Ator(es)** | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
 | **Recursos** |O compatível, internet e energia. |
 | **Exeção** | Sem sinal, sem internet, serviço fora do ar. |
-| **Episódos** |	- Usuário acopla um novo serviço<br> - Usuário ativa o serviço<br> - Usuário adiciona serviço ao grupo.|
+| **Episódos** |	- [Usuário](/docs/modeling/lexicos/objects?id=usuário) acopla um novo serviço<br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) ativa o serviço<br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) adiciona serviço ao grupo.|
 
 <br>
 
@@ -708,12 +710,12 @@ Na utilização da aplicação Wire é possível utilizar serviços externos, ta
 |-----------|---------------|
 | **Id**  | CS05 |
 | **Título** | Obter serviços. |
-| **Metas/Objetivos** | Disponibilizar ao usuário uma lista de serviços disponibilizados pela comunidade que ele possa usar.|
-| **Contexto** | Perfil -> Serviços ou teams.wire.com|  
-| **Ator(es)** | Usuários. |
+| **Metas/Objetivos** | Disponibilizar ao [Usuário](/docs/modeling/lexicos/objects?id=usuário) uma lista de serviços disponibilizados pela comunidade que ele possa usar.|
+| **Contexto:** | - Local: Tela de configurações dos serviços ou teams.*Wire*.com <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. | 
+| **Ator(es)** | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
 | **Recursos:** |O compatível, internet e energia. |
 | **Exeção** | Sem sinal, sem internet, serviço fora do ar. |
-| **Episódos** |	- Usuário acessa a tela de serviços <br> - Usuário entra em gerenciar serviços.|
+| **Episódos** |	- [Usuário](/docs/modeling/lexicos/objects?id=usuário) acessa a tela de serviços <br> - [Usuário](/docs/modeling/lexicos/objects?id=usuário) entra em gerenciar serviços.|
 
 <br>
 
