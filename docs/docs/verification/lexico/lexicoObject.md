@@ -1,6 +1,7 @@
 | Data | Versão | Descrição | Autor |
 | --- | --- | --- | --- |
 | 04/11/2019 | 1.0 | Criação do documento de verificação dos Léxicos (objetos) | [Gabriel Alves](https://github.com/gitgabiru) |
+| 24/11/2019 | 2.0 | Atualização dos link do documento de verificação dos Léxicos (objetos) | [Gabriel Alves](https://github.com/gitgabiru) |
 
 ## Rastreabilidade
 
@@ -17,10 +18,10 @@
 |O objeto possui noção|19|0| - |100| - |
 |O objeto possui impacto|19|0| - |100| - |
 |O objeto indica ter zero ou mais sinônimos|19|0| - |100| - |
-|A noção traz significado ao objeto|15|4|Defeito de Omissão, Defeito de Informação Estranha|79|[Microfone](/docs/verification/objectFix/objects?id=microfone), [Câmera](/docs/verification/objectFix/objects?id=camera), [Arquivo](/docs/verification/objectFix/objects?id=arquivo)|
+|A noção traz significado ao objeto|15|4|Defeito de Omissão, Defeito de Informação Estranha|79|[Microfone](/docs/verification/objectFix/objects?id=microfone), [Câmera](/docs/verification/objectFix/objects?id=câmera), [Arquivo](/docs/verification/objectFix/objects?id=arquivo)|
 |O impacto descreve o efeito do objeto|19|0| - |100| - |
-|É identificado relacionamento com outros objetos|10|9|Defeito de Omissão|52|[Áudio](/docs/verification/objectFix/objects?id=A1udio), [Imagem](/docs/verification/objectFix/objects?id=imagem), [Texto](https://github.com/Requisitos-de-Software/2019.2-Wire/blob/65-VerificacaoLexicos/docs/docs/verification/lexico/objectFix.md#texto), [Vídeo](/docs/verification/objectFix/objects?id=Video), [Microfone](/docs/verification/objectFix/objects?id=microfone), [Câmera](/docs/verification/objectFix/objects?id=Camera), [Arquivo](/docs/verification/objectFix/objects?id=arquivo)|
-|Possui hyperlink|17|2|Defeito de Omissão|89|[Administrador](/docs/verification/objectFix/objects?id=arquivo), [Perfil](/docs/verification/objectFix/objects?id=perfil)|
+|É identificado relacionamento com outros objetos|10|9|Defeito de Omissão|52|[Áudio](/docs/verification/objectFix/objects?id=áudio), [Imagem](/docs/verification/objectFix/objects?id=imagem), [Texto](https://github.com/Requisitos-de-Software/2019.2-Wire/blob/65-VerificacaoLexicos/docs/docs/verification/lexico/objectFix.md#texto), [Vídeo](/docs/verification/objectFix/objects?id=vídeo), [Microfone](/docs/verification/objectFix/objects?id=microfone), [Câmera](/docs/verification/objectFix/objects?id=câmera), [Arquivo](/docs/verification/objectFix/objects?id=arquivo)|
+|Possui hyperlink|17|2|Defeito de Omissão|89|[Administrador](/docs/verification/objectFix/objects?id=administrador), [Perfil](/docs/verification/objectFix/objects?id=perfil)|
 
 ## Gráficos dos resultados
 
