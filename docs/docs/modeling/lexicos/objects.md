@@ -114,7 +114,7 @@
 |-----------|---------------|
 | **Nome**  |Usuário|
 | **Classificação** | Objeto |
-| **Sinônimos** ||
+| **Sinônimos** | Indivíduo que utiliza o aplicativo **Wire** |
 | **Noção**     |Pessoa que utiliza a aplicação e possui uma [conta de usuário](#conta-de-usuário)| 
 | **Impacto**   | Tem acesso a todas as funcionalidades do aplicativo|
 
