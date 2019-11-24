@@ -649,7 +649,7 @@ Na utilização da aplicação *Wire* é possível utilizar serviços externos, 
 | **Id**  | CS01 |
 | **Título** | Acoplar serviço externo. |
 | **Metas/Objetivos** | Trazer para o ambiente/conversas serviços externos ao *Wire*, pode ser utilizado um serviço existente ou também pode ser implementado um |novo serviço.
-| **Contexto** | Perfil -> Serviços. |
+| **Contexto:** | - Local: Perfil -> Serviços. <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
 | **Ator(es)** | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
 | **Recursos** | SO compatível, internet e energia. |
 | **Exeção** | Sem sinal, sem internet, serviço fora do ar.|
@@ -663,7 +663,7 @@ Na utilização da aplicação *Wire* é possível utilizar serviços externos, 
 | **Id**  | CS02 |
 | **Título** | Habilitar serviço. |
 | **Metas/Objetivos** | Permitir ao [Usuário](/docs/modeling/lexicos/objects?id=usuário) habilitar ou desabilitar um serviço acoplado.|
-| **Contexto** | Perfil -> Serviços ou teams.*Wire*.com|
+| **Contexto:** | - Local: Perfil -> Serviços ou teams.*Wire*.com <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
 | **Ator(es)**|  [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
 | **Recursos:** |O compatível, internet e energia. |
 | **Exeção** | Sem sinal, sem internet, serviço fora do ar. |
@@ -679,7 +679,7 @@ Na utilização da aplicação *Wire* é possível utilizar serviços externos, 
 | **Id**  | CS03 |
 | **Título** | Habilitar serviço. |
 | **Metas/Objetivos** | Permitir ao [Usuário](/docs/modeling/lexicos/objects?id=usuário) habilitar ou desabilitar um serviço acoplado.|
-| **Contexto** | Perfil -> Serviços ou teams.*Wire*.com|
+| **Contexto:** | - Local: Perfil -> Serviços ou teams.*Wire*.com <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
 | **Ator(es)** | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
 | **Recursos** |O compatível, internet e energia. |
 | **Exeção** | Sem sinal, sem internet, serviço fora do ar. |
@@ -694,7 +694,7 @@ Na utilização da aplicação *Wire* é possível utilizar serviços externos, 
 | **Id**  | CS04|
 | **Título** | Habilitar serviço para um grupo. |
 | **Metas/Objetivos** | Permitir ao [Usuário](/docs/modeling/lexicos/objects?id=usuário) acoplar um serviço a uma conversa em grupo.|
-| **Contexto** | Perfil -> Serviços ou teams.*Wire*.com| 
+| **Contexto:** | - Local: Perfil -> Serviços ou teams.*Wire*.com <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. |
 | **Ator(es)** | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
 | **Recursos** |O compatível, internet e energia. |
 | **Exeção** | Sem sinal, sem internet, serviço fora do ar. |
@@ -711,7 +711,7 @@ Na utilização da aplicação *Wire* é possível utilizar serviços externos, 
 | **Id**  | CS05 |
 | **Título** | Obter serviços. |
 | **Metas/Objetivos** | Disponibilizar ao [Usuário](/docs/modeling/lexicos/objects?id=usuário) uma lista de serviços disponibilizados pela comunidade que ele possa usar.|
-| **Contexto** | Perfil -> Serviços ou teams.*Wire*.com|  
+| **Contexto:** | - Local: Perfil -> Serviços ou teams.*Wire*.com <br> - Tempo: Em qualquer momento. <br> - Pré-condição: O [Usuário](/docs/modeling/lexicos/objects?id=usuário) deve possuir uma conta, estar logado e possuir algum dispositivo que seja compatível com o aplicativo. | 
 | **Ator(es)** | [Usuário](/docs/modeling/lexicos/objects?id=usuário). |
 | **Recursos:** |O compatível, internet e energia. |
 | **Exeção** | Sem sinal, sem internet, serviço fora do ar. |
