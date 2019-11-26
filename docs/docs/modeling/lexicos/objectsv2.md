@@ -19,7 +19,7 @@
 |-----------|---------------|
 | **Nome**  |Arquivo|
 | **Classificação** | Objeto |
-| **Sinônimos** | |
+| **Sinônimos** | registro, ficha |
 | **Noção**     |Documento que pode ser do tipo [áudio](/docs/modeling/lexicos/objects?id=Áudio), [imagem](/docs/modeling/lexicos/objects?id=imagem), [vídeo](/docs/modeling/lexicos/objects?id=vídeo), [texto](/docs/modeling/lexicos/objects?id=texto) entre outros | 
 | **Impacto**   | [Enviar arquivo](/docs/modeling/lexicos/verbs?id=enviar-arquivo)<br>[Baixar arquivo](/docs/modeling/lexicos/verbs?id=baixar-arquivo)<br>[Enviar mensagem](/docs/modeling/lexicos/verbs?id=enviar-mensagem)|
 
@@ -38,7 +38,7 @@
 |-----------|---------------|
 | **Nome**  |Câmera|
 | **Classificação** | Objeto |
-| **Sinônimos** | |
+| **Sinônimos** | filmadora |
 | **Noção**     | O objeto é utilizado para [enviar foto ou vídeo](/docs/modeling/lexicos/verbs?id=enviar-foto-ou-vídeo) e realizar [chamada de vídeo](/docs/modeling/lexicos/verbs?id=chamada-de-vídeo)| 
 | **Impacto**   |[Ligar câmera](/docs/modeling/lexicos/verbs?id=ligar-câmera)<br>[Desligar câmera](/docs/modeling/lexicos/verbs?id=desligar-câmera)<br> [Fazer chamada](/docs/modeling/lexicos/verbs?id=fazer-chamada)<br>[Enviar foto ou vídeo](/docs/modeling/lexicos/verbs?id=enviar-foto-ou-vídeo)<br>[Enviar mensagem](/docs/modeling/lexicos/verbs?id=enviar-mensagem)|
 
@@ -83,7 +83,7 @@
 |-----------|---------------|
 | **Nome**  |Contato|
 | **Classificação** | Objeto |
-| **Sinônimos** | |
+| **Sinônimos** | amigo(a) |
 | **Noção**     |Quando você adiciona outro usuário na sua lista de contatos e a partir disso é capaz de conversar com ele| 
 | **Impacto**   |[Adicionar contatos](/docs/modeling/lexicos/verbs?id=adicionar-contatos)<br>[Editar dados do contato](/docs/modeling/lexicos/verbs?id=editar-dados-do-contato)|
 
@@ -92,7 +92,7 @@
 |-----------|---------------|
 | **Nome**  |Grupo|
 | **Classificação** | Objeto |
-| **Sinônimos** | |
+| **Sinônimos** | povo |
 | **Noção**     |Canal de comunicação formado por 2 ou mais [usuários](/docs/modeling/lexicos/objects?id=usuário)| 
 | **Impacto**   |Troca de conteúdo entre vários membros|
 
@@ -111,7 +111,7 @@
 |-----------|---------------|
 | **Nome**  |Lista de contatos|
 | **Classificação** | Objeto |
-| **Sinônimos** | |
+| **Sinônimos** | agenda |
 | **Noção**     |Lista onde ficam armazenados todos os seus [contatos](/docs/modeling/lexicos/objects?id=contato)| 
 | **Impacto**   |[Adicionar contatos](/docs/modeling/lexicos/verbs?id=adicionar-contatos)<br>[Editar dados do contato](/docs/modeling/lexicos/verbs?id=editar-dados-do-contato)|
 
@@ -127,7 +127,7 @@
 |-----------|---------------|
 | **Nome**  |   Mensagem    |
 | **Classificação** | Objeto |
-| **Sinônimos** | |
+| **Sinônimos** | comunicado |
 | **Noção**     | Forma de comunicação, podendo ser por via de [áudio](#áudio), [imagem](#imagem), [texto](#texto) ou [vídeo](#vídeo)|
 | **Impacto**   | [Enviar mensagem](/docs/modeling/lexicos/verbs?id=enviar-mensagem)<br>[Editar de mensagem](/docs/modeling/lexicos/verbs?id=editar-mensagem)<br>[Selecionar Mensagem](/docs/modeling/lexicos/verbs?id=selecionar-mensagem)<br>[Definir quanto tempo a mensagem fica visivel](/docs/modeling/lexicos/verbs?id=definir-quanto-tempo-a-mensagem-fica-visivel)<br>[Apagar Mensagem](/docs/modeling/lexicos/verbs?id=apagar-mensagem)<br>[Encaminhar mensagem](/docs/modeling/lexicos/verbs?id=encaminhar-mensagem)|
 
@@ -136,7 +136,7 @@
 |-----------|---------------|
 | **Nome**  |Microfone|
 | **Classificação** | Objeto |
-| **Sinônimos** | |
+| **Sinônimos** | gravador |
 | **Noção**     | O objeto é utilizado para comunicação sonora de [chamada de voz](/docs/modeling/lexicos/verbs?id=chamada-de-voz) e [chamada de vídeo](/docs/modeling/lexicos/verbs?id=chamada-de-vídeo)| 
 | **Impacto**   | [Ligar o microfone](/docs/modeling/lexicos/verbs?id=ligar-microfone)<br>[Desligar microfone](/docs/modeling/lexicos/verbs?id=desligar-microfone)<br>[Fazer chamada](/docs/modeling/lexicos/verbs?id=fazer-chamada)<br>[Enviar áudio](/docs/modeling/lexicos/verbs?id=enviar-áudio)<br>[Enviar mensagem](/docs/modeling/lexicos/verbs?id=enviar-mensagem)|
 
@@ -154,7 +154,7 @@
 |-----------|---------------|
 | **Nome**  |Perfil|
 | **Classificação** | Objeto |
-| **Sinônimos** | |
+| **Sinônimos** | descrição |
 | **Noção**     |Local onde as informações sobre o [usuário](/docs/modeling/lexicos/objects?id=usuário) ficam armazenadas| 
 | **Impacto**   |[Editar Perfil](/docs/modeling/lexicos/verbs?id=editar-perfil)|
 
@@ -173,7 +173,7 @@
 |-----------|---------------|
 | **Nome**  |Usuário|
 | **Classificação** | Objeto |
-| **Sinônimos** ||
+| **Sinônimos** | cliente |
 | **Noção**     |Pessoa que utiliza a aplicação e possui uma [conta de usuário](#conta-de-usuário)| 
 | **Impacto**   | Tem acesso a todas as funcionalidades do aplicativo|
 
@@ -182,7 +182,7 @@
 |-----------|---------------|
 | **Nome**  |   Vídeo    |
 | **Classificação** | Objeto |
-| **Sinônimos** | |
+| **Sinônimos** | videoclipe |
 | **Noção**     | Forma de comunicação audiovisual|
 | **Impacto**   | [Enviar mensagem](/docs/modeling/lexicos/verbs?id=enviar-mensagem)<br>[Selecionar Mensagem](/docs/modeling/lexicos/verbs?id=selecionar-mensagem)<br>[Definir quanto tempo a mensagem fica visivel](/docs/modeling/lexicos/verbs?id=definir-quanto-tempo-a-mensagem-fica-visivel)<br>[Apagar Mensagem](/docs/modeling/lexicos/verbs?id=apagar-mensagem)<br>[Encaminhar mensagem](/docs/modeling/lexicos/verbs?id=encaminhar-mensagem)|
 

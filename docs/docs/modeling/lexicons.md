@@ -8,4 +8,4 @@ Os léxicos podem ser definidos em objetos, estados e verbos.
 
 - [**Objetos**](/docs/modeling/lexicos/objects_versions.md)
 - [**Estados**](/docs/modeling/lexicos/states.md)
-- [**Verbos**](/docs/modeling/lexicos/verbs.md)
+- [**Verbos**](/docs/modeling/lexicos/verbs_versions.md)
