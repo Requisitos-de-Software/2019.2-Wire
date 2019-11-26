@@ -43,12 +43,12 @@
 ## Administrador
 |Objeto|Tipo de Erro|Verificação|Justificativa|
 |---|---|---|---|
-|Administrador|Defeito de Omissão|Possui hyperlink|Falta relacionamento com mensagem|noção: “grupo” não possui hyperlink|
+|Administrador|Defeito de Omissão|Possui hyperlink|noção: “grupo” não possui hyperlink|
 
 ## Perfil
 |Objeto|Tipo de Erro|Verificação|Justificativa|
 |---|---|---|---|
-|Perfil|Defeito de Omissão|Possui hyperlink|Falta relacionamento com mensagem|noção: “usuário” não possui perfil|
+|Perfil|Defeito de Omissão|Possui hyperlink|noção: “usuário” não possui hyperlink|
 
 <!DOCTYPE html>
 <html>
