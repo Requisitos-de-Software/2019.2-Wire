@@ -2,9 +2,10 @@
 
 | Data | Versão | Descrição | Autor |
 | --- | --- | --- | --- |
-| 27/08/2019 | 1.0 | Criação do documento  | Caio Fernandes |
+| 27/08/2019 | 1.0 | Criação do documento  | [Caio Fernandes](https://github.com/caiovfernandes) |
 | 28/08/2019 | 2.0 | Rich Pictures v0, v1, v2, v3, v4  | Grupo |
 | 01/09/2019 | 3.0 | Rich Picture v5 | João Pedro |
+| 25/11/2019 | 4.0 | Rich Picture v6 | [Caio Fernandes](https://github.com/caiovfernandes) |
 
 
 ### O que é uma *Rich Picture*?
@@ -66,6 +67,27 @@ Desenvolver uma *Rich Picture* é um bom exercício de grupo, devido ao fato de 
 <b>Título:</b> <i>Rich Picture</i> v5
 <br>
 <b>Autor:</b> João Pedro José
+
+## Rich Picture v6 - Módulo de Equipes
+<img src="docs/rich_picture/images/equipes.jpg">
+<br>
+<b>Título:</b> <i>Rich Picture</i> v5
+<br>
+<b>Autor:</b> Caio Fernandes
+
+## Rich Picture v6 - Módulo de Comunicação
+<img src="docs/rich_picture/images/comunicacao.jpg">
+<br>
+<b>Título:</b> <i>Rich Picture</i> v5
+<br>
+<b>Autor:</b> Caio Fernandes
+
+## Rich Picture v6 - Módulo de Open Source
+<img src="docs/rich_picture/images/opensource.jpg">
+<br>
+<b>Título:</b> <i>Rich Picture</i> v5
+<br>
+<b>Autor:</b> Caio Fernandes
 
 <!DOCTYPE html>
 <html>
