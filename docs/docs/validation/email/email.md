@@ -20,11 +20,19 @@ Guilherme Mendes.
 
 ![image](https://user-images.githubusercontent.com/37874689/68198908-bac50a80-ff9b-11e9-9e98-5685ffb01004.png)
 
+## Feedback
+
+![image](https://user-images.githubusercontent.com/42192251/69800451-0db56a80-11b4-11ea-8e2e-4d03f7c63532.png)
+
+
 
 <h3>Marco Conti</h3>
 Arquiteto de software, gerente técnico do Wire.</h3>
 
 [https://marcoconti83.github.io/](https://marcoconti83.github.io/)
+
+
+
 
 
 
